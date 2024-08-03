@@ -1,0 +1,199 @@
+[
+    {
+        "Education": {
+            "language": "tr",
+            "phrases": "eğitim,okul,okullar,egitim",
+            "sub-phrases": "lise,üniversite,akademi,yüksekokul"
+        }
+    },
+    {
+        "Certificy": {
+            "Section Name": "certificy",
+            "language": "tr",
+            "phrases": "belge,sertifika,lisans,diploma,eğitimi,katılım belgesi,onay belgesi,sertifikasyon",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Soft Skill": {
+            "language": "tr",
+            "phrases": "beceriler,yetenekler",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Hard Skill": {
+            "language": "tr",
+            "phrases": "yetkinlik,yetenekler",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Language": {
+            "language": "tr",
+            "phrases": "lisan,dil",
+            "sub-phrases": "ülke dilleri"
+        }
+    },
+    {
+        "Work Experience": {
+            "language": "tr",
+            "phrases": "i̇ş deneyimi,i̇ş deneyimleri,tecrübe",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Hobby": {
+            "language": "tr",
+            "phrases": "hobi,hobiler,sanat,kültür,spor,müzik,doğa",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Reference": {
+            "language": "tr",
+            "phrases": "referans,referans mektubu",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Expert": {
+            "language": "tr",
+            "phrases": "dal,bölüm,alan",
+            "sub-phrases": "sağlık,bilim,eğitim,teknoloji"
+        }
+    },
+    {
+        "Abstract": {
+            "language": "tr",
+            "phrases": "hakkında,özgeçmiş,özet",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Voluntary": {
+            "language": "tr",
+            "phrases": "gönüllükler,istemli çalışmalar",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Contact": {
+            "language": "tr",
+            "phrases": "telefon,mail,sosyal medya,web sitesi",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Prize": {
+            "language": "tr",
+            "phrases": "ödül,ödüller",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Prize": {
+            "language": "en",
+            "phrases": "prize,prizes",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Driver License": {
+            "language": "tr",
+            "phrases": "sürücü belgesi,ehliyet",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Education": {
+            "language": "en",
+            "phrases": "education,academy,school,schools",
+            "sub-phrases": "high school, university, academy"
+        }
+    },
+    {
+        "Certificy": {
+            "language": "en",
+            "phrases": "document,certificate,license,education of,diploma,certificate of participation,certificate of approval,certification",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Soft Skill": {
+            "language": "en",
+            "phrases": "skills, abilities",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Hard Skill": {
+            "language": "en",
+            "phrases": "hard skill",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Language": {
+            "language": "en",
+            "phrases": "language, languages",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Work Experience": {
+            "language": "en",
+            "phrases": "work experience",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Hobby": {
+            "language": "en",
+            "phrases": "art,culture,music,sports,nature",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Reference": {
+            "language": "en",
+            "phrases": "reference,reference letter",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Expert": {
+            "language": "en",
+            "phrases": "expert,branch,section,area",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Abstract": {
+            "language": "en",
+            "phrases": "about,summary",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Voluntary": {
+            "language": "en",
+            "phrases": "volunteering,voluntary work",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Contact": {
+            "language": "en",
+            "phrases": "phone,email,social media,website",
+            "sub-phrases": ""
+        }
+    },
+    {
+        "Driver License": {
+            "language": "en",
+            "phrases": "driver's license,driver card",
+            "sub-phrases": ""
+        }
+    }
+]

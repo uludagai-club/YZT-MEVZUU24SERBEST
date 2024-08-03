@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload a Resume</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css">
+    <style>
+        .accordion-container { 
+            text-align: center;
+        }  
+
+        .accordion {
+            background-color: #f7f7f7;
+            color: #333;
+            cursor: pointer;
+            padding: 18px;
+            margin-bottom: 10px;
+            border: none;
+            outline: none;
+            font-size: 15px;
+            transition: 0.4s;
+            width: 100%;
+            max-width: 400px; /* Limiting width */
+            border-radius: 10px; /* Rounded corners */
+        }
+
+        .active, .accordion:hover {
+            background-color: #ddd;
+        }
+
+        .panel {
+            padding: 18px;
+            display: none;
+            background-color: white;
+            overflow: hidden;
+            border-radius: 10px; /* Rounded corners */
+            text-align: left; /* Align text to the left */
+        }
+
+        .panel.show {
+            display: block; 
+        } 
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            background-color: #2590EB;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            color: #fff;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .wrapper {
+            display: flex;
+            flex-direction: column; /* Dikey yönde sıralama */
+            align-items: center;
+            justify-content: center;
+            height: calc(100% - 100px); /* Sayfanın yüksekliğinin %100'ünden 100px çıkarma */
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 400px; /* Tablo genişliği */
+            margin-bottom: 30px; /* Alt kısma olan mesafe */
+            background-color: #fff; /* Tablo arka plan rengi */
+            border: 2px solid #2590EB; /* Tablo çerçeve rengi */
+            border-radius: 10px; /* Rounded corners */
+        }
+
+        td {
+            padding: 10px; /* Hücre içeriğiyle çerçeve arasındaki boşluk */
+            text-align: center; /* Hücre içeriğinin ortalanması */
+        }
+
+        .fa {
+            color: #2590EB; /* Font Awesome simgelerinin rengi */
+            font-size: 60px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mevzuu Resume Checker</h1>
+    <div class="wrapper">
+        <table border="1" id="dataTable">
+            <!-- Table will be populated dynamically -->
+        </table>
+    </div>
+    <ul>
+        {% for key, value in data.items %}
+            <li>{{ key }}: {{ value }}</li>
+        {% endfor %}
+    </ul>
+    <script>
+        const tableData = {
+            "University":"aaaaaa",
+            "asdasdasd":"vdbfdgbfgbfg",
+            "Eti":"Django"
+        };
+
+        const table = document.getElementById("dataTable");
+        for (const [key, value] of Object.entries(tableData)) {
+            const row = table.insertRow();
+            const cell1 = row.insertCell(0);
+            const cell2 = row.insertCell(1);
+            cell1.textContent = key;
+            cell2.textContent = value;
+        };
+    </script>
+</body>
+</html>

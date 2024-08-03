@@ -1,0 +1,7 @@
+result/*
+freedom/*
+*.pyc
+crops
+**.png
+web_site/demo/media/
+.vscode

@@ -1,0 +1,8 @@
+İsim İçin: Ner Analizi (İlk 10 satır text içindeki ismi alırız, dosya isminden çıkartabiliriz.), esseract ile punkto (önemli metin başlığı oldğunu tespit edebiliriz fakat isim olduğunu tespit etmek için yine de ner gerekli), TF-IDF de deneyebiliriz
+
+Tesseract kullanacğız sectionları tespit etmek için bu sectionları anlamlı hale getirmek için phraselerden yararlanacağız
+
+Reg Ex tespiti iletişim bilgileri ve tarih vs. için
+
+Sosyal Medya Hesapları için görüntü işleme ile tespit edilecek ve yakınıdaki text kabul edilecek 
+

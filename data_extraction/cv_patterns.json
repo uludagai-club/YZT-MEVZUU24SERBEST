@@ -1,0 +1,10 @@
+{
+    "Education": "Education:\\s*(.*?UNIVERSITY)",
+    "Eğitim": "Eğitim:\\s*(.*?Üniversite)",
+    "Work Experience": "Work Experience:\\s*(.*)",
+    "Reference": "Reference:\\s*(.*)",
+    "Expert": "Expert:\\s*(.*)",
+    "Abstract": "Abstract:\\s*(.*)",
+    "Voluntary": "Voluntary:\\s*(.*)",
+    "Contact": "Contact:\\s*(.*)"
+}

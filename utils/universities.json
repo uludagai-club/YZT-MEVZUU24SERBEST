@@ -1,0 +1,9092 @@
+[
+ {
+  "University": "Harvard University",
+  "Global Rank": "1",
+  "Global Score": 100,
+  "State": "United States"
+ },
+ {
+  "University": "Massachusetts Institute of Technology (MIT)",
+  "Global Rank": "2",
+  "Global Score": 97.7,
+  "State": "United States"
+ },
+ {
+  "University": "Stanford University",
+  "Global Rank": "3",
+  "Global Score": 95.2,
+  "State": "United States"
+ },
+ {
+  "University": "University of California Berkeley",
+  "Global Rank": "4",
+  "Global Score": 88.7,
+  "State": "United States"
+ },
+ {
+  "University": "University of Oxford",
+  "Global Rank": "5",
+  "Global Score": 86.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Washington Seattle",
+  "Global Rank": "6",
+  "Global Score": 86.6,
+  "State": "United States"
+ },
+ {
+  "University": "Columbia University",
+  "Global Rank": "7",
+  "Global Score": 86.5,
+  "State": "United States"
+ },
+ {
+  "University": "University of Cambridge",
+  "Global Rank": "8",
+  "Global Score": 86.1,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "California Institute of Technology",
+  "Global Rank": "9",
+  "Global Score": 85.6,
+  "State": "United States"
+ },
+ {
+  "University": "Johns Hopkins University",
+  "Global Rank": "10",
+  "Global Score": 84.7,
+  "State": "United States"
+ },
+ {
+  "University": "Yale University",
+  "Global Rank": "11",
+  "Global Score": 84.6,
+  "State": "United States"
+ },
+ {
+  "University": "University College London",
+  "Global Rank": "12",
+  "Global Score": 84.4,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Imperial College London",
+  "Global Rank": "13",
+  "Global Score": 84.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of California Los Angeles",
+  "Global Rank": "14",
+  "Global Score": 84.2,
+  "State": "United States"
+ },
+ {
+  "University": "University of Pennsylvania",
+  "Global Rank": "15",
+  "Global Score": 84,
+  "State": "United States"
+ },
+ {
+  "University": "Princeton University",
+  "Global Rank": "16",
+  "Global Score": 83.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of California San Francisco",
+  "Global Rank": "16",
+  "Global Score": 83.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of Toronto",
+  "Global Rank": "18",
+  "Global Score": 83.8,
+  "State": "Canada"
+ },
+ {
+  "University": "University of Michigan",
+  "Global Rank": "19",
+  "Global Score": 83.4,
+  "State": "United States"
+ },
+ {
+  "University": "University of California San Diego",
+  "Global Rank": "20",
+  "Global Score": 83.3,
+  "State": "United States"
+ },
+ {
+  "University": "Cornell University",
+  "Global Rank": "21",
+  "Global Score": 82.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of Chicago",
+  "Global Rank": "22",
+  "Global Score": 82.5,
+  "State": "United States"
+ },
+ {
+  "University": "Tsinghua University",
+  "Global Rank": "23",
+  "Global Score": 81.3,
+  "State": "China"
+ },
+ {
+  "University": "Northwestern University",
+  "Global Rank": "24",
+  "Global Score": 81.2,
+  "State": "United States"
+ },
+ {
+  "University": "Duke University",
+  "Global Rank": "25",
+  "Global Score": 80.7,
+  "State": "United States"
+ },
+ {
+  "University": "National University of Singapore",
+  "Global Rank": "26",
+  "Global Score": 80.4,
+  "State": "Singapore"
+ },
+ {
+  "University": "University of Melbourne",
+  "Global Rank": "27",
+  "Global Score": 80.3,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Sydney",
+  "Global Rank": "28",
+  "Global Score": 79.9,
+  "State": "Australia"
+ },
+ {
+  "University": "ETH Zurich",
+  "Global Rank": "29",
+  "Global Score": 79.3,
+  "State": "Switzerland"
+ },
+ {
+  "University": "Nanyang Technological University",
+  "Global Rank": "30",
+  "Global Score": 79,
+  "State": "Singapore"
+ },
+ {
+  "University": "New York University",
+  "Global Rank": "31",
+  "Global Score": 78.5,
+  "State": "United States"
+ },
+ {
+  "University": "Washington University (WUSTL)",
+  "Global Rank": "32",
+  "Global Score": 78.1,
+  "State": "United States"
+ },
+ {
+  "University": "King's College London",
+  "Global Rank": "33",
+  "Global Score": 77.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Edinburgh",
+  "Global Rank": "34",
+  "Global Score": 77.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of British Columbia",
+  "Global Rank": "35",
+  "Global Score": 77.5,
+  "State": "Canada"
+ },
+ {
+  "University": "University of Queensland",
+  "Global Rank": "36",
+  "Global Score": 77.2,
+  "State": "Australia"
+ },
+ {
+  "University": "Monash University",
+  "Global Rank": "37",
+  "Global Score": 77,
+  "State": "Australia"
+ },
+ {
+  "University": "University of New South Wales Sydney",
+  "Global Rank": "37",
+  "Global Score": 77,
+  "State": "Australia"
+ },
+ {
+  "University": "Peking University",
+  "Global Rank": "39",
+  "Global Score": 76.8,
+  "State": "China"
+ },
+ {
+  "University": "University of Amsterdam",
+  "Global Rank": "39",
+  "Global Score": 76.8,
+  "State": "Netherlands"
+ },
+ {
+  "University": "University of North Carolina Chapel Hill",
+  "Global Rank": "41",
+  "Global Score": 76.7,
+  "State": "United States"
+ },
+ {
+  "University": "University of Copenhagen",
+  "Global Rank": "42",
+  "Global Score": 76.2,
+  "State": "Denmark"
+ },
+ {
+  "University": "University of Texas Austin",
+  "Global Rank": "43",
+  "Global Score": 75.9,
+  "State": "United States"
+ },
+ {
+  "University": "Utrecht University",
+  "Global Rank": "44",
+  "Global Score": 75.7,
+  "State": "Netherlands"
+ },
+ {
+  "University": "University of Pittsburgh",
+  "Global Rank": "45",
+  "Global Score": 75.6,
+  "State": "United States"
+ },
+ {
+  "University": "Icahn School of Medicine at Mount Sinai",
+  "Global Rank": "46",
+  "Global Score": 75.4,
+  "State": "United States"
+ },
+ {
+  "University": "University of Munich",
+  "Global Rank": "47",
+  "Global Score": 75.3,
+  "State": "Germany"
+ },
+ {
+  "University": "Sorbonne Universite",
+  "Global Rank": "48",
+  "Global Score": 75.2,
+  "State": "France"
+ },
+ {
+  "University": "Universite de Paris",
+  "Global Rank": "48",
+  "Global Score": 75.2,
+  "State": "France"
+ },
+ {
+  "University": "KU Leuven",
+  "Global Rank": "50",
+  "Global Score": 75.1,
+  "State": "Belgium"
+ },
+ {
+  "University": "Georgia Institute of Technology",
+  "Global Rank": "51",
+  "Global Score": 74.9,
+  "State": "United States"
+ },
+ {
+  "University": "Karolinska Institutet",
+  "Global Rank": "51",
+  "Global Score": 74.9,
+  "State": "Sweden"
+ },
+ {
+  "University": "Chinese University of Hong Kong",
+  "Global Rank": "53",
+  "Global Score": 74.7,
+  "State": "Hong Kong"
+ },
+ {
+  "University": "McGill University",
+  "Global Rank": "54",
+  "Global Score": 74.6,
+  "State": "Canada"
+ },
+ {
+  "University": "Ohio State University",
+  "Global Rank": "55",
+  "Global Score": 74.4,
+  "State": "United States"
+ },
+ {
+  "University": "University of Hong Kong",
+  "Global Rank": "55",
+  "Global Score": 74.4,
+  "State": "Hong Kong"
+ },
+ {
+  "University": "Ruprecht Karls University Heidelberg",
+  "Global Rank": "57",
+  "Global Score": 74.3,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Maryland College Park",
+  "Global Rank": "57",
+  "Global Score": 74.3,
+  "State": "United States"
+ },
+ {
+  "University": "University of Minnesota Twin Cities",
+  "Global Rank": "57",
+  "Global Score": 74.3,
+  "State": "United States"
+ },
+ {
+  "University": "Universite Paris Saclay",
+  "Global Rank": "60",
+  "Global Score": 74.1,
+  "State": "France"
+ },
+ {
+  "University": "Humboldt University of Berlin",
+  "Global Rank": "61",
+  "Global Score": 74,
+  "State": "Germany"
+ },
+ {
+  "University": "Australian National University",
+  "Global Rank": "62",
+  "Global Score": 73.9,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Manchester",
+  "Global Rank": "63",
+  "Global Score": 73.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Wisconsin Madison",
+  "Global Rank": "63",
+  "Global Score": 73.8,
+  "State": "United States"
+ },
+ {
+  "University": "Erasmus University Rotterdam",
+  "Global Rank": "65",
+  "Global Score": 73.4,
+  "State": "Netherlands"
+ },
+ {
+  "University": "King Abdulaziz University",
+  "Global Rank": "65",
+  "Global Score": 73.4,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "University of California Santa Barbara",
+  "Global Rank": "67",
+  "Global Score": 73.3,
+  "State": "United States"
+ },
+ {
+  "University": "University of Zurich",
+  "Global Rank": "67",
+  "Global Score": 73.3,
+  "State": "Switzerland"
+ },
+ {
+  "University": "Ecole Polytechnique Federale de Lausanne",
+  "Global Rank": "69",
+  "Global Score": 73.2,
+  "State": "Switzerland"
+ },
+ {
+  "University": "Boston University",
+  "Global Rank": "70",
+  "Global Score": 73.1,
+  "State": "United States"
+ },
+ {
+  "University": "University of Colorado Boulder",
+  "Global Rank": "70",
+  "Global Score": 73.1,
+  "State": "United States"
+ },
+ {
+  "University": "Emory University",
+  "Global Rank": "72",
+  "Global Score": 73,
+  "State": "United States"
+ },
+ {
+  "University": "University of California Davis",
+  "Global Rank": "73",
+  "Global Score": 72.9,
+  "State": "United States"
+ },
+ {
+  "University": "Leiden University",
+  "Global Rank": "74",
+  "Global Score": 72.8,
+  "State": "Netherlands"
+ },
+ {
+  "University": "University of Adelaide",
+  "Global Rank": "74",
+  "Global Score": 72.8,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Glasgow",
+  "Global Rank": "74",
+  "Global Score": 72.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Illinois Urbana-Champaign",
+  "Global Rank": "74",
+  "Global Score": 72.8,
+  "State": "United States"
+ },
+ {
+  "University": "Vanderbilt University",
+  "Global Rank": "78",
+  "Global Score": 72.7,
+  "State": "United States"
+ },
+ {
+  "University": "Technical University of Munich",
+  "Global Rank": "79",
+  "Global Score": 72.6,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Southern California",
+  "Global Rank": "80",
+  "Global Score": 72.5,
+  "State": "United States"
+ },
+ {
+  "University": "University of Tokyo",
+  "Global Rank": "81",
+  "Global Score": 72.4,
+  "State": "Japan"
+ },
+ {
+  "University": "Vrije Universiteit Amsterdam",
+  "Global Rank": "82",
+  "Global Score": 72.3,
+  "State": "Netherlands"
+ },
+ {
+  "University": "University of Western Australia",
+  "Global Rank": "83",
+  "Global Score": 72.2,
+  "State": "Australia"
+ },
+ {
+  "University": "Pennsylvania State University",
+  "Global Rank": "84",
+  "Global Score": 71.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of California Irvine",
+  "Global Rank": "84",
+  "Global Score": 71.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of Barcelona",
+  "Global Rank": "86",
+  "Global Score": 71.8,
+  "State": "Spain"
+ },
+ {
+  "University": "Free University of Berlin",
+  "Global Rank": "87",
+  "Global Score": 71.7,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Groningen",
+  "Global Rank": "88",
+  "Global Score": 71.5,
+  "State": "Netherlands"
+ },
+ {
+  "University": "Shanghai Jiao Tong University",
+  "Global Rank": "89",
+  "Global Score": 71.3,
+  "State": "China"
+ },
+ {
+  "University": "University of Birmingham",
+  "Global Rank": "89",
+  "Global Score": 71.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Oslo",
+  "Global Rank": "89",
+  "Global Score": 71.3,
+  "State": "Norway"
+ },
+ {
+  "University": "Wageningen University & Research",
+  "Global Rank": "89",
+  "Global Score": 71.3,
+  "State": "Netherlands"
+ },
+ {
+  "University": "University of Bristol",
+  "Global Rank": "93",
+  "Global Score": 70.7,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Zhejiang University",
+  "Global Rank": "93",
+  "Global Score": 70.7,
+  "State": "China"
+ },
+ {
+  "University": "Ghent University",
+  "Global Rank": "95",
+  "Global Score": 70.6,
+  "State": "Belgium"
+ },
+ {
+  "University": "Hong Kong University of Science & Technology",
+  "Global Rank": "95",
+  "Global Score": 70.6,
+  "State": "Hong Kong"
+ },
+ {
+  "University": "King Abdullah University of Science & Technology",
+  "Global Rank": "95",
+  "Global Score": 70.6,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "University of Florida",
+  "Global Rank": "98",
+  "Global Score": 70.4,
+  "State": "United States"
+ },
+ {
+  "University": "University of Helsinki",
+  "Global Rank": "99",
+  "Global Score": 70.3,
+  "State": "Finland"
+ },
+ {
+  "University": "Hong Kong Polytechnic University",
+  "Global Rank": "100",
+  "Global Score": 70.2,
+  "State": "Hong Kong"
+ },
+ {
+  "University": "Queen Mary University London",
+  "Global Rank": "100",
+  "Global Score": 70.2,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Science & Technology of China, CAS",
+  "Global Rank": "102",
+  "Global Score": 70.1,
+  "State": "China"
+ },
+ {
+  "University": "Rockefeller University",
+  "Global Rank": "103",
+  "Global Score": 70,
+  "State": "United States"
+ },
+ {
+  "University": "University of Southampton",
+  "Global Rank": "104",
+  "Global Score": 69.7,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of California Santa Cruz",
+  "Global Rank": "105",
+  "Global Score": 69.5,
+  "State": "United States"
+ },
+ {
+  "University": "Radboud University Nijmegen",
+  "Global Rank": "106",
+  "Global Score": 69.4,
+  "State": "Netherlands"
+ },
+ {
+  "University": "University of Bern",
+  "Global Rank": "107",
+  "Global Score": 69.3,
+  "State": "Switzerland"
+ },
+ {
+  "University": "University of Arizona",
+  "Global Rank": "108",
+  "Global Score": 69.2,
+  "State": "United States"
+ },
+ {
+  "University": "Aarhus University",
+  "Global Rank": "109",
+  "Global Score": 69.1,
+  "State": "Denmark"
+ },
+ {
+  "University": "Huazhong University of Science & Technology",
+  "Global Rank": "109",
+  "Global Score": 69.1,
+  "State": "China"
+ },
+ {
+  "University": "University of Geneva",
+  "Global Rank": "109",
+  "Global Score": 69.1,
+  "State": "Switzerland"
+ },
+ {
+  "University": "Lund University",
+  "Global Rank": "112",
+  "Global Score": 69,
+  "State": "Sweden"
+ },
+ {
+  "University": "University of Chinese Academy of Sciences, CAS",
+  "Global Rank": "112",
+  "Global Score": 69,
+  "State": "China"
+ },
+ {
+  "University": "University of Technology Sydney",
+  "Global Rank": "112",
+  "Global Score": 69,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Padua",
+  "Global Rank": "115",
+  "Global Score": 68.9,
+  "State": "Italy"
+ },
+ {
+  "University": "Fudan University",
+  "Global Rank": "116",
+  "Global Score": 68.8,
+  "State": "China"
+ },
+ {
+  "University": "Michigan State University",
+  "Global Rank": "116",
+  "Global Score": 68.8,
+  "State": "United States"
+ },
+ {
+  "University": "Carnegie Mellon University",
+  "Global Rank": "118",
+  "Global Score": 68.7,
+  "State": "United States"
+ },
+ {
+  "University": "University of Virginia",
+  "Global Rank": "119",
+  "Global Score": 68.6,
+  "State": "United States"
+ },
+ {
+  "University": "City University of Hong Kong",
+  "Global Rank": "120",
+  "Global Score": 68.5,
+  "State": "Hong Kong"
+ },
+ {
+  "University": "Universidade de Sao Paulo",
+  "Global Rank": "120",
+  "Global Score": 68.5,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Bologna",
+  "Global Rank": "122",
+  "Global Score": 68.3,
+  "State": "Italy"
+ },
+ {
+  "University": "Nanjing University",
+  "Global Rank": "123",
+  "Global Score": 68.2,
+  "State": "China"
+ },
+ {
+  "University": "University of Auckland",
+  "Global Rank": "123",
+  "Global Score": 68.2,
+  "State": "New Zealand"
+ },
+ {
+  "University": "Sapienza University Rome",
+  "Global Rank": "125",
+  "Global Score": 68,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Cape Town",
+  "Global Rank": "125",
+  "Global Score": 68,
+  "State": "South Africa"
+ },
+ {
+  "University": "Stockholm University",
+  "Global Rank": "127",
+  "Global Score": 67.8,
+  "State": "Sweden"
+ },
+ {
+  "University": "Uppsala University",
+  "Global Rank": "127",
+  "Global Score": 67.8,
+  "State": "Sweden"
+ },
+ {
+  "University": "Brown University",
+  "Global Rank": "129",
+  "Global Score": 67.5,
+  "State": "United States"
+ },
+ {
+  "University": "London School of Hygiene & Tropical Medicine",
+  "Global Rank": "129",
+  "Global Score": 67.5,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Seoul National University (SNU)",
+  "Global Rank": "129",
+  "Global Score": 67.5,
+  "State": "South Korea"
+ },
+ {
+  "University": "Sun Yat Sen University",
+  "Global Rank": "129",
+  "Global Score": 67.5,
+  "State": "China"
+ },
+ {
+  "University": "University of Texas Southwestern Medical Center Dallas",
+  "Global Rank": "133",
+  "Global Score": 67.4,
+  "State": "United States"
+ },
+ {
+  "University": "University of Sheffield",
+  "Global Rank": "134",
+  "Global Score": 67.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Weizmann Institute of Science",
+  "Global Rank": "134",
+  "Global Score": 67.3,
+  "State": "Israel"
+ },
+ {
+  "University": "Baylor College of Medicine",
+  "Global Rank": "136",
+  "Global Score": 67.1,
+  "State": "United States"
+ },
+ {
+  "University": "University of Alberta",
+  "Global Rank": "136",
+  "Global Score": 67.1,
+  "State": "Canada"
+ },
+ {
+  "University": "McMaster University",
+  "Global Rank": "138",
+  "Global Score": 67,
+  "State": "Canada"
+ },
+ {
+  "University": "University of Bonn",
+  "Global Rank": "138",
+  "Global Score": 67,
+  "State": "Germany"
+ },
+ {
+  "University": "Kyoto University",
+  "Global Rank": "140",
+  "Global Score": 66.9,
+  "State": "Japan"
+ },
+ {
+  "University": "Purdue University West Lafayette Campus",
+  "Global Rank": "140",
+  "Global Score": 66.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of Leeds",
+  "Global Rank": "140",
+  "Global Score": 66.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Autonomous University of Barcelona",
+  "Global Rank": "143",
+  "Global Score": 66.8,
+  "State": "Spain"
+ },
+ {
+  "University": "Rutgers State University New Brunswick",
+  "Global Rank": "143",
+  "Global Score": 66.8,
+  "State": "United States"
+ },
+ {
+  "University": "University of Nottingham",
+  "Global Rank": "145",
+  "Global Score": 66.7,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Gothenburg",
+  "Global Rank": "146",
+  "Global Score": 66.6,
+  "State": "Sweden"
+ },
+ {
+  "University": "University of Liverpool",
+  "Global Rank": "146",
+  "Global Score": 66.6,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Texas A&M University College Station",
+  "Global Rank": "148",
+  "Global Score": 66.5,
+  "State": "United States"
+ },
+ {
+  "University": "University of Hamburg",
+  "Global Rank": "149",
+  "Global Score": 66.3,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Basel",
+  "Global Rank": "150",
+  "Global Score": 66.2,
+  "State": "Switzerland"
+ },
+ {
+  "University": "Wuhan University",
+  "Global Rank": "150",
+  "Global Score": 66.2,
+  "State": "China"
+ },
+ {
+  "University": "Cardiff University",
+  "Global Rank": "152",
+  "Global Score": 66.1,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Case Western Reserve University",
+  "Global Rank": "152",
+  "Global Score": 66.1,
+  "State": "United States"
+ },
+ {
+  "University": "Indiana University Bloomington",
+  "Global Rank": "152",
+  "Global Score": 66.1,
+  "State": "United States"
+ },
+ {
+  "University": "University of Exeter",
+  "Global Rank": "152",
+  "Global Score": 66.1,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Arizona State University-Tempe",
+  "Global Rank": "156",
+  "Global Score": 65.9,
+  "State": "United States"
+ },
+ {
+  "University": "Newcastle University - UK",
+  "Global Rank": "156",
+  "Global Score": 65.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Universite de Montreal",
+  "Global Rank": "156",
+  "Global Score": 65.9,
+  "State": "Canada"
+ },
+ {
+  "University": "University of Milan",
+  "Global Rank": "156",
+  "Global Score": 65.9,
+  "State": "Italy"
+ },
+ {
+  "University": "Curtin University",
+  "Global Rank": "160",
+  "Global Score": 65.8,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Alabama Birmingham",
+  "Global Rank": "160",
+  "Global Score": 65.8,
+  "State": "United States"
+ },
+ {
+  "University": "University of Massachusetts Amherst",
+  "Global Rank": "160",
+  "Global Score": 65.8,
+  "State": "United States"
+ },
+ {
+  "University": "University of Gottingen",
+  "Global Rank": "163",
+  "Global Score": 65.7,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Warwick",
+  "Global Rank": "163",
+  "Global Score": 65.7,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Oregon Health & Science University",
+  "Global Rank": "165",
+  "Global Score": 65.5,
+  "State": "United States"
+ },
+ {
+  "University": "Technical University of Denmark",
+  "Global Rank": "165",
+  "Global Score": 65.5,
+  "State": "Denmark"
+ },
+ {
+  "University": "University of Utah",
+  "Global Rank": "167",
+  "Global Score": 65.4,
+  "State": "United States"
+ },
+ {
+  "University": "Hunan University",
+  "Global Rank": "168",
+  "Global Score": 65.3,
+  "State": "China"
+ },
+ {
+  "University": "Delft University of Technology",
+  "Global Rank": "169",
+  "Global Score": 65.1,
+  "State": "Netherlands"
+ },
+ {
+  "University": "University of Rochester",
+  "Global Rank": "170",
+  "Global Score": 64.8,
+  "State": "United States"
+ },
+ {
+  "University": "Queensland University of Technology (QUT)",
+  "Global Rank": "171",
+  "Global Score": 64.7,
+  "State": "Australia"
+ },
+ {
+  "University": "Universite Catholique Louvain",
+  "Global Rank": "171",
+  "Global Score": 64.7,
+  "State": "Belgium"
+ },
+ {
+  "University": "Cankaya University",
+  "Global Rank": "173",
+  "Global Score": 64.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "University of Colorado Anschutz Medical Campus",
+  "Global Rank": "174",
+  "Global Score": 64.4,
+  "State": "United States"
+ },
+ {
+  "University": "Tel Aviv University",
+  "Global Rank": "175",
+  "Global Score": 64.2,
+  "State": "Israel"
+ },
+ {
+  "University": "University of Calgary",
+  "Global Rank": "175",
+  "Global Score": 64.2,
+  "State": "Canada"
+ },
+ {
+  "University": "University of Sussex",
+  "Global Rank": "175",
+  "Global Score": 64.2,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Aix-Marseille Universite",
+  "Global Rank": "178",
+  "Global Score": 64.1,
+  "State": "France"
+ },
+ {
+  "University": "University of Freiburg",
+  "Global Rank": "178",
+  "Global Score": 64.1,
+  "State": "Germany"
+ },
+ {
+  "University": "Rice University",
+  "Global Rank": "180",
+  "Global Score": 64,
+  "State": "United States"
+ },
+ {
+  "University": "University of Iowa",
+  "Global Rank": "180",
+  "Global Score": 64,
+  "State": "United States"
+ },
+ {
+  "University": "Eberhard Karls University of Tubingen",
+  "Global Rank": "182",
+  "Global Score": 63.9,
+  "State": "Germany"
+ },
+ {
+  "University": "Lancaster University",
+  "Global Rank": "182",
+  "Global Score": 63.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Lausanne",
+  "Global Rank": "182",
+  "Global Score": 63.9,
+  "State": "Switzerland"
+ },
+ {
+  "University": "University of Naples Federico II",
+  "Global Rank": "185",
+  "Global Score": 63.7,
+  "State": "Italy"
+ },
+ {
+  "University": "Maastricht University",
+  "Global Rank": "186",
+  "Global Score": 63.6,
+  "State": "Netherlands"
+ },
+ {
+  "University": "Technische Universitat Dresden",
+  "Global Rank": "186",
+  "Global Score": 63.6,
+  "State": "Germany"
+ },
+ {
+  "University": "Universite Grenoble Alpes (UGA)",
+  "Global Rank": "186",
+  "Global Score": 63.6,
+  "State": "France"
+ },
+ {
+  "University": "University of California Riverside",
+  "Global Rank": "186",
+  "Global Score": 63.6,
+  "State": "United States"
+ },
+ {
+  "University": "University of Wollongong",
+  "Global Rank": "186",
+  "Global Score": 63.6,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Waterloo",
+  "Global Rank": "191",
+  "Global Score": 63.5,
+  "State": "Canada"
+ },
+ {
+  "University": "Macquarie University",
+  "Global Rank": "192",
+  "Global Score": 63.4,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Wurzburg",
+  "Global Rank": "192",
+  "Global Score": 63.4,
+  "State": "Germany"
+ },
+ {
+  "University": "Northeastern University",
+  "Global Rank": "194",
+  "Global Score": 63.3,
+  "State": "United States"
+ },
+ {
+  "University": "Universite de Montpellier",
+  "Global Rank": "194",
+  "Global Score": 63.3,
+  "State": "France"
+ },
+ {
+  "University": "Harbin Institute of Technology",
+  "Global Rank": "196",
+  "Global Score": 63.2,
+  "State": "China"
+ },
+ {
+  "University": "Pompeu Fabra University",
+  "Global Rank": "196",
+  "Global Score": 63.2,
+  "State": "Spain"
+ },
+ {
+  "University": "Tongji University",
+  "Global Rank": "196",
+  "Global Score": 63.2,
+  "State": "China"
+ },
+ {
+  "University": "RWTH Aachen University",
+  "Global Rank": "199",
+  "Global Score": 63,
+  "State": "Germany"
+ },
+ {
+  "University": "Swinburne University of Technology",
+  "Global Rank": "199",
+  "Global Score": 63,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Bergen",
+  "Global Rank": "199",
+  "Global Score": 63,
+  "State": "Norway"
+ },
+ {
+  "University": "Universidade de Lisboa",
+  "Global Rank": "202",
+  "Global Score": 62.9,
+  "State": "Portugal"
+ },
+ {
+  "University": "Griffith University",
+  "Global Rank": "203",
+  "Global Score": 62.8,
+  "State": "Australia"
+ },
+ {
+  "University": "National Taiwan University",
+  "Global Rank": "203",
+  "Global Score": 62.8,
+  "State": "Taiwan"
+ },
+ {
+  "University": "University of Cincinnati",
+  "Global Rank": "203",
+  "Global Score": 62.8,
+  "State": "United States"
+ },
+ {
+  "University": "Medical University of Vienna",
+  "Global Rank": "206",
+  "Global Score": 62.7,
+  "State": "Austria"
+ },
+ {
+  "University": "State University of New York (SUNY) Stony Brook",
+  "Global Rank": "206",
+  "Global Score": 62.7,
+  "State": "United States"
+ },
+ {
+  "University": "University of Vienna",
+  "Global Rank": "208",
+  "Global Score": 62.6,
+  "State": "Austria"
+ },
+ {
+  "University": "Central South University",
+  "Global Rank": "209",
+  "Global Score": 62.5,
+  "State": "China"
+ },
+ {
+  "University": "Royal Melbourne Institute of Technology (RMIT)",
+  "Global Rank": "209",
+  "Global Score": 62.5,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Turin",
+  "Global Rank": "209",
+  "Global Score": 62.5,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Valencia",
+  "Global Rank": "212",
+  "Global Score": 62.4,
+  "State": "Spain"
+ },
+ {
+  "University": "King Saud University",
+  "Global Rank": "213",
+  "Global Score": 62.3,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Southern University of Science & Technology",
+  "Global Rank": "213",
+  "Global Score": 62.3,
+  "State": "China"
+ },
+ {
+  "University": "Trinity College Dublin",
+  "Global Rank": "215",
+  "Global Score": 62.2,
+  "State": "Ireland"
+ },
+ {
+  "University": "University of Ottawa",
+  "Global Rank": "215",
+  "Global Score": 62.2,
+  "State": "Canada"
+ },
+ {
+  "University": "Deakin University",
+  "Global Rank": "217",
+  "Global Score": 62.1,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Leicester",
+  "Global Rank": "217",
+  "Global Score": 62.1,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "South China University of Technology",
+  "Global Rank": "219",
+  "Global Score": 61.9,
+  "State": "China"
+ },
+ {
+  "University": "University of Munster",
+  "Global Rank": "219",
+  "Global Score": 61.9,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Pisa",
+  "Global Rank": "219",
+  "Global Score": 61.9,
+  "State": "Italy"
+ },
+ {
+  "University": "Xi'an Jiaotong University",
+  "Global Rank": "219",
+  "Global Score": 61.9,
+  "State": "China"
+ },
+ {
+  "University": "Ton Duc Thang University",
+  "Global Rank": "223",
+  "Global Score": 61.8,
+  "State": "Vietnam"
+ },
+ {
+  "University": "University of Antwerp",
+  "Global Rank": "223",
+  "Global Score": 61.8,
+  "State": "Belgium"
+ },
+ {
+  "University": "University of Tennessee Knoxville",
+  "Global Rank": "225",
+  "Global Score": 61.7,
+  "State": "United States"
+ },
+ {
+  "University": "Charles University Prague",
+  "Global Rank": "226",
+  "Global Score": 61.6,
+  "State": "Czech Republic"
+ },
+ {
+  "University": "Karlsruhe Institute of Technology",
+  "Global Rank": "226",
+  "Global Score": 61.6,
+  "State": "Germany"
+ },
+ {
+  "University": "Universite Libre de Bruxelles",
+  "Global Rank": "226",
+  "Global Score": 61.6,
+  "State": "Belgium"
+ },
+ {
+  "University": "Universiti Malaya",
+  "Global Rank": "226",
+  "Global Score": 61.6,
+  "State": "Malaysia"
+ },
+ {
+  "University": "North Carolina State University",
+  "Global Rank": "230",
+  "Global Score": 61.5,
+  "State": "United States"
+ },
+ {
+  "University": "Autonomous University of Madrid",
+  "Global Rank": "231",
+  "Global Score": 61.4,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Electronic Science & Technology of China",
+  "Global Rank": "231",
+  "Global Score": 61.4,
+  "State": "China"
+ },
+ {
+  "University": "University of Newcastle",
+  "Global Rank": "231",
+  "Global Score": 61.4,
+  "State": "Australia"
+ },
+ {
+  "University": "Southeast University - China",
+  "Global Rank": "234",
+  "Global Score": 61.3,
+  "State": "China"
+ },
+ {
+  "University": "Western Sydney University",
+  "Global Rank": "234",
+  "Global Score": 61.3,
+  "State": "Australia"
+ },
+ {
+  "University": "Goethe University Frankfurt",
+  "Global Rank": "236",
+  "Global Score": 61.2,
+  "State": "Germany"
+ },
+ {
+  "University": "London School Economics & Political Science",
+  "Global Rank": "236",
+  "Global Score": 61.2,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University College Dublin",
+  "Global Rank": "236",
+  "Global Score": 61.2,
+  "State": "Ireland"
+ },
+ {
+  "University": "Tufts University",
+  "Global Rank": "239",
+  "Global Score": 61.1,
+  "State": "United States"
+ },
+ {
+  "University": "Royal Institute of Technology",
+  "Global Rank": "240",
+  "Global Score": 61,
+  "State": "Sweden"
+ },
+ {
+  "University": "Florida State University",
+  "Global Rank": "241",
+  "Global Score": 60.9,
+  "State": "United States"
+ },
+ {
+  "University": "Hebrew University of Jerusalem",
+  "Global Rank": "241",
+  "Global Score": 60.9,
+  "State": "Israel"
+ },
+ {
+  "University": "Johannes Gutenberg University of Mainz",
+  "Global Rank": "241",
+  "Global Score": 60.9,
+  "State": "Germany"
+ },
+ {
+  "University": "Ecole Normale Superieure (ENS)",
+  "Global Rank": "244",
+  "Global Score": 60.8,
+  "State": "France"
+ },
+ {
+  "University": "University of Cologne",
+  "Global Rank": "244",
+  "Global Score": 60.8,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Witwatersrand",
+  "Global Rank": "244",
+  "Global Score": 60.8,
+  "State": "South Africa"
+ },
+ {
+  "University": "Universidade do Porto",
+  "Global Rank": "247",
+  "Global Score": 60.7,
+  "State": "Portugal"
+ },
+ {
+  "University": "University of Otago",
+  "Global Rank": "247",
+  "Global Score": 60.7,
+  "State": "New Zealand"
+ },
+ {
+  "University": "Xiamen University",
+  "Global Rank": "247",
+  "Global Score": 60.7,
+  "State": "China"
+ },
+ {
+  "University": "National & Kapodistrian University of Athens",
+  "Global Rank": "250",
+  "Global Score": 60.6,
+  "State": "Greece"
+ },
+ {
+  "University": "University of Florence",
+  "Global Rank": "250",
+  "Global Score": 60.6,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Illinois Chicago",
+  "Global Rank": "250",
+  "Global Score": 60.6,
+  "State": "United States"
+ },
+ {
+  "University": "Beihang University",
+  "Global Rank": "253",
+  "Global Score": 60.5,
+  "State": "China"
+ },
+ {
+  "University": "University of Miami",
+  "Global Rank": "253",
+  "Global Score": 60.5,
+  "State": "United States"
+ },
+ {
+  "University": "University of Oregon",
+  "Global Rank": "253",
+  "Global Score": 60.5,
+  "State": "United States"
+ },
+ {
+  "University": "Nankai University",
+  "Global Rank": "256",
+  "Global Score": 60.3,
+  "State": "China"
+ },
+ {
+  "University": "University of Erlangen Nuremberg",
+  "Global Rank": "256",
+  "Global Score": 60.3,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Tartu",
+  "Global Rank": "256",
+  "Global Score": 60.3,
+  "State": "Estonia"
+ },
+ {
+  "University": "University of Trento",
+  "Global Rank": "256",
+  "Global Score": 60.3,
+  "State": "Italy"
+ },
+ {
+  "University": "Tianjin University",
+  "Global Rank": "260",
+  "Global Score": 60.2,
+  "State": "China"
+ },
+ {
+  "University": "Dartmouth College",
+  "Global Rank": "261",
+  "Global Score": 60.1,
+  "State": "United States"
+ },
+ {
+  "University": "University of Southern Denmark",
+  "Global Rank": "261",
+  "Global Score": 60.1,
+  "State": "Denmark"
+ },
+ {
+  "University": "Iowa State University",
+  "Global Rank": "263",
+  "Global Score": 60,
+  "State": "United States"
+ },
+ {
+  "University": "Sungkyunkwan University (SKKU)",
+  "Global Rank": "263",
+  "Global Score": 60,
+  "State": "South Korea"
+ },
+ {
+  "University": "Virginia Polytechnic Institute & State University",
+  "Global Rank": "265",
+  "Global Score": 59.9,
+  "State": "United States"
+ },
+ {
+  "University": "Yeshiva University",
+  "Global Rank": "265",
+  "Global Score": 59.9,
+  "State": "United States"
+ },
+ {
+  "University": "Aalborg University",
+  "Global Rank": "267",
+  "Global Score": 59.8,
+  "State": "Denmark"
+ },
+ {
+  "University": "Norwegian University of Science & Technology (NTNU)",
+  "Global Rank": "267",
+  "Global Score": 59.8,
+  "State": "Norway"
+ },
+ {
+  "University": "Beijing Normal University",
+  "Global Rank": "269",
+  "Global Score": 59.7,
+  "State": "China"
+ },
+ {
+  "University": "University of Texas Health Science Center Houston",
+  "Global Rank": "269",
+  "Global Score": 59.7,
+  "State": "United States"
+ },
+ {
+  "University": "George Washington University",
+  "Global Rank": "271",
+  "Global Score": 59.6,
+  "State": "United States"
+ },
+ {
+  "University": "Shenzhen University",
+  "Global Rank": "271",
+  "Global Score": 59.6,
+  "State": "China"
+ },
+ {
+  "University": "Aalto University",
+  "Global Rank": "273",
+  "Global Score": 59.5,
+  "State": "Finland"
+ },
+ {
+  "University": "University of Milano-Bicocca",
+  "Global Rank": "273",
+  "Global Score": 59.5,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Tasmania",
+  "Global Rank": "273",
+  "Global Score": 59.5,
+  "State": "Australia"
+ },
+ {
+  "University": "Colorado State University",
+  "Global Rank": "276",
+  "Global Score": 59.4,
+  "State": "United States"
+ },
+ {
+  "University": "Durham University",
+  "Global Rank": "277",
+  "Global Score": 59.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Universite de Strasbourg",
+  "Global Rank": "277",
+  "Global Score": 59.3,
+  "State": "France"
+ },
+ {
+  "University": "University of Aberdeen",
+  "Global Rank": "277",
+  "Global Score": 59.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Kiel",
+  "Global Rank": "280",
+  "Global Score": 59.2,
+  "State": "Germany"
+ },
+ {
+  "University": "University of York - UK",
+  "Global Rank": "280",
+  "Global Score": 59.2,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "China University of Geosciences",
+  "Global Rank": "282",
+  "Global Score": 59.1,
+  "State": "China"
+ },
+ {
+  "University": "International School for Advanced Studies (SISSA)",
+  "Global Rank": "282",
+  "Global Score": 59.1,
+  "State": "Italy"
+ },
+ {
+  "University": "Korea Advanced Institute of Science & Technology (KAIST)",
+  "Global Rank": "282",
+  "Global Score": 59.1,
+  "State": "South Korea"
+ },
+ {
+  "University": "Universite Toulouse III - Paul Sabatier",
+  "Global Rank": "282",
+  "Global Score": 59.1,
+  "State": "France"
+ },
+ {
+  "University": "Osaka University",
+  "Global Rank": "286",
+  "Global Score": 59,
+  "State": "Japan"
+ },
+ {
+  "University": "State University of New York (SUNY) Buffalo",
+  "Global Rank": "286",
+  "Global Score": 59,
+  "State": "United States"
+ },
+ {
+  "University": "Tohoku University",
+  "Global Rank": "286",
+  "Global Score": 59,
+  "State": "Japan"
+ },
+ {
+  "University": "University of Maryland Baltimore",
+  "Global Rank": "286",
+  "Global Score": 59,
+  "State": "United States"
+ },
+ {
+  "University": "Korea University",
+  "Global Rank": "290",
+  "Global Score": 58.9,
+  "State": "South Korea"
+ },
+ {
+  "University": "Universite de Bordeaux",
+  "Global Rank": "290",
+  "Global Score": 58.9,
+  "State": "France"
+ },
+ {
+  "University": "Vrije Universiteit Brussel",
+  "Global Rank": "292",
+  "Global Score": 58.8,
+  "State": "Belgium"
+ },
+ {
+  "University": "Yonsei University",
+  "Global Rank": "292",
+  "Global Score": 58.8,
+  "State": "South Korea"
+ },
+ {
+  "University": "Universidade Estadual de Campinas",
+  "Global Rank": "294",
+  "Global Score": 58.7,
+  "State": "Brazil"
+ },
+ {
+  "University": "Queens University Belfast",
+  "Global Rank": "295",
+  "Global Score": 58.6,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Pavia",
+  "Global Rank": "295",
+  "Global Score": 58.6,
+  "State": "Italy"
+ },
+ {
+  "University": "Polytechnic University of Milan",
+  "Global Rank": "297",
+  "Global Score": 58.5,
+  "State": "Italy"
+ },
+ {
+  "University": "Beijing Institute of Technology",
+  "Global Rank": "298",
+  "Global Score": 58.4,
+  "State": "China"
+ },
+ {
+  "University": "Oregon State University",
+  "Global Rank": "299",
+  "Global Score": 58.3,
+  "State": "United States"
+ },
+ {
+  "University": "University of Duisburg Essen",
+  "Global Rank": "300",
+  "Global Score": 58.2,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Genoa",
+  "Global Rank": "300",
+  "Global Score": 58.2,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Rome Tor Vergata",
+  "Global Rank": "300",
+  "Global Score": 58.2,
+  "State": "Italy"
+ },
+ {
+  "University": "Western University (University of Western Ontario)",
+  "Global Rank": "300",
+  "Global Score": 58.2,
+  "State": "Canada"
+ },
+ {
+  "University": "La Trobe University",
+  "Global Rank": "304",
+  "Global Score": 58.1,
+  "State": "Australia"
+ },
+ {
+  "University": "Sichuan University",
+  "Global Rank": "304",
+  "Global Score": 58.1,
+  "State": "China"
+ },
+ {
+  "University": "Stellenbosch University",
+  "Global Rank": "304",
+  "Global Score": 58.1,
+  "State": "South Africa"
+ },
+ {
+  "University": "Technical University of Berlin",
+  "Global Rank": "304",
+  "Global Score": 58.1,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Kansas",
+  "Global Rank": "304",
+  "Global Score": 58.1,
+  "State": "United States"
+ },
+ {
+  "University": "Temple University",
+  "Global Rank": "309",
+  "Global Score": 58,
+  "State": "United States"
+ },
+ {
+  "University": "University of Connecticut",
+  "Global Rank": "309",
+  "Global Score": 58,
+  "State": "United States"
+ },
+ {
+  "University": "Soochow University - China",
+  "Global Rank": "311",
+  "Global Score": 57.9,
+  "State": "China"
+ },
+ {
+  "University": "University of New Mexico",
+  "Global Rank": "311",
+  "Global Score": 57.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of Granada",
+  "Global Rank": "313",
+  "Global Score": 57.8,
+  "State": "Spain"
+ },
+ {
+  "University": "Dalhousie University",
+  "Global Rank": "314",
+  "Global Score": 57.7,
+  "State": "Canada"
+ },
+ {
+  "University": "Pontificia Universidad Catolica de Chile",
+  "Global Rank": "314",
+  "Global Score": 57.7,
+  "State": "Chile"
+ },
+ {
+  "University": "Vita-Salute San Raffaele University",
+  "Global Rank": "314",
+  "Global Score": 57.7,
+  "State": "Italy"
+ },
+ {
+  "University": "Duy Tan University",
+  "Global Rank": "317",
+  "Global Score": 57.6,
+  "State": "Vietnam"
+ },
+ {
+  "University": "Simon Fraser University",
+  "Global Rank": "317",
+  "Global Score": 57.6,
+  "State": "Canada"
+ },
+ {
+  "University": "Technion Israel Institute of Technology",
+  "Global Rank": "317",
+  "Global Score": 57.6,
+  "State": "Israel"
+ },
+ {
+  "University": "University of South Florida",
+  "Global Rank": "317",
+  "Global Score": 57.6,
+  "State": "United States"
+ },
+ {
+  "University": "East China Normal University",
+  "Global Rank": "321",
+  "Global Score": 57.5,
+  "State": "China"
+ },
+ {
+  "University": "Ulm University",
+  "Global Rank": "322",
+  "Global Score": 57.4,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Notre Dame",
+  "Global Rank": "322",
+  "Global Score": 57.4,
+  "State": "United States"
+ },
+ {
+  "University": "Georgetown University",
+  "Global Rank": "324",
+  "Global Score": 57.3,
+  "State": "United States"
+ },
+ {
+  "University": "James Cook University",
+  "Global Rank": "324",
+  "Global Score": 57.3,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Georgia",
+  "Global Rank": "324",
+  "Global Score": 57.3,
+  "State": "United States"
+ },
+ {
+  "University": "University of Victoria",
+  "Global Rank": "324",
+  "Global Score": 57.3,
+  "State": "Canada"
+ },
+ {
+  "University": "Washington State University",
+  "Global Rank": "328",
+  "Global Score": 57.2,
+  "State": "United States"
+ },
+ {
+  "University": "University of Tehran",
+  "Global Rank": "329",
+  "Global Score": 57.1,
+  "State": "Iran"
+ },
+ {
+  "University": "Linkoping University",
+  "Global Rank": "330",
+  "Global Score": 57,
+  "State": "Sweden"
+ },
+ {
+  "University": "University of East Anglia",
+  "Global Rank": "330",
+  "Global Score": 57,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "China Agricultural University",
+  "Global Rank": "332",
+  "Global Score": 56.9,
+  "State": "China"
+ },
+ {
+  "University": "Medical University of Graz",
+  "Global Rank": "333",
+  "Global Score": 56.8,
+  "State": "Austria"
+ },
+ {
+  "University": "Nagoya University",
+  "Global Rank": "333",
+  "Global Score": 56.8,
+  "State": "Japan"
+ },
+ {
+  "University": "Northwestern Polytechnical University",
+  "Global Rank": "333",
+  "Global Score": 56.8,
+  "State": "China"
+ },
+ {
+  "University": "University of Reading",
+  "Global Rank": "333",
+  "Global Score": 56.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Chalmers University of Technology",
+  "Global Rank": "337",
+  "Global Score": 56.7,
+  "State": "Sweden"
+ },
+ {
+  "University": "Complutense University of Madrid",
+  "Global Rank": "337",
+  "Global Score": 56.7,
+  "State": "Spain"
+ },
+ {
+  "University": "Jagiellonian University",
+  "Global Rank": "339",
+  "Global Score": 56.6,
+  "State": "Poland"
+ },
+ {
+  "University": "University of Dundee",
+  "Global Rank": "339",
+  "Global Score": 56.6,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Universite Claude Bernard Lyon 1",
+  "Global Rank": "341",
+  "Global Score": 56.5,
+  "State": "France"
+ },
+ {
+  "University": "Eindhoven University of Technology",
+  "Global Rank": "342",
+  "Global Score": 56.4,
+  "State": "Netherlands"
+ },
+ {
+  "University": "University of Turku",
+  "Global Rank": "342",
+  "Global Score": 56.4,
+  "State": "Finland"
+ },
+ {
+  "University": "Wuhan University of Technology",
+  "Global Rank": "342",
+  "Global Score": 56.4,
+  "State": "China"
+ },
+ {
+  "University": "University of Warsaw",
+  "Global Rank": "345",
+  "Global Score": 56.3,
+  "State": "Poland"
+ },
+ {
+  "University": "Leipzig University",
+  "Global Rank": "346",
+  "Global Score": 56.2,
+  "State": "Germany"
+ },
+ {
+  "University": "Ruhr University Bochum",
+  "Global Rank": "346",
+  "Global Score": 56.2,
+  "State": "Germany"
+ },
+ {
+  "University": "University of South Carolina Columbia",
+  "Global Rank": "346",
+  "Global Score": 56.2,
+  "State": "United States"
+ },
+ {
+  "University": "Kyushu University",
+  "Global Rank": "349",
+  "Global Score": 56.1,
+  "State": "Japan"
+ },
+ {
+  "University": "University of Ibadan",
+  "Global Rank": "349",
+  "Global Score": 56.1,
+  "State": "Nigeria"
+ },
+ {
+  "University": "University of Texas Dallas",
+  "Global Rank": "349",
+  "Global Score": 56.1,
+  "State": "United States"
+ },
+ {
+  "University": "Drexel University",
+  "Global Rank": "352",
+  "Global Score": 56,
+  "State": "United States"
+ },
+ {
+  "University": "University of Delaware",
+  "Global Rank": "352",
+  "Global Score": 56,
+  "State": "United States"
+ },
+ {
+  "University": "University of St Andrews",
+  "Global Rank": "352",
+  "Global Score": 56,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Lomonosov Moscow State University",
+  "Global Rank": "355",
+  "Global Score": 55.9,
+  "State": "Russia"
+ },
+ {
+  "University": "College de France",
+  "Global Rank": "356",
+  "Global Score": 55.8,
+  "State": "France"
+ },
+ {
+  "University": "Swedish University of Agricultural Sciences",
+  "Global Rank": "356",
+  "Global Score": 55.8,
+  "State": "Sweden"
+ },
+ {
+  "University": "University of Colorado Denver",
+  "Global Rank": "356",
+  "Global Score": 55.8,
+  "State": "United States"
+ },
+ {
+  "University": "University of Kentucky",
+  "Global Rank": "356",
+  "Global Score": 55.8,
+  "State": "United States"
+ },
+ {
+  "University": "Tokyo Institute of Technology",
+  "Global Rank": "360",
+  "Global Score": 55.7,
+  "State": "Japan"
+ },
+ {
+  "University": "Ulsan National Institute of Science & Technology (UNIST)",
+  "Global Rank": "360",
+  "Global Score": 55.7,
+  "State": "South Korea"
+ },
+ {
+  "University": "University of Liege",
+  "Global Rank": "360",
+  "Global Score": 55.7,
+  "State": "Belgium"
+ },
+ {
+  "University": "Aristotle University of Thessaloniki",
+  "Global Rank": "363",
+  "Global Score": 55.6,
+  "State": "Greece"
+ },
+ {
+  "University": "Cairo University",
+  "Global Rank": "363",
+  "Global Score": 55.6,
+  "State": "Egypt"
+ },
+ {
+  "University": "University of South Australia",
+  "Global Rank": "363",
+  "Global Score": 55.6,
+  "State": "Australia"
+ },
+ {
+  "University": "Catholic University of the Sacred Heart",
+  "Global Rank": "366",
+  "Global Score": 55.5,
+  "State": "Italy"
+ },
+ {
+  "University": "Umea University",
+  "Global Rank": "366",
+  "Global Score": 55.5,
+  "State": "Sweden"
+ },
+ {
+  "University": "Eotvos Lorand University",
+  "Global Rank": "368",
+  "Global Score": 55.4,
+  "State": "Hungary"
+ },
+ {
+  "University": "Shandong University",
+  "Global Rank": "368",
+  "Global Score": 55.4,
+  "State": "China"
+ },
+ {
+  "University": "University of Kwazulu Natal",
+  "Global Rank": "370",
+  "Global Score": 55.3,
+  "State": "South Africa"
+ },
+ {
+  "University": "University of Surrey",
+  "Global Rank": "370",
+  "Global Score": 55.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Auckland University of Technology",
+  "Global Rank": "372",
+  "Global Score": 55.2,
+  "State": "New Zealand"
+ },
+ {
+  "University": "Baylor University",
+  "Global Rank": "372",
+  "Global Score": 55.2,
+  "State": "United States"
+ },
+ {
+  "University": "Changsha University of Science & Technology",
+  "Global Rank": "372",
+  "Global Score": 55.2,
+  "State": "China"
+ },
+ {
+  "University": "Syracuse University",
+  "Global Rank": "372",
+  "Global Score": 55.2,
+  "State": "United States"
+ },
+ {
+  "University": "University of Manitoba",
+  "Global Rank": "372",
+  "Global Score": 55.2,
+  "State": "Canada"
+ },
+ {
+  "University": "Bogazici University",
+  "Global Rank": "377",
+  "Global Score": 55.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Shandong University of Science & Technology",
+  "Global Rank": "377",
+  "Global Score": 55.1,
+  "State": "China"
+ },
+ {
+  "University": "Chongqing University",
+  "Global Rank": "379",
+  "Global Score": 55,
+  "State": "China"
+ },
+ {
+  "University": "Friedrich Schiller University of Jena",
+  "Global Rank": "379",
+  "Global Score": 55,
+  "State": "Germany"
+ },
+ {
+  "University": "Medical University of Innsbruck",
+  "Global Rank": "379",
+  "Global Score": 55,
+  "State": "Austria"
+ },
+ {
+  "University": "Universiti Teknologi Malaysia",
+  "Global Rank": "379",
+  "Global Score": 55,
+  "State": "Malaysia"
+ },
+ {
+  "University": "University of Macau",
+  "Global Rank": "379",
+  "Global Score": 55,
+  "State": "Macau"
+ },
+ {
+  "University": "University of Strathclyde",
+  "Global Rank": "379",
+  "Global Score": 55,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Polytechnic University of Catalonia",
+  "Global Rank": "385",
+  "Global Score": 54.9,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Perugia",
+  "Global Rank": "385",
+  "Global Score": 54.9,
+  "State": "Italy"
+ },
+ {
+  "University": "Wayne State University",
+  "Global Rank": "385",
+  "Global Score": 54.9,
+  "State": "United States"
+ },
+ {
+  "University": "Zhengzhou University",
+  "Global Rank": "385",
+  "Global Score": 54.9,
+  "State": "China"
+ },
+ {
+  "University": "Louisiana State University",
+  "Global Rank": "389",
+  "Global Score": 54.8,
+  "State": "United States"
+ },
+ {
+  "University": "Universite de Lille",
+  "Global Rank": "389",
+  "Global Score": 54.8,
+  "State": "France"
+ },
+ {
+  "University": "University of Navarra",
+  "Global Rank": "389",
+  "Global Score": 54.8,
+  "State": "Spain"
+ },
+ {
+  "University": "Dalian University of Technology",
+  "Global Rank": "392",
+  "Global Score": 54.7,
+  "State": "China"
+ },
+ {
+  "University": "University of Mississippi",
+  "Global Rank": "392",
+  "Global Score": 54.7,
+  "State": "United States"
+ },
+ {
+  "University": "Islamic Azad University",
+  "Global Rank": "394",
+  "Global Score": 54.6,
+  "State": "Iran"
+ },
+ {
+  "University": "National Tsing Hua University",
+  "Global Rank": "394",
+  "Global Score": 54.6,
+  "State": "Taiwan"
+ },
+ {
+  "University": "University of Hawaii Manoa",
+  "Global Rank": "394",
+  "Global Score": 54.6,
+  "State": "United States"
+ },
+ {
+  "University": "Laval University",
+  "Global Rank": "397",
+  "Global Score": 54.5,
+  "State": "Canada"
+ },
+ {
+  "University": "Sejong University",
+  "Global Rank": "397",
+  "Global Score": 54.5,
+  "State": "South Korea"
+ },
+ {
+  "University": "University College Cork",
+  "Global Rank": "397",
+  "Global Score": 54.5,
+  "State": "Ireland"
+ },
+ {
+  "University": "King Fahd University of Petroleum & Minerals",
+  "Global Rank": "400",
+  "Global Score": 54.4,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Nantes Universite",
+  "Global Rank": "400",
+  "Global Score": 54.4,
+  "State": "France"
+ },
+ {
+  "University": "Tampere University",
+  "Global Rank": "400",
+  "Global Score": 54.4,
+  "State": "Finland"
+ },
+ {
+  "University": "Universidad de Chile",
+  "Global Rank": "400",
+  "Global Score": 54.4,
+  "State": "Chile"
+ },
+ {
+  "University": "University of Twente",
+  "Global Rank": "400",
+  "Global Score": 54.4,
+  "State": "Netherlands"
+ },
+ {
+  "University": "Heinrich Heine University Dusseldorf",
+  "Global Rank": "405",
+  "Global Score": 54.3,
+  "State": "Germany"
+ },
+ {
+  "University": "Jefferson University",
+  "Global Rank": "405",
+  "Global Score": 54.3,
+  "State": "United States"
+ },
+ {
+  "University": "State University of New York (SUNY) Albany",
+  "Global Rank": "405",
+  "Global Score": 54.3,
+  "State": "United States"
+ },
+ {
+  "University": "Universidad Nacional Autonoma de Mexico",
+  "Global Rank": "405",
+  "Global Score": 54.3,
+  "State": "Mexico"
+ },
+ {
+  "University": "Brandeis University",
+  "Global Rank": "409",
+  "Global Score": 54.2,
+  "State": "United States"
+ },
+ {
+  "University": "Pohang University of Science & Technology (POSTECH)",
+  "Global Rank": "409",
+  "Global Score": 54.2,
+  "State": "South Korea"
+ },
+ {
+  "University": "University of Bath",
+  "Global Rank": "409",
+  "Global Score": 54.2,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Nebraska Lincoln",
+  "Global Rank": "409",
+  "Global Score": 54.2,
+  "State": "United States"
+ },
+ {
+  "University": "Universidade Federal do Rio de Janeiro",
+  "Global Rank": "413",
+  "Global Score": 54.1,
+  "State": "Brazil"
+ },
+ {
+  "University": "Universite de Lorraine",
+  "Global Rank": "413",
+  "Global Score": 54.1,
+  "State": "France"
+ },
+ {
+  "University": "University of Central Florida",
+  "Global Rank": "413",
+  "Global Score": 54.1,
+  "State": "United States"
+ },
+ {
+  "University": "Australian Catholic University",
+  "Global Rank": "416",
+  "Global Score": 54,
+  "State": "Australia"
+ },
+ {
+  "University": "Scuola Normale Superiore di Pisa",
+  "Global Rank": "416",
+  "Global Score": 54,
+  "State": "Italy"
+ },
+ {
+  "University": "St Georges University London",
+  "Global Rank": "416",
+  "Global Score": 54,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Technische Universitat Wien",
+  "Global Rank": "416",
+  "Global Score": 54,
+  "State": "Austria"
+ },
+ {
+  "University": "University of Trieste",
+  "Global Rank": "416",
+  "Global Score": 54,
+  "State": "Italy"
+ },
+ {
+  "University": "Beijing University of Chemical Technology",
+  "Global Rank": "421",
+  "Global Score": 53.9,
+  "State": "China"
+ },
+ {
+  "University": "Jilin University",
+  "Global Rank": "421",
+  "Global Score": 53.9,
+  "State": "China"
+ },
+ {
+  "University": "Shanghai University",
+  "Global Rank": "421",
+  "Global Score": 53.9,
+  "State": "China"
+ },
+ {
+  "University": "University of Johannesburg",
+  "Global Rank": "421",
+  "Global Score": 53.9,
+  "State": "South Africa"
+ },
+ {
+  "University": "University of Texas Health San Antonio",
+  "Global Rank": "421",
+  "Global Score": 53.9,
+  "State": "United States"
+ },
+ {
+  "University": "Flinders University South Australia",
+  "Global Rank": "426",
+  "Global Score": 53.8,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Buenos Aires",
+  "Global Rank": "426",
+  "Global Score": 53.8,
+  "State": "Argentina"
+ },
+ {
+  "University": "York University - Canada",
+  "Global Rank": "426",
+  "Global Score": 53.8,
+  "State": "Canada"
+ },
+ {
+  "University": "Queens University - Canada",
+  "Global Rank": "429",
+  "Global Score": 53.7,
+  "State": "Canada"
+ },
+ {
+  "University": "Universidade de Coimbra",
+  "Global Rank": "429",
+  "Global Score": 53.7,
+  "State": "Portugal"
+ },
+ {
+  "University": "University of Innsbruck",
+  "Global Rank": "429",
+  "Global Score": 53.7,
+  "State": "Austria"
+ },
+ {
+  "University": "Hokkaido University",
+  "Global Rank": "432",
+  "Global Score": 53.6,
+  "State": "Japan"
+ },
+ {
+  "University": "Medical University of South Carolina",
+  "Global Rank": "432",
+  "Global Score": 53.6,
+  "State": "United States"
+ },
+ {
+  "University": "Singapore University of Technology & Design",
+  "Global Rank": "432",
+  "Global Score": 53.6,
+  "State": "Singapore"
+ },
+ {
+  "University": "Universidade Federal do Rio Grande do Sul",
+  "Global Rank": "432",
+  "Global Score": 53.6,
+  "State": "Brazil"
+ },
+ {
+  "University": "Universita degli Studi di Bari Aldo Moro",
+  "Global Rank": "432",
+  "Global Score": 53.6,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Houston",
+  "Global Rank": "432",
+  "Global Score": 53.6,
+  "State": "United States"
+ },
+ {
+  "University": "University of Tsukuba",
+  "Global Rank": "432",
+  "Global Score": 53.6,
+  "State": "Japan"
+ },
+ {
+  "University": "Hannover Medical School",
+  "Global Rank": "439",
+  "Global Score": 53.5,
+  "State": "Germany"
+ },
+ {
+  "University": "Virginia Commonwealth University",
+  "Global Rank": "439",
+  "Global Score": 53.5,
+  "State": "United States"
+ },
+ {
+  "University": "COMSATS University Islamabad (CUI)",
+  "Global Rank": "441",
+  "Global Score": 53.4,
+  "State": "Pakistan"
+ },
+ {
+  "University": "Hanyang University",
+  "Global Rank": "441",
+  "Global Score": 53.4,
+  "State": "South Korea"
+ },
+ {
+  "University": "National Technical University of Athens",
+  "Global Rank": "441",
+  "Global Score": 53.4,
+  "State": "Greece"
+ },
+ {
+  "University": "University of Massachusetts Worcester",
+  "Global Rank": "441",
+  "Global Score": 53.4,
+  "State": "United States"
+ },
+ {
+  "University": "University of Saskatchewan",
+  "Global Rank": "441",
+  "Global Score": 53.4,
+  "State": "Canada"
+ },
+ {
+  "University": "University of Science & Technology Beijing",
+  "Global Rank": "441",
+  "Global Score": 53.4,
+  "State": "China"
+ },
+ {
+  "University": "Mansoura University",
+  "Global Rank": "447",
+  "Global Score": 53.3,
+  "State": "Egypt"
+ },
+ {
+  "University": "ShanghaiTech University",
+  "Global Rank": "447",
+  "Global Score": 53.3,
+  "State": "China"
+ },
+ {
+  "University": "University of Oulu",
+  "Global Rank": "447",
+  "Global Score": 53.3,
+  "State": "Finland"
+ },
+ {
+  "University": "Tulane University",
+  "Global Rank": "450",
+  "Global Score": 53.2,
+  "State": "United States"
+ },
+ {
+  "University": "University of Ljubljana",
+  "Global Rank": "450",
+  "Global Score": 53.2,
+  "State": "Slovenia"
+ },
+ {
+  "University": "Tata Institute of Fundamental Research (TIFR)",
+  "Global Rank": "452",
+  "Global Score": 53.1,
+  "State": "India"
+ },
+ {
+  "University": "University of Iceland",
+  "Global Rank": "452",
+  "Global Score": 53.1,
+  "State": "Iceland"
+ },
+ {
+  "University": "University of Missouri Columbia",
+  "Global Rank": "452",
+  "Global Score": 53.1,
+  "State": "United States"
+ },
+ {
+  "University": "University of Potsdam",
+  "Global Rank": "452",
+  "Global Score": 53.1,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Pretoria",
+  "Global Rank": "452",
+  "Global Score": 53.1,
+  "State": "South Africa"
+ },
+ {
+  "University": "University of Siena",
+  "Global Rank": "452",
+  "Global Score": 53.1,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Southern Queensland",
+  "Global Rank": "452",
+  "Global Score": 53.1,
+  "State": "Australia"
+ },
+ {
+  "University": "Institut National Polytechnique de Grenoble",
+  "Global Rank": "459",
+  "Global Score": 53,
+  "State": "France"
+ },
+ {
+  "University": "University of Belgrade",
+  "Global Rank": "459",
+  "Global Score": 53,
+  "State": "Serbia"
+ },
+ {
+  "University": "University of Catania",
+  "Global Rank": "461",
+  "Global Score": 52.9,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Oklahoma - Norman",
+  "Global Rank": "461",
+  "Global Score": 52.9,
+  "State": "United States"
+ },
+ {
+  "University": "Swansea University",
+  "Global Rank": "463",
+  "Global Score": 52.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Salerno",
+  "Global Rank": "463",
+  "Global Score": 52.8,
+  "State": "Italy"
+ },
+ {
+  "University": "Wake Forest University",
+  "Global Rank": "463",
+  "Global Score": 52.8,
+  "State": "United States"
+ },
+ {
+  "University": "University of Basque Country",
+  "Global Rank": "466",
+  "Global Score": 52.7,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Canterbury",
+  "Global Rank": "466",
+  "Global Score": 52.7,
+  "State": "New Zealand"
+ },
+ {
+  "University": "Florida International University",
+  "Global Rank": "468",
+  "Global Score": 52.6,
+  "State": "United States"
+ },
+ {
+  "University": "Nanjing University of Information Science & Technology",
+  "Global Rank": "468",
+  "Global Score": 52.6,
+  "State": "China"
+ },
+ {
+  "University": "Universidade Federal de Minas Gerais",
+  "Global Rank": "468",
+  "Global Score": 52.6,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Verona",
+  "Global Rank": "468",
+  "Global Score": 52.6,
+  "State": "Italy"
+ },
+ {
+  "University": "American University of Beirut",
+  "Global Rank": "472",
+  "Global Score": 52.4,
+  "State": "Lebanon"
+ },
+ {
+  "University": "Humanitas University",
+  "Global Rank": "472",
+  "Global Score": 52.4,
+  "State": "Italy"
+ },
+ {
+  "University": "Texas Tech University",
+  "Global Rank": "472",
+  "Global Score": 52.4,
+  "State": "United States"
+ },
+ {
+  "University": "Justus Liebig University Giessen",
+  "Global Rank": "475",
+  "Global Score": 52.3,
+  "State": "Germany"
+ },
+ {
+  "University": "Moscow Institute of Physics & Technology",
+  "Global Rank": "475",
+  "Global Score": 52.3,
+  "State": "Russia"
+ },
+ {
+  "University": "UiT The Arctic University of Tromso",
+  "Global Rank": "475",
+  "Global Score": 52.3,
+  "State": "Norway"
+ },
+ {
+  "University": "Aga Khan University",
+  "Global Rank": "478",
+  "Global Score": 52.2,
+  "State": "Pakistan"
+ },
+ {
+  "University": "George Mason University",
+  "Global Rank": "478",
+  "Global Score": 52.2,
+  "State": "United States"
+ },
+ {
+  "University": "Qatar University",
+  "Global Rank": "478",
+  "Global Score": 52.2,
+  "State": "Qatar"
+ },
+ {
+  "University": "Universite Cote d'Azur",
+  "Global Rank": "478",
+  "Global Score": 52.2,
+  "State": "France"
+ },
+ {
+  "University": "Quaid I Azam University",
+  "Global Rank": "482",
+  "Global Score": 52.1,
+  "State": "Pakistan"
+ },
+ {
+  "University": "Nanjing Agricultural University",
+  "Global Rank": "483",
+  "Global Score": 52,
+  "State": "China"
+ },
+ {
+  "University": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+  "Global Rank": "483",
+  "Global Score": 52,
+  "State": "Russia"
+ },
+ {
+  "University": "Brunel University",
+  "Global Rank": "485",
+  "Global Score": 51.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Rush University",
+  "Global Rank": "486",
+  "Global Score": 51.8,
+  "State": "United States"
+ },
+ {
+  "University": "North West University - South Africa",
+  "Global Rank": "487",
+  "Global Score": 51.7,
+  "State": "South Africa"
+ },
+ {
+  "University": "Universidade Nova de Lisboa",
+  "Global Rank": "487",
+  "Global Score": 51.7,
+  "State": "Portugal"
+ },
+ {
+  "University": "University of Bielefeld",
+  "Global Rank": "487",
+  "Global Score": 51.7,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Eastern Finland",
+  "Global Rank": "487",
+  "Global Score": 51.7,
+  "State": "Finland"
+ },
+ {
+  "University": "University of Hannover",
+  "Global Rank": "487",
+  "Global Score": 51.7,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Massachusetts Boston",
+  "Global Rank": "487",
+  "Global Score": 51.7,
+  "State": "United States"
+ },
+ {
+  "University": "Mekelle University",
+  "Global Rank": "493",
+  "Global Score": 51.6,
+  "State": "Ethiopia"
+ },
+ {
+  "University": "Universite de Rennes 1",
+  "Global Rank": "493",
+  "Global Score": 51.6,
+  "State": "France"
+ },
+ {
+  "University": "Edith Cowan University",
+  "Global Rank": "495",
+  "Global Score": 51.5,
+  "State": "Australia"
+ },
+ {
+  "University": "Victoria University Wellington",
+  "Global Rank": "495",
+  "Global Score": 51.5,
+  "State": "New Zealand"
+ },
+ {
+  "University": "Liverpool John Moores University",
+  "Global Rank": "497",
+  "Global Score": 51.4,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Universidade Estadual Paulista",
+  "Global Rank": "497",
+  "Global Score": 51.4,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Guelph",
+  "Global Rank": "497",
+  "Global Score": 51.4,
+  "State": "Canada"
+ },
+ {
+  "University": "Indiana University-Purdue University Indianapolis",
+  "Global Rank": "500",
+  "Global Score": 51.3,
+  "State": "United States"
+ },
+ {
+  "University": "Huazhong Agricultural University",
+  "Global Rank": "501",
+  "Global Score": 51.2,
+  "State": "China"
+ },
+ {
+  "University": "University of Parma",
+  "Global Rank": "501",
+  "Global Score": 51.2,
+  "State": "Italy"
+ },
+ {
+  "University": "University of West Scotland",
+  "Global Rank": "501",
+  "Global Score": 51.2,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Georgia State University",
+  "Global Rank": "504",
+  "Global Score": 51.1,
+  "State": "United States"
+ },
+ {
+  "University": "Polytechnic University of Turin",
+  "Global Rank": "504",
+  "Global Score": 51.1,
+  "State": "Italy"
+ },
+ {
+  "University": "Universiti Sains Malaysia",
+  "Global Rank": "504",
+  "Global Score": 51.1,
+  "State": "Malaysia"
+ },
+ {
+  "University": "China Medical University Taiwan",
+  "Global Rank": "507",
+  "Global Score": 51,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Kansas State University",
+  "Global Rank": "507",
+  "Global Score": 51,
+  "State": "United States"
+ },
+ {
+  "University": "Universidade do Minho",
+  "Global Rank": "507",
+  "Global Score": 51,
+  "State": "Portugal"
+ },
+ {
+  "University": "University of Regensburg",
+  "Global Rank": "510",
+  "Global Score": 50.9,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Vermont",
+  "Global Rank": "510",
+  "Global Score": 50.9,
+  "State": "United States"
+ },
+ {
+  "University": "Central China Normal University",
+  "Global Rank": "512",
+  "Global Score": 50.7,
+  "State": "China"
+ },
+ {
+  "University": "China University of Petroleum",
+  "Global Rank": "512",
+  "Global Score": 50.7,
+  "State": "China"
+ },
+ {
+  "University": "Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI)",
+  "Global Rank": "512",
+  "Global Score": 50.7,
+  "State": "France"
+ },
+ {
+  "University": "Mahidol University",
+  "Global Rank": "512",
+  "Global Score": 50.7,
+  "State": "Thailand"
+ },
+ {
+  "University": "University of Alabama Tuscaloosa",
+  "Global Rank": "512",
+  "Global Score": 50.7,
+  "State": "United States"
+ },
+ {
+  "University": "Keio University",
+  "Global Rank": "517",
+  "Global Score": 50.6,
+  "State": "Japan"
+ },
+ {
+  "University": "Tehran University of Medical Sciences",
+  "Global Rank": "517",
+  "Global Score": 50.6,
+  "State": "Iran"
+ },
+ {
+  "University": "University of Zagreb",
+  "Global Rank": "517",
+  "Global Score": 50.6,
+  "State": "Croatia"
+ },
+ {
+  "University": "Kyung Hee University",
+  "Global Rank": "520",
+  "Global Score": 50.5,
+  "State": "South Korea"
+ },
+ {
+  "University": "Martin Luther University Halle Wittenberg",
+  "Global Rank": "520",
+  "Global Score": 50.5,
+  "State": "Germany"
+ },
+ {
+  "University": "Renmin University of China",
+  "Global Rank": "520",
+  "Global Score": 50.5,
+  "State": "China"
+ },
+ {
+  "University": "University of Jyvaskyla",
+  "Global Rank": "520",
+  "Global Score": 50.5,
+  "State": "Finland"
+ },
+ {
+  "University": "University of Sevilla",
+  "Global Rank": "520",
+  "Global Score": 50.5,
+  "State": "Spain"
+ },
+ {
+  "University": "Universidade de Aveiro",
+  "Global Rank": "525",
+  "Global Score": 50.4,
+  "State": "Portugal"
+ },
+ {
+  "University": "Carleton University",
+  "Global Rank": "526",
+  "Global Score": 50.3,
+  "State": "Canada"
+ },
+ {
+  "University": "Istanbul Bilgi University",
+  "Global Rank": "526",
+  "Global Score": 50.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Loughborough University",
+  "Global Rank": "526",
+  "Global Score": 50.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Brescia",
+  "Global Rank": "526",
+  "Global Score": 50.3,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Natural Resources & Life Sciences, Vienna",
+  "Global Rank": "526",
+  "Global Score": 50.3,
+  "State": "Austria"
+ },
+ {
+  "University": "Fuzhou University",
+  "Global Rank": "531",
+  "Global Score": 50.2,
+  "State": "China"
+ },
+ {
+  "University": "Institut Agro",
+  "Global Rank": "531",
+  "Global Score": 50.2,
+  "State": "France"
+ },
+ {
+  "University": "Nanjing University of Science & Technology",
+  "Global Rank": "531",
+  "Global Score": 50.2,
+  "State": "China"
+ },
+ {
+  "University": "Tilburg University",
+  "Global Rank": "531",
+  "Global Score": 50.2,
+  "State": "Netherlands"
+ },
+ {
+  "University": "University of Bremen",
+  "Global Rank": "531",
+  "Global Score": 50.2,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Santiago De Compostela",
+  "Global Rank": "531",
+  "Global Score": 50.2,
+  "State": "Spain"
+ },
+ {
+  "University": "Universite Clermont Auvergne (UCA)",
+  "Global Rank": "537",
+  "Global Score": 50.1,
+  "State": "France"
+ },
+ {
+  "University": "University of Fribourg",
+  "Global Rank": "537",
+  "Global Score": 50.1,
+  "State": "Switzerland"
+ },
+ {
+  "University": "West Virginia University",
+  "Global Rank": "537",
+  "Global Score": 50.1,
+  "State": "United States"
+ },
+ {
+  "University": "Ain Shams University",
+  "Global Rank": "540",
+  "Global Score": 50,
+  "State": "Egypt"
+ },
+ {
+  "University": "Jinan University",
+  "Global Rank": "540",
+  "Global Score": 50,
+  "State": "China"
+ },
+ {
+  "University": "Lanzhou University",
+  "Global Rank": "540",
+  "Global Score": 50,
+  "State": "China"
+ },
+ {
+  "University": "Northern Arizona University",
+  "Global Rank": "540",
+  "Global Score": 50,
+  "State": "United States"
+ },
+ {
+  "University": "Bocconi University",
+  "Global Rank": "544",
+  "Global Score": 49.9,
+  "State": "Italy"
+ },
+ {
+  "University": "Jordan University of Science & Technology",
+  "Global Rank": "544",
+  "Global Score": 49.9,
+  "State": "Jordan"
+ },
+ {
+  "University": "University of Wisconsin Milwaukee",
+  "Global Rank": "544",
+  "Global Score": 49.9,
+  "State": "United States"
+ },
+ {
+  "University": "Chulalongkorn University",
+  "Global Rank": "547",
+  "Global Score": 49.8,
+  "State": "Thailand"
+ },
+ {
+  "University": "Middle East Technical University",
+  "Global Rank": "547",
+  "Global Score": 49.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Philipps University Marburg",
+  "Global Rank": "547",
+  "Global Score": 49.8,
+  "State": "Germany"
+ },
+ {
+  "University": "Universiti Putra Malaysia",
+  "Global Rank": "547",
+  "Global Score": 49.8,
+  "State": "Malaysia"
+ },
+ {
+  "University": "Guangzhou University",
+  "Global Rank": "551",
+  "Global Score": 49.6,
+  "State": "China"
+ },
+ {
+  "University": "Indian Institute of Science (IISC) - Bangalore",
+  "Global Rank": "551",
+  "Global Score": 49.6,
+  "State": "India"
+ },
+ {
+  "University": "Ollscoil na Gaillimhe-University of Galway",
+  "Global Rank": "551",
+  "Global Score": 49.6,
+  "State": "Ireland"
+ },
+ {
+  "University": "Hacettepe University",
+  "Global Rank": "554",
+  "Global Score": 49.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "London Business School",
+  "Global Rank": "554",
+  "Global Score": 49.5,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Universita della Campania Vanvitelli",
+  "Global Rank": "554",
+  "Global Score": 49.5,
+  "State": "Italy"
+ },
+ {
+  "University": "Universitat de les Illes Balears",
+  "Global Rank": "554",
+  "Global Score": 49.5,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Konstanz",
+  "Global Rank": "558",
+  "Global Score": 49.4,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Plymouth",
+  "Global Rank": "558",
+  "Global Score": 49.4,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Portsmouth",
+  "Global Rank": "558",
+  "Global Score": 49.4,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "HSE University (National Research University Higher School of Economics)",
+  "Global Rank": "561",
+  "Global Score": 49.3,
+  "State": "Russia"
+ },
+ {
+  "University": "Liverpool School of Tropical Medicine",
+  "Global Rank": "561",
+  "Global Score": 49.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Universita di Modena e Reggio Emilia",
+  "Global Rank": "561",
+  "Global Score": 49.3,
+  "State": "Italy"
+ },
+ {
+  "University": "Colorado School of Mines",
+  "Global Rank": "564",
+  "Global Score": 49.2,
+  "State": "United States"
+ },
+ {
+  "University": "Ecole Normale Superieure de Lyon (ENS de LYON)",
+  "Global Rank": "564",
+  "Global Score": 49.2,
+  "State": "France"
+ },
+ {
+  "University": "Roma Tre University",
+  "Global Rank": "564",
+  "Global Score": 49.2,
+  "State": "Italy"
+ },
+ {
+  "University": "Universidad Politecnica de Madrid",
+  "Global Rank": "564",
+  "Global Score": 49.2,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Ferrara",
+  "Global Rank": "564",
+  "Global Score": 49.2,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Sharjah",
+  "Global Rank": "564",
+  "Global Score": 49.2,
+  "State": "United Arab Emirates"
+ },
+ {
+  "University": "China University of Mining & Technology",
+  "Global Rank": "570",
+  "Global Score": 49.1,
+  "State": "China"
+ },
+ {
+  "University": "Universitat Politecnica de Valencia",
+  "Global Rank": "570",
+  "Global Score": 49.1,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Luxembourg",
+  "Global Rank": "570",
+  "Global Score": 49.1,
+  "State": "Luxembourg"
+ },
+ {
+  "University": "Addis Ababa University",
+  "Global Rank": "573",
+  "Global Score": 49,
+  "State": "Ethiopia"
+ },
+ {
+  "University": "Politecnico di Bari",
+  "Global Rank": "573",
+  "Global Score": 49,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Palermo",
+  "Global Rank": "573",
+  "Global Score": 49,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Kent",
+  "Global Rank": "576",
+  "Global Score": 48.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Texas Arlington",
+  "Global Rank": "576",
+  "Global Score": 48.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of Texas at San Antonio (UTSA)",
+  "Global Rank": "576",
+  "Global Score": 48.9,
+  "State": "United States"
+ },
+ {
+  "University": "Auburn University",
+  "Global Rank": "579",
+  "Global Score": 48.8,
+  "State": "United States"
+ },
+ {
+  "University": "National Yang Ming Chiao Tung University",
+  "Global Rank": "579",
+  "Global Score": 48.8,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Novosibirsk State University",
+  "Global Rank": "579",
+  "Global Score": 48.8,
+  "State": "Russia"
+ },
+ {
+  "University": "Waseda University",
+  "Global Rank": "579",
+  "Global Score": 48.8,
+  "State": "Japan"
+ },
+ {
+  "University": "Hong Kong Baptist University",
+  "Global Rank": "583",
+  "Global Score": 48.7,
+  "State": "Hong Kong"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Bombay",
+  "Global Rank": "583",
+  "Global Score": 48.7,
+  "State": "India"
+ },
+ {
+  "University": "Kobe University",
+  "Global Rank": "583",
+  "Global Score": 48.7,
+  "State": "Japan"
+ },
+ {
+  "University": "Universidade Federal de Sao Paulo (UNIFESP)",
+  "Global Rank": "583",
+  "Global Score": 48.7,
+  "State": "Brazil"
+ },
+ {
+  "University": "Tomsk State University",
+  "Global Rank": "587",
+  "Global Score": 48.6,
+  "State": "Russia"
+ },
+ {
+  "University": "University of Lagos",
+  "Global Rank": "587",
+  "Global Score": 48.6,
+  "State": "Nigeria"
+ },
+ {
+  "University": "University of New Hampshire",
+  "Global Rank": "587",
+  "Global Score": 48.6,
+  "State": "United States"
+ },
+ {
+  "University": "American University",
+  "Global Rank": "590",
+  "Global Score": 48.5,
+  "State": "United States"
+ },
+ {
+  "University": "Ben Gurion University",
+  "Global Rank": "590",
+  "Global Score": 48.5,
+  "State": "Israel"
+ },
+ {
+  "University": "Northwest A&F University - China",
+  "Global Rank": "590",
+  "Global Score": 48.5,
+  "State": "China"
+ },
+ {
+  "University": "Peking Union Medical College",
+  "Global Rank": "593",
+  "Global Score": 48.4,
+  "State": "China"
+ },
+ {
+  "University": "Royal Holloway University London",
+  "Global Rank": "593",
+  "Global Score": 48.4,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "San Diego State University",
+  "Global Rank": "593",
+  "Global Score": 48.4,
+  "State": "United States"
+ },
+ {
+  "University": "Universiti Kebangsaan Malaysia",
+  "Global Rank": "593",
+  "Global Score": 48.4,
+  "State": "Malaysia"
+ },
+ {
+  "University": "University of Canberra",
+  "Global Rank": "593",
+  "Global Score": 48.4,
+  "State": "Australia"
+ },
+ {
+  "University": "Babol Noshirvani University of Technology",
+  "Global Rank": "598",
+  "Global Score": 48.3,
+  "State": "Iran"
+ },
+ {
+  "University": "Beijing Jiaotong University",
+  "Global Rank": "598",
+  "Global Score": 48.3,
+  "State": "China"
+ },
+ {
+  "University": "Jiangnan University",
+  "Global Rank": "598",
+  "Global Score": 48.3,
+  "State": "China"
+ },
+ {
+  "University": "Massey University",
+  "Global Rank": "598",
+  "Global Score": 48.3,
+  "State": "New Zealand"
+ },
+ {
+  "University": "Rutgers State University Newark",
+  "Global Rank": "598",
+  "Global Score": 48.3,
+  "State": "United States"
+ },
+ {
+  "University": "Sharif University of Technology",
+  "Global Rank": "598",
+  "Global Score": 48.3,
+  "State": "Iran"
+ },
+ {
+  "University": "University of the Andes Colombia",
+  "Global Rank": "598",
+  "Global Score": 48.3,
+  "State": "Colombia"
+ },
+ {
+  "University": "AgroParisTech",
+  "Global Rank": "605",
+  "Global Score": 48.2,
+  "State": "France"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Madras",
+  "Global Rank": "605",
+  "Global Score": 48.2,
+  "State": "India"
+ },
+ {
+  "University": "Masaryk University Brno",
+  "Global Rank": "605",
+  "Global Score": 48.2,
+  "State": "Czech Republic"
+ },
+ {
+  "University": "University Hohenheim",
+  "Global Rank": "605",
+  "Global Score": 48.2,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Crete",
+  "Global Rank": "605",
+  "Global Score": 48.2,
+  "State": "Greece"
+ },
+ {
+  "University": "University of Oklahoma Health Sciences Center",
+  "Global Rank": "605",
+  "Global Score": 48.2,
+  "State": "United States"
+ },
+ {
+  "University": "Alexandria University",
+  "Global Rank": "611",
+  "Global Score": 48.1,
+  "State": "Egypt"
+ },
+ {
+  "University": "Montana State University Bozeman",
+  "Global Rank": "611",
+  "Global Score": 48.1,
+  "State": "United States"
+ },
+ {
+  "University": "Palacky University Olomouc",
+  "Global Rank": "611",
+  "Global Score": 48.1,
+  "State": "Czech Republic"
+ },
+ {
+  "University": "Universidad de Cantabria",
+  "Global Rank": "611",
+  "Global Score": 48.1,
+  "State": "Spain"
+ },
+ {
+  "University": "Dortmund University of Technology",
+  "Global Rank": "615",
+  "Global Score": 48,
+  "State": "Germany"
+ },
+ {
+  "University": "Medical College of Wisconsin",
+  "Global Rank": "615",
+  "Global Score": 48,
+  "State": "United States"
+ },
+ {
+  "University": "Technical University of Darmstadt",
+  "Global Rank": "615",
+  "Global Score": 48,
+  "State": "Germany"
+ },
+ {
+  "University": "Boston College",
+  "Global Rank": "618",
+  "Global Score": 47.9,
+  "State": "United States"
+ },
+ {
+  "University": "Nanjing Tech University",
+  "Global Rank": "618",
+  "Global Score": 47.9,
+  "State": "China"
+ },
+ {
+  "University": "Northeastern University - China",
+  "Global Rank": "618",
+  "Global Score": 47.9,
+  "State": "China"
+ },
+ {
+  "University": "Universidade Federal de Santa Catarina (UFSC)",
+  "Global Rank": "618",
+  "Global Score": 47.9,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Messina",
+  "Global Rank": "618",
+  "Global Score": 47.9,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Udine",
+  "Global Rank": "618",
+  "Global Score": 47.9,
+  "State": "Italy"
+ },
+ {
+  "University": "William & Mary",
+  "Global Rank": "624",
+  "Global Score": 47.8,
+  "State": "United States"
+ },
+ {
+  "University": "Universitat Rovira i Virgili",
+  "Global Rank": "625",
+  "Global Score": 47.7,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Tabriz",
+  "Global Rank": "625",
+  "Global Score": 47.7,
+  "State": "Iran"
+ },
+ {
+  "University": "University of Tennessee Health Science Center",
+  "Global Rank": "625",
+  "Global Score": 47.7,
+  "State": "United States"
+ },
+ {
+  "University": "University of the Western Cape",
+  "Global Rank": "625",
+  "Global Score": 47.7,
+  "State": "South Africa"
+ },
+ {
+  "University": "Hamad Bin Khalifa University-Qatar",
+  "Global Rank": "629",
+  "Global Score": 47.6,
+  "State": "Qatar"
+ },
+ {
+  "University": "University of Stuttgart",
+  "Global Rank": "629",
+  "Global Score": 47.6,
+  "State": "Germany"
+ },
+ {
+  "University": "Istanbul Aydin University",
+  "Global Rank": "631",
+  "Global Score": 47.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "University of Camerino",
+  "Global Rank": "632",
+  "Global Score": 47.4,
+  "State": "Italy"
+ },
+ {
+  "University": "Amirkabir University of Technology",
+  "Global Rank": "633",
+  "Global Score": 47.3,
+  "State": "Iran"
+ },
+ {
+  "University": "Oklahoma State University - Stillwater",
+  "Global Rank": "633",
+  "Global Score": 47.3,
+  "State": "United States"
+ },
+ {
+  "University": "Sechenov First Moscow State Medical University",
+  "Global Rank": "633",
+  "Global Score": 47.3,
+  "State": "Russia"
+ },
+ {
+  "University": "University of Essex",
+  "Global Rank": "633",
+  "Global Score": 47.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Haifa",
+  "Global Rank": "633",
+  "Global Score": 47.3,
+  "State": "Israel"
+ },
+ {
+  "University": "University of Wuppertal",
+  "Global Rank": "633",
+  "Global Score": 47.3,
+  "State": "Germany"
+ },
+ {
+  "University": "Comenius University Bratislava",
+  "Global Rank": "639",
+  "Global Score": 47.2,
+  "State": "Slovakia"
+ },
+ {
+  "University": "Kafrelsheikh University",
+  "Global Rank": "639",
+  "Global Score": 47.2,
+  "State": "Egypt"
+ },
+ {
+  "University": "National Cheng Kung University",
+  "Global Rank": "639",
+  "Global Score": 47.2,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Rochester Institute of Technology",
+  "Global Rank": "639",
+  "Global Score": 47.2,
+  "State": "United States"
+ },
+ {
+  "University": "Beijing University of Technology",
+  "Global Rank": "643",
+  "Global Score": 47.1,
+  "State": "China"
+ },
+ {
+  "University": "East China University of Science & Technology",
+  "Global Rank": "643",
+  "Global Score": 47.1,
+  "State": "China"
+ },
+ {
+  "University": "Istanbul Technical University",
+  "Global Rank": "643",
+  "Global Score": 47.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "University of Cyprus",
+  "Global Rank": "643",
+  "Global Score": 47.1,
+  "State": "Cyprus"
+ },
+ {
+  "University": "University of Louisville",
+  "Global Rank": "643",
+  "Global Score": 47.1,
+  "State": "United States"
+ },
+ {
+  "University": "Xidian University",
+  "Global Rank": "643",
+  "Global Score": 47.1,
+  "State": "China"
+ },
+ {
+  "University": "Saint Louis University",
+  "Global Rank": "649",
+  "Global Score": 47,
+  "State": "United States"
+ },
+ {
+  "University": "Victoria University",
+  "Global Rank": "649",
+  "Global Score": 47,
+  "State": "Australia"
+ },
+ {
+  "University": "Zhejiang Normal University",
+  "Global Rank": "649",
+  "Global Score": 47,
+  "State": "China"
+ },
+ {
+  "University": "Saint Petersburg State University",
+  "Global Rank": "652",
+  "Global Score": 46.9,
+  "State": "Russia"
+ },
+ {
+  "University": "Concordia University - Canada",
+  "Global Rank": "653",
+  "Global Score": 46.8,
+  "State": "Canada"
+ },
+ {
+  "University": "Guangdong University of Technology",
+  "Global Rank": "653",
+  "Global Score": 46.8,
+  "State": "China"
+ },
+ {
+  "University": "Hohai University",
+  "Global Rank": "653",
+  "Global Score": 46.8,
+  "State": "China"
+ },
+ {
+  "University": "Semmelweis University",
+  "Global Rank": "653",
+  "Global Score": 46.8,
+  "State": "Hungary"
+ },
+ {
+  "University": "Southwest Jiaotong University",
+  "Global Rank": "653",
+  "Global Score": 46.8,
+  "State": "China"
+ },
+ {
+  "University": "Universite Paris-Est-Creteil-Val-de-Marne (UPEC)",
+  "Global Rank": "653",
+  "Global Score": 46.8,
+  "State": "France"
+ },
+ {
+  "University": "University of Lubeck",
+  "Global Rank": "653",
+  "Global Score": 46.8,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Stirling",
+  "Global Rank": "653",
+  "Global Score": 46.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Zagazig University",
+  "Global Rank": "661",
+  "Global Score": 46.7,
+  "State": "Egypt"
+ },
+ {
+  "University": "Khalifa University of Science & Technology",
+  "Global Rank": "662",
+  "Global Score": 46.6,
+  "State": "United Arab Emirates"
+ },
+ {
+  "University": "Marche Polytechnic University",
+  "Global Rank": "662",
+  "Global Score": 46.6,
+  "State": "Italy"
+ },
+ {
+  "University": "Ocean University of China",
+  "Global Rank": "662",
+  "Global Score": 46.6,
+  "State": "China"
+ },
+ {
+  "University": "Szeged University",
+  "Global Rank": "662",
+  "Global Score": 46.6,
+  "State": "Hungary"
+ },
+ {
+  "University": "Universidad Nacional de Colombia",
+  "Global Rank": "662",
+  "Global Score": 46.6,
+  "State": "Colombia"
+ },
+ {
+  "University": "Hiroshima University",
+  "Global Rank": "667",
+  "Global Score": 46.5,
+  "State": "Japan"
+ },
+ {
+  "University": "Kyungpook National University",
+  "Global Rank": "667",
+  "Global Score": 46.5,
+  "State": "South Korea"
+ },
+ {
+  "University": "Nanjing University of Aeronautics & Astronautics",
+  "Global Rank": "667",
+  "Global Score": 46.5,
+  "State": "China"
+ },
+ {
+  "University": "Orebro University",
+  "Global Rank": "667",
+  "Global Score": 46.5,
+  "State": "Sweden"
+ },
+ {
+  "University": "Southwest University - China",
+  "Global Rank": "667",
+  "Global Score": 46.5,
+  "State": "China"
+ },
+ {
+  "University": "University of Texas Medical Branch Galveston",
+  "Global Rank": "667",
+  "Global Score": 46.5,
+  "State": "United States"
+ },
+ {
+  "University": "Murdoch University",
+  "Global Rank": "673",
+  "Global Score": 46.4,
+  "State": "Australia"
+ },
+ {
+  "University": "University of California Merced",
+  "Global Rank": "673",
+  "Global Score": 46.4,
+  "State": "United States"
+ },
+ {
+  "University": "Zhejiang University of Technology",
+  "Global Rank": "673",
+  "Global Score": 46.4,
+  "State": "China"
+ },
+ {
+  "University": "Universita della Svizzera Italiana",
+  "Global Rank": "676",
+  "Global Score": 46.3,
+  "State": "Switzerland"
+ },
+ {
+  "University": "University of North Carolina Charlotte",
+  "Global Rank": "676",
+  "Global Score": 46.3,
+  "State": "United States"
+ },
+ {
+  "University": "University of Zaragoza",
+  "Global Rank": "676",
+  "Global Score": 46.3,
+  "State": "Spain"
+ },
+ {
+  "University": "Beijing University of Posts & Telecommunications",
+  "Global Rank": "679",
+  "Global Score": 46.2,
+  "State": "China"
+ },
+ {
+  "University": "Koc University",
+  "Global Rank": "679",
+  "Global Score": 46.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Peter the Great St. Petersburg Polytechnic University",
+  "Global Rank": "679",
+  "Global Score": 46.2,
+  "State": "Russia"
+ },
+ {
+  "University": "United Arab Emirates University",
+  "Global Rank": "679",
+  "Global Score": 46.2,
+  "State": "United Arab Emirates"
+ },
+ {
+  "University": "University of North Texas Denton",
+  "Global Rank": "679",
+  "Global Score": 46.2,
+  "State": "United States"
+ },
+ {
+  "University": "City College of New York (CUNY)",
+  "Global Rank": "684",
+  "Global Score": 46.1,
+  "State": "United States"
+ },
+ {
+  "University": "Ihsan Dogramaci Bilkent University",
+  "Global Rank": "684",
+  "Global Score": 46.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Ohio University",
+  "Global Rank": "684",
+  "Global Score": 46.1,
+  "State": "United States"
+ },
+ {
+  "University": "University of Cagliari",
+  "Global Rank": "684",
+  "Global Score": 46.1,
+  "State": "Italy"
+ },
+ {
+  "University": "Copenhagen Business School",
+  "Global Rank": "688",
+  "Global Score": 46,
+  "State": "Denmark"
+ },
+ {
+  "University": "Donghua University",
+  "Global Rank": "688",
+  "Global Score": 46,
+  "State": "China"
+ },
+ {
+  "University": "Ecole Pratique des Hautes Etudes (EPHE)",
+  "Global Rank": "688",
+  "Global Score": 46,
+  "State": "France"
+ },
+ {
+  "University": "Kwame Nkrumah University Science & Technology",
+  "Global Rank": "688",
+  "Global Score": 46,
+  "State": "Ghana"
+ },
+ {
+  "University": "University of Calabria",
+  "Global Rank": "688",
+  "Global Score": 46,
+  "State": "Italy"
+ },
+ {
+  "University": "Clemson University",
+  "Global Rank": "693",
+  "Global Score": 45.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of Graz",
+  "Global Rank": "693",
+  "Global Score": 45.9,
+  "State": "Austria"
+ },
+ {
+  "University": "University of Ioannina",
+  "Global Rank": "693",
+  "Global Score": 45.9,
+  "State": "Greece"
+ },
+ {
+  "University": "ITMO University",
+  "Global Rank": "696",
+  "Global Score": 45.8,
+  "State": "Russia"
+ },
+ {
+  "University": "Lappeenranta University of Technology",
+  "Global Rank": "696",
+  "Global Score": 45.8,
+  "State": "Finland"
+ },
+ {
+  "University": "Czech Technical University Prague",
+  "Global Rank": "698",
+  "Global Score": 45.7,
+  "State": "Czech Republic"
+ },
+ {
+  "University": "Memorial University Newfoundland",
+  "Global Rank": "698",
+  "Global Score": 45.7,
+  "State": "Canada"
+ },
+ {
+  "University": "Pusan National University",
+  "Global Rank": "698",
+  "Global Score": 45.7,
+  "State": "South Korea"
+ },
+ {
+  "University": "Rensselaer Polytechnic Institute",
+  "Global Rank": "698",
+  "Global Score": 45.7,
+  "State": "United States"
+ },
+ {
+  "University": "Nanjing Normal University",
+  "Global Rank": "702",
+  "Global Score": 45.6,
+  "State": "China"
+ },
+ {
+  "University": "Scuola Superiore Sant'Anna",
+  "Global Rank": "702",
+  "Global Score": 45.6,
+  "State": "Italy"
+ },
+ {
+  "University": "Skolkovo Institute of Science & Technology",
+  "Global Rank": "702",
+  "Global Score": 45.6,
+  "State": "Russia"
+ },
+ {
+  "University": "South China Agricultural University",
+  "Global Rank": "702",
+  "Global Score": 45.6,
+  "State": "China"
+ },
+ {
+  "University": "University of Missouri Kansas City",
+  "Global Rank": "702",
+  "Global Score": 45.6,
+  "State": "United States"
+ },
+ {
+  "University": "University of Rhode Island",
+  "Global Rank": "702",
+  "Global Score": 45.6,
+  "State": "United States"
+ },
+ {
+  "University": "Northumbria University",
+  "Global Rank": "708",
+  "Global Score": 45.5,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Tarbiat Modares University",
+  "Global Rank": "708",
+  "Global Score": 45.5,
+  "State": "Iran"
+ },
+ {
+  "University": "Assiut University",
+  "Global Rank": "710",
+  "Global Score": 45.4,
+  "State": "Egypt"
+ },
+ {
+  "University": "Brigham Young University",
+  "Global Rank": "710",
+  "Global Score": 45.4,
+  "State": "United States"
+ },
+ {
+  "University": "Cranfield University",
+  "Global Rank": "710",
+  "Global Score": 45.4,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Lulea University of Technology",
+  "Global Rank": "710",
+  "Global Score": 45.4,
+  "State": "Sweden"
+ },
+ {
+  "University": "Transylvania University of Brasov",
+  "Global Rank": "710",
+  "Global Score": 45.4,
+  "State": "Romania"
+ },
+ {
+  "University": "Universidade de Brasilia",
+  "Global Rank": "710",
+  "Global Score": 45.4,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Ulsan",
+  "Global Rank": "710",
+  "Global Score": 45.4,
+  "State": "South Korea"
+ },
+ {
+  "University": "Aston University",
+  "Global Rank": "717",
+  "Global Score": 45.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Babes Bolyai University from Cluj",
+  "Global Rank": "717",
+  "Global Score": 45.3,
+  "State": "Romania"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Delhi",
+  "Global Rank": "717",
+  "Global Score": 45.3,
+  "State": "India"
+ },
+ {
+  "University": "Southwestern University of Finance & Economics - China",
+  "Global Rank": "717",
+  "Global Score": 45.3,
+  "State": "China"
+ },
+ {
+  "University": "University of Delhi",
+  "Global Rank": "717",
+  "Global Score": 45.3,
+  "State": "India"
+ },
+ {
+  "University": "Ankara University",
+  "Global Rank": "722",
+  "Global Score": 45.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "University of Oviedo",
+  "Global Rank": "722",
+  "Global Score": 45.2,
+  "State": "Spain"
+ },
+ {
+  "University": "Utah State University",
+  "Global Rank": "722",
+  "Global Score": 45.2,
+  "State": "United States"
+ },
+ {
+  "University": "Belarusian State University",
+  "Global Rank": "725",
+  "Global Score": 45.1,
+  "State": "Belarus"
+ },
+ {
+  "University": "Heriot Watt University",
+  "Global Rank": "725",
+  "Global Score": 45.1,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Gandhinagar",
+  "Global Rank": "725",
+  "Global Score": 45.1,
+  "State": "India"
+ },
+ {
+  "University": "Singapore Management University",
+  "Global Rank": "725",
+  "Global Score": 45.1,
+  "State": "Singapore"
+ },
+ {
+  "University": "University of Zambia",
+  "Global Rank": "725",
+  "Global Score": 45.1,
+  "State": "Zambia"
+ },
+ {
+  "University": "INSEAD Business School",
+  "Global Rank": "730",
+  "Global Score": 45,
+  "State": "France"
+ },
+ {
+  "University": "University of Salento",
+  "Global Rank": "730",
+  "Global Score": 45,
+  "State": "Italy"
+ },
+ {
+  "University": "Southern Methodist University",
+  "Global Rank": "732",
+  "Global Score": 44.9,
+  "State": "United States"
+ },
+ {
+  "University": "University of Hull",
+  "Global Rank": "732",
+  "Global Score": 44.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Warsaw University of Technology",
+  "Global Rank": "732",
+  "Global Score": 44.9,
+  "State": "Poland"
+ },
+ {
+  "University": "Illinois Institute of Technology",
+  "Global Rank": "735",
+  "Global Score": 44.8,
+  "State": "United States"
+ },
+ {
+  "University": "Nanjing Medical University",
+  "Global Rank": "736",
+  "Global Score": 44.7,
+  "State": "China"
+ },
+ {
+  "University": "Norwegian University of Life Sciences",
+  "Global Rank": "736",
+  "Global Score": 44.7,
+  "State": "Norway"
+ },
+ {
+  "University": "TOBB Ekonomi ve Teknoloji University",
+  "Global Rank": "736",
+  "Global Score": 44.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Al Azhar University",
+  "Global Rank": "739",
+  "Global Score": 44.6,
+  "State": "Egypt"
+ },
+ {
+  "University": "Chiang Mai University",
+  "Global Rank": "739",
+  "Global Score": 44.6,
+  "State": "Thailand"
+ },
+ {
+  "University": "Isfahan University of Technology",
+  "Global Rank": "739",
+  "Global Score": 44.6,
+  "State": "Iran"
+ },
+ {
+  "University": "North China Electric Power University",
+  "Global Rank": "739",
+  "Global Score": 44.6,
+  "State": "China"
+ },
+ {
+  "University": "Universite de Bretagne Occidentale",
+  "Global Rank": "739",
+  "Global Score": 44.6,
+  "State": "France"
+ },
+ {
+  "University": "University of Waikato",
+  "Global Rank": "739",
+  "Global Score": 44.6,
+  "State": "New Zealand"
+ },
+ {
+  "University": "Istanbul University",
+  "Global Rank": "745",
+  "Global Score": 44.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Nanchang University",
+  "Global Rank": "745",
+  "Global Score": 44.5,
+  "State": "China"
+ },
+ {
+  "University": "Parthenope University Naples",
+  "Global Rank": "745",
+  "Global Score": 44.5,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Quebec Montreal",
+  "Global Rank": "745",
+  "Global Score": 44.5,
+  "State": "Canada"
+ },
+ {
+  "University": "University of Texas Rio Grande Valley",
+  "Global Rank": "745",
+  "Global Score": 44.5,
+  "State": "United States"
+ },
+ {
+  "University": "Anglia Ruskin University",
+  "Global Rank": "750",
+  "Global Score": 44.4,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Bar Ilan University",
+  "Global Rank": "750",
+  "Global Score": 44.4,
+  "State": "Israel"
+ },
+ {
+  "University": "Manchester Metropolitan University",
+  "Global Rank": "750",
+  "Global Score": 44.4,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Okayama University",
+  "Global Rank": "750",
+  "Global Score": 44.4,
+  "State": "Japan"
+ },
+ {
+  "University": "Sultan Qaboos University",
+  "Global Rank": "750",
+  "Global Score": 44.4,
+  "State": "Oman"
+ },
+ {
+  "University": "University of Arkansas Fayetteville",
+  "Global Rank": "750",
+  "Global Score": 44.4,
+  "State": "United States"
+ },
+ {
+  "University": "University of Bayreuth",
+  "Global Rank": "750",
+  "Global Score": 44.4,
+  "State": "Germany"
+ },
+ {
+  "University": "Makerere University",
+  "Global Rank": "757",
+  "Global Score": 44.3,
+  "State": "Uganda"
+ },
+ {
+  "University": "Tokyo Metropolitan University",
+  "Global Rank": "757",
+  "Global Score": 44.3,
+  "State": "Japan"
+ },
+ {
+  "University": "Nanjing Forestry University",
+  "Global Rank": "759",
+  "Global Score": 44.2,
+  "State": "China"
+ },
+ {
+  "University": "Panjab University",
+  "Global Rank": "759",
+  "Global Score": 44.2,
+  "State": "India"
+ },
+ {
+  "University": "Tecnologico de Monterrey",
+  "Global Rank": "759",
+  "Global Score": 44.2,
+  "State": "Mexico"
+ },
+ {
+  "University": "Universitat de Girona",
+  "Global Rank": "759",
+  "Global Score": 44.2,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Maryland Baltimore County",
+  "Global Rank": "759",
+  "Global Score": 44.2,
+  "State": "United States"
+ },
+ {
+  "University": "Charles Sturt University",
+  "Global Rank": "764",
+  "Global Score": 44.1,
+  "State": "Australia"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Kharagpur",
+  "Global Rank": "764",
+  "Global Score": 44.1,
+  "State": "India"
+ },
+ {
+  "University": "Universidad Costa Rica",
+  "Global Rank": "764",
+  "Global Score": 44.1,
+  "State": "Costa Rica"
+ },
+ {
+  "University": "California State University Fullerton",
+  "Global Rank": "767",
+  "Global Score": 44,
+  "State": "United States"
+ },
+ {
+  "University": "Howard University",
+  "Global Rank": "767",
+  "Global Score": 44,
+  "State": "United States"
+ },
+ {
+  "University": "University of Alaska Fairbanks",
+  "Global Rank": "767",
+  "Global Score": 44,
+  "State": "United States"
+ },
+ {
+  "University": "Christian Medical College & Hospital (CMCH) Vellore",
+  "Global Rank": "770",
+  "Global Score": 43.9,
+  "State": "India"
+ },
+ {
+  "University": "Louisiana Technical University",
+  "Global Rank": "770",
+  "Global Score": 43.9,
+  "State": "United States"
+ },
+ {
+  "University": "National University of Sciences & Technology - Pakistan",
+  "Global Rank": "770",
+  "Global Score": 43.9,
+  "State": "Pakistan"
+ },
+ {
+  "University": "Open University - UK",
+  "Global Rank": "770",
+  "Global Score": 43.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "South China Normal University",
+  "Global Rank": "770",
+  "Global Score": 43.9,
+  "State": "China"
+ },
+ {
+  "University": "University of Salamanca",
+  "Global Rank": "770",
+  "Global Score": 43.9,
+  "State": "Spain"
+ },
+ {
+  "University": "Ivane Javakhishvili Tbilisi State University",
+  "Global Rank": "776",
+  "Global Score": 43.8,
+  "State": "Georgia"
+ },
+ {
+  "University": "Universidade Federal do ABC (UFABC)",
+  "Global Rank": "776",
+  "Global Score": 43.8,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Mannheim",
+  "Global Rank": "776",
+  "Global Score": 43.8,
+  "State": "Germany"
+ },
+ {
+  "University": "Mashhad University Medical Science",
+  "Global Rank": "779",
+  "Global Score": 43.7,
+  "State": "Iran"
+ },
+ {
+  "University": "Michigan Technological University",
+  "Global Rank": "779",
+  "Global Score": 43.7,
+  "State": "United States"
+ },
+ {
+  "University": "University of Rostock",
+  "Global Rank": "779",
+  "Global Score": 43.7,
+  "State": "Germany"
+ },
+ {
+  "University": "AGH University of Science & Technology",
+  "Global Rank": "782",
+  "Global Score": 43.6,
+  "State": "Poland"
+ },
+ {
+  "University": "Eastern Mediterranean University",
+  "Global Rank": "782",
+  "Global Score": 43.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "Shandong Normal University",
+  "Global Rank": "782",
+  "Global Score": 43.6,
+  "State": "China"
+ },
+ {
+  "University": "University of Murcia",
+  "Global Rank": "782",
+  "Global Score": 43.6,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Nevada Reno",
+  "Global Rank": "782",
+  "Global Score": 43.6,
+  "State": "United States"
+ },
+ {
+  "University": "Aligarh Muslim University",
+  "Global Rank": "787",
+  "Global Score": 43.5,
+  "State": "India"
+ },
+ {
+  "University": "National University of La Plata",
+  "Global Rank": "787",
+  "Global Score": 43.5,
+  "State": "Argentina"
+ },
+ {
+  "University": "Universidad Tecnica Federico Santa Maria",
+  "Global Rank": "789",
+  "Global Score": 43.4,
+  "State": "Chile"
+ },
+ {
+  "University": "Universite de Savoie",
+  "Global Rank": "789",
+  "Global Score": 43.4,
+  "State": "France"
+ },
+ {
+  "University": "University of Brighton",
+  "Global Rank": "789",
+  "Global Score": 43.4,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Sherbrooke",
+  "Global Rank": "789",
+  "Global Score": 43.4,
+  "State": "Canada"
+ },
+ {
+  "University": "University of Split",
+  "Global Rank": "789",
+  "Global Score": 43.4,
+  "State": "Croatia"
+ },
+ {
+  "University": "Harbin Engineering University",
+  "Global Rank": "794",
+  "Global Score": 43.3,
+  "State": "China"
+ },
+ {
+  "University": "Iran University of Medical Sciences",
+  "Global Rank": "794",
+  "Global Score": 43.3,
+  "State": "Iran"
+ },
+ {
+  "University": "Kent State University",
+  "Global Rank": "794",
+  "Global Score": 43.3,
+  "State": "United States"
+ },
+ {
+  "University": "Qingdao University",
+  "Global Rank": "794",
+  "Global Score": 43.3,
+  "State": "China"
+ },
+ {
+  "University": "University of Debrecen",
+  "Global Rank": "794",
+  "Global Score": 43.3,
+  "State": "Hungary"
+ },
+ {
+  "University": "University of Nairobi",
+  "Global Rank": "794",
+  "Global Score": 43.3,
+  "State": "Kenya"
+ },
+ {
+  "University": "University of Wyoming",
+  "Global Rank": "794",
+  "Global Score": 43.3,
+  "State": "United States"
+ },
+ {
+  "University": "Bahcesehir University",
+  "Global Rank": "801",
+  "Global Score": 43.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Ilia State University",
+  "Global Rank": "801",
+  "Global Score": 43.2,
+  "State": "Georgia"
+ },
+ {
+  "University": "Otto von Guericke University",
+  "Global Rank": "801",
+  "Global Score": 43.2,
+  "State": "Germany"
+ },
+ {
+  "University": "Universidade do Estado do Rio de Janeiro",
+  "Global Rank": "801",
+  "Global Score": 43.2,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Zielona Gora",
+  "Global Rank": "801",
+  "Global Score": 43.2,
+  "State": "Poland"
+ },
+ {
+  "University": "Vilnius University",
+  "Global Rank": "801",
+  "Global Score": 43.2,
+  "State": "Lithuania"
+ },
+ {
+  "University": "Hasselt University",
+  "Global Rank": "807",
+  "Global Score": 43,
+  "State": "Belgium"
+ },
+ {
+  "University": "Nottingham Trent University",
+  "Global Rank": "807",
+  "Global Score": 43,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Okinawa Institute of Science & Technology Graduate University",
+  "Global Rank": "807",
+  "Global Score": 43,
+  "State": "Japan"
+ },
+ {
+  "University": "Suez Canal University",
+  "Global Rank": "807",
+  "Global Score": 43,
+  "State": "Egypt"
+ },
+ {
+  "University": "University of Agriculture Faisalabad",
+  "Global Rank": "807",
+  "Global Score": 43,
+  "State": "Pakistan"
+ },
+ {
+  "University": "Hefei University of Technology",
+  "Global Rank": "812",
+  "Global Score": 42.9,
+  "State": "China"
+ },
+ {
+  "University": "University of Seoul",
+  "Global Rank": "812",
+  "Global Score": 42.9,
+  "State": "South Korea"
+ },
+ {
+  "University": "Ulster University",
+  "Global Rank": "814",
+  "Global Score": 42.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Mons",
+  "Global Rank": "814",
+  "Global Score": 42.8,
+  "State": "Belgium"
+ },
+ {
+  "University": "Graz University of Technology",
+  "Global Rank": "816",
+  "Global Score": 42.6,
+  "State": "Austria"
+ },
+ {
+  "University": "Salzburg University",
+  "Global Rank": "816",
+  "Global Score": 42.6,
+  "State": "Austria"
+ },
+ {
+  "University": "Universidad de Concepcion",
+  "Global Rank": "816",
+  "Global Score": 42.6,
+  "State": "Chile"
+ },
+ {
+  "University": "Universidade Federal do Parana",
+  "Global Rank": "816",
+  "Global Score": 42.6,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Montana",
+  "Global Rank": "816",
+  "Global Score": 42.6,
+  "State": "United States"
+ },
+ {
+  "University": "Nanjing University of Posts & Telecommunications",
+  "Global Rank": "821",
+  "Global Score": 42.5,
+  "State": "China"
+ },
+ {
+  "University": "Shiraz University",
+  "Global Rank": "821",
+  "Global Score": 42.5,
+  "State": "Iran"
+ },
+ {
+  "University": "Universite de Bourgogne",
+  "Global Rank": "821",
+  "Global Score": 42.5,
+  "State": "France"
+ },
+ {
+  "University": "University of New England",
+  "Global Rank": "821",
+  "Global Score": 42.5,
+  "State": "Australia"
+ },
+ {
+  "University": "University of South Africa",
+  "Global Rank": "821",
+  "Global Score": 42.5,
+  "State": "South Africa"
+ },
+ {
+  "University": "All India Institute of Medical Sciences (AIIMS) New Delhi",
+  "Global Rank": "826",
+  "Global Score": 42.4,
+  "State": "India"
+ },
+ {
+  "University": "Banaras Hindu University (BHU)",
+  "Global Rank": "826",
+  "Global Score": 42.4,
+  "State": "India"
+ },
+ {
+  "University": "European University Institute",
+  "Global Rank": "826",
+  "Global Score": 42.4,
+  "State": "Italy"
+ },
+ {
+  "University": "Graduate University for Advanced Studies - Japan",
+  "Global Rank": "826",
+  "Global Score": 42.4,
+  "State": "Japan"
+ },
+ {
+  "University": "National Central University",
+  "Global Rank": "826",
+  "Global Score": 42.4,
+  "State": "Taiwan"
+ },
+ {
+  "University": "New Jersey Institute of Technology",
+  "Global Rank": "826",
+  "Global Score": 42.4,
+  "State": "United States"
+ },
+ {
+  "University": "Shahid Beheshti University Medical Sciences",
+  "Global Rank": "826",
+  "Global Score": 42.4,
+  "State": "Iran"
+ },
+ {
+  "University": "Tuscia University",
+  "Global Rank": "826",
+  "Global Score": 42.4,
+  "State": "Italy"
+ },
+ {
+  "University": "Yerevan Physics Institute",
+  "Global Rank": "826",
+  "Global Score": 42.4,
+  "State": "Armenia"
+ },
+ {
+  "University": "Chiba University",
+  "Global Rank": "835",
+  "Global Score": 42.3,
+  "State": "Japan"
+ },
+ {
+  "University": "Ecole des Ponts ParisTech",
+  "Global Rank": "835",
+  "Global Score": 42.3,
+  "State": "France"
+ },
+ {
+  "University": "Education University of Hong Kong (EdUHK)",
+  "Global Rank": "835",
+  "Global Score": 42.3,
+  "State": "Hong Kong"
+ },
+ {
+  "University": "Missouri University of Science & Technology",
+  "Global Rank": "835",
+  "Global Score": 42.3,
+  "State": "United States"
+ },
+ {
+  "University": "Northwest University Xi'an",
+  "Global Rank": "835",
+  "Global Score": 42.3,
+  "State": "China"
+ },
+ {
+  "University": "Tanta University",
+  "Global Rank": "835",
+  "Global Score": 42.3,
+  "State": "Egypt"
+ },
+ {
+  "University": "University Diego Portales",
+  "Global Rank": "835",
+  "Global Score": 42.3,
+  "State": "Chile"
+ },
+ {
+  "University": "Wroclaw Medical University",
+  "Global Rank": "835",
+  "Global Score": 42.3,
+  "State": "Poland"
+ },
+ {
+  "University": "Yokohama City University",
+  "Global Rank": "835",
+  "Global Score": 42.3,
+  "State": "Japan"
+ },
+ {
+  "University": "Chonnam National University",
+  "Global Rank": "844",
+  "Global Score": 42.2,
+  "State": "South Korea"
+ },
+ {
+  "University": "Jiangsu University",
+  "Global Rank": "844",
+  "Global Score": 42.2,
+  "State": "China"
+ },
+ {
+  "University": "Universidad de Alcala",
+  "Global Rank": "844",
+  "Global Score": 42.2,
+  "State": "Spain"
+ },
+ {
+  "University": "Universidade Catolica Portuguesa",
+  "Global Rank": "844",
+  "Global Score": 42.2,
+  "State": "Portugal"
+ },
+ {
+  "University": "Vellore Institute of Technology",
+  "Global Rank": "844",
+  "Global Score": 42.2,
+  "State": "India"
+ },
+ {
+  "University": "IMT Atlantique",
+  "Global Rank": "849",
+  "Global Score": 42.1,
+  "State": "France"
+ },
+ {
+  "University": "University of Denver",
+  "Global Rank": "849",
+  "Global Score": 42.1,
+  "State": "United States"
+ },
+ {
+  "University": "University of Urbino",
+  "Global Rank": "849",
+  "Global Score": 42.1,
+  "State": "Italy"
+ },
+ {
+  "University": "Government College University Faisalabad",
+  "Global Rank": "852",
+  "Global Score": 42,
+  "State": "Pakistan"
+ },
+ {
+  "University": "Indian Institute of Science Education & Research (IISER) - Kolkata",
+  "Global Rank": "852",
+  "Global Score": 42,
+  "State": "India"
+ },
+ {
+  "University": "Universidad Carlos III de Madrid",
+  "Global Rank": "852",
+  "Global Score": 42,
+  "State": "Spain"
+ },
+ {
+  "University": "Universidad de la Republica, Uruguay",
+  "Global Rank": "852",
+  "Global Score": 42,
+  "State": "Uruguay"
+ },
+ {
+  "University": "Braunschweig University of Technology",
+  "Global Rank": "856",
+  "Global Score": 41.9,
+  "State": "Germany"
+ },
+ {
+  "University": "California Polytechnic State University San Luis Obispo",
+  "Global Rank": "856",
+  "Global Score": 41.9,
+  "State": "United States"
+ },
+ {
+  "University": "Ewha Womans University",
+  "Global Rank": "856",
+  "Global Score": 41.9,
+  "State": "South Korea"
+ },
+ {
+  "University": "Jamia Millia Islamia",
+  "Global Rank": "856",
+  "Global Score": 41.9,
+  "State": "India"
+ },
+ {
+  "University": "Central European University",
+  "Global Rank": "860",
+  "Global Score": 41.8,
+  "State": "Austria"
+ },
+ {
+  "University": "Hassan II University of Casablanca",
+  "Global Rank": "860",
+  "Global Score": 41.8,
+  "State": "Morocco"
+ },
+ {
+  "University": "Kazan Federal University",
+  "Global Rank": "860",
+  "Global Score": 41.8,
+  "State": "Russia"
+ },
+ {
+  "University": "Loyola University Chicago",
+  "Global Rank": "860",
+  "Global Score": 41.8,
+  "State": "United States"
+ },
+ {
+  "University": "Southern Medical University - China",
+  "Global Rank": "860",
+  "Global Score": 41.8,
+  "State": "China"
+ },
+ {
+  "University": "University of Patras",
+  "Global Rank": "860",
+  "Global Score": 41.8,
+  "State": "Greece"
+ },
+ {
+  "University": "Universidad de Malaga",
+  "Global Rank": "866",
+  "Global Score": 41.7,
+  "State": "Spain"
+ },
+ {
+  "University": "Universidade de Vigo",
+  "Global Rank": "866",
+  "Global Score": 41.7,
+  "State": "Spain"
+ },
+ {
+  "University": "Universite d'Angers",
+  "Global Rank": "866",
+  "Global Score": 41.7,
+  "State": "France"
+ },
+ {
+  "University": "University of Jordan",
+  "Global Rank": "866",
+  "Global Score": 41.7,
+  "State": "Jordan"
+ },
+ {
+  "University": "Universite Paul-Valery",
+  "Global Rank": "870",
+  "Global Score": 41.6,
+  "State": "France"
+ },
+ {
+  "University": "Mohammed First University of Oujda",
+  "Global Rank": "871",
+  "Global Score": 41.5,
+  "State": "Morocco"
+ },
+ {
+  "University": "Universidade Federal do Rio Grande do Norte",
+  "Global Rank": "871",
+  "Global Score": 41.5,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Alabama Huntsville",
+  "Global Rank": "871",
+  "Global Score": 41.5,
+  "State": "United States"
+ },
+ {
+  "University": "University of Nevada Las Vegas",
+  "Global Rank": "871",
+  "Global Score": 41.5,
+  "State": "United States"
+ },
+ {
+  "University": "Adam Mickiewicz University",
+  "Global Rank": "875",
+  "Global Score": 41.4,
+  "State": "Poland"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Hyderabad",
+  "Global Rank": "875",
+  "Global Score": 41.4,
+  "State": "India"
+ },
+ {
+  "University": "University of Texas El Paso",
+  "Global Rank": "875",
+  "Global Score": 41.4,
+  "State": "United States"
+ },
+ {
+  "University": "University of the Free State",
+  "Global Rank": "875",
+  "Global Score": 41.4,
+  "State": "South Africa"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Kanpur",
+  "Global Rank": "879",
+  "Global Score": 41.3,
+  "State": "India"
+ },
+ {
+  "University": "Iran University Science & Technology",
+  "Global Rank": "879",
+  "Global Score": 41.3,
+  "State": "Iran"
+ },
+ {
+  "University": "New York University Tandon School of Engineering",
+  "Global Rank": "879",
+  "Global Score": 41.3,
+  "State": "United States"
+ },
+ {
+  "University": "Tomsk Polytechnic University",
+  "Global Rank": "879",
+  "Global Score": 41.3,
+  "State": "Russia"
+ },
+ {
+  "University": "Universidad de la Laguna",
+  "Global Rank": "879",
+  "Global Score": 41.3,
+  "State": "Spain"
+ },
+ {
+  "University": "Bangor University",
+  "Global Rank": "884",
+  "Global Score": 41.2,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Bournemouth University",
+  "Global Rank": "884",
+  "Global Score": 41.2,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Capital Medical University",
+  "Global Rank": "884",
+  "Global Score": 41.2,
+  "State": "China"
+ },
+ {
+  "University": "Tokyo Medical & Dental University (TMDU)",
+  "Global Rank": "884",
+  "Global Score": 41.2,
+  "State": "Japan"
+ },
+ {
+  "University": "University of Basilicata",
+  "Global Rank": "884",
+  "Global Score": 41.2,
+  "State": "Italy"
+ },
+ {
+  "University": "City University London",
+  "Global Rank": "889",
+  "Global Score": 41.1,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Jeonbuk National University",
+  "Global Rank": "889",
+  "Global Score": 41.1,
+  "State": "South Korea"
+ },
+ {
+  "University": "National Taiwan University of Science & Technology",
+  "Global Rank": "889",
+  "Global Score": 41.1,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Universiti Teknologi Petronas",
+  "Global Rank": "889",
+  "Global Score": 41.1,
+  "State": "Malaysia"
+ },
+ {
+  "University": "University of Limerick",
+  "Global Rank": "889",
+  "Global Score": 41.1,
+  "State": "Ireland"
+ },
+ {
+  "University": "University of Peshawar",
+  "Global Rank": "889",
+  "Global Score": 41.1,
+  "State": "Pakistan"
+ },
+ {
+  "University": "West University of Timisoara",
+  "Global Rank": "889",
+  "Global Score": 41.1,
+  "State": "Romania"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Roorkee",
+  "Global Rank": "896",
+  "Global Score": 41,
+  "State": "India"
+ },
+ {
+  "University": "Mazandaran University Medical Sciences",
+  "Global Rank": "896",
+  "Global Score": 41,
+  "State": "Iran"
+ },
+ {
+  "University": "South Ural State University",
+  "Global Rank": "896",
+  "Global Score": 41,
+  "State": "Russia"
+ },
+ {
+  "University": "Universidad de Antioquia",
+  "Global Rank": "896",
+  "Global Score": 41,
+  "State": "Colombia"
+ },
+ {
+  "University": "Universidade Federal de Sao Carlos",
+  "Global Rank": "896",
+  "Global Score": 41,
+  "State": "Brazil"
+ },
+ {
+  "University": "Shaanxi Normal University",
+  "Global Rank": "901",
+  "Global Score": 40.9,
+  "State": "China"
+ },
+ {
+  "University": "Universidad Autonoma de Chile",
+  "Global Rank": "901",
+  "Global Score": 40.9,
+  "State": "Chile"
+ },
+ {
+  "University": "Universidade Federal de Pelotas",
+  "Global Rank": "901",
+  "Global Score": 40.9,
+  "State": "Brazil"
+ },
+ {
+  "University": "Universidade Federal de Pernambuco",
+  "Global Rank": "901",
+  "Global Score": 40.9,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Peradeniya",
+  "Global Rank": "901",
+  "Global Score": 40.9,
+  "State": "Sri Lanka"
+ },
+ {
+  "University": "University of Shanghai for Science & Technology",
+  "Global Rank": "901",
+  "Global Score": 40.9,
+  "State": "China"
+ },
+ {
+  "University": "California State University Fresno",
+  "Global Rank": "907",
+  "Global Score": 40.8,
+  "State": "United States"
+ },
+ {
+  "University": "New Mexico State University",
+  "Global Rank": "907",
+  "Global Score": 40.8,
+  "State": "United States"
+ },
+ {
+  "University": "Taipei Medical University",
+  "Global Rank": "907",
+  "Global Score": 40.8,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Universite Gustave-Eiffel",
+  "Global Rank": "907",
+  "Global Score": 40.8,
+  "State": "France"
+ },
+ {
+  "University": "University of Ghana",
+  "Global Rank": "907",
+  "Global Score": 40.8,
+  "State": "Ghana"
+ },
+ {
+  "University": "Birkbeck University London",
+  "Global Rank": "912",
+  "Global Score": 40.7,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Florida Institute of Technology",
+  "Global Rank": "912",
+  "Global Score": 40.7,
+  "State": "United States"
+ },
+ {
+  "University": "Universidad de Cordoba",
+  "Global Rank": "912",
+  "Global Score": 40.7,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Sassari",
+  "Global Rank": "912",
+  "Global Score": 40.7,
+  "State": "Italy"
+ },
+ {
+  "University": "Yeungnam University",
+  "Global Rank": "912",
+  "Global Score": 40.7,
+  "State": "South Korea"
+ },
+ {
+  "University": "Dublin City University",
+  "Global Rank": "917",
+  "Global Score": 40.6,
+  "State": "Ireland"
+ },
+ {
+  "University": "Lehigh University",
+  "Global Rank": "917",
+  "Global Score": 40.6,
+  "State": "United States"
+ },
+ {
+  "University": "Pontificia Universidad Javeriana",
+  "Global Rank": "917",
+  "Global Score": 40.6,
+  "State": "Colombia"
+ },
+ {
+  "University": "Mississippi State University",
+  "Global Rank": "920",
+  "Global Score": 40.5,
+  "State": "United States"
+ },
+ {
+  "University": "New York Medical College",
+  "Global Rank": "920",
+  "Global Score": 40.5,
+  "State": "United States"
+ },
+ {
+  "University": "Saarland University",
+  "Global Rank": "920",
+  "Global Score": 40.5,
+  "State": "Germany"
+ },
+ {
+  "University": "Universite de Poitiers",
+  "Global Rank": "920",
+  "Global Score": 40.5,
+  "State": "France"
+ },
+ {
+  "University": "Universite de Tunis-El-Manar",
+  "Global Rank": "920",
+  "Global Score": 40.5,
+  "State": "Tunisia"
+ },
+ {
+  "University": "University of Idaho",
+  "Global Rank": "920",
+  "Global Score": 40.5,
+  "State": "United States"
+ },
+ {
+  "University": "Indian Institute of Science Education & Research (IISER) Pune",
+  "Global Rank": "926",
+  "Global Score": 40.4,
+  "State": "India"
+ },
+ {
+  "University": "Leuphana University Luneburg",
+  "Global Rank": "926",
+  "Global Score": 40.4,
+  "State": "Germany"
+ },
+ {
+  "University": "Menofia University",
+  "Global Rank": "928",
+  "Global Score": 40.3,
+  "State": "Egypt"
+ },
+ {
+  "University": "Northern Illinois University",
+  "Global Rank": "928",
+  "Global Score": 40.3,
+  "State": "United States"
+ },
+ {
+  "University": "Carl von Ossietzky Universitat Oldenburg",
+  "Global Rank": "930",
+  "Global Score": 40.2,
+  "State": "Germany"
+ },
+ {
+  "University": "Czech University of Life Sciences Prague",
+  "Global Rank": "930",
+  "Global Score": 40.2,
+  "State": "Czech Republic"
+ },
+ {
+  "University": "Fujian Agriculture & Forestry University",
+  "Global Rank": "930",
+  "Global Score": 40.2,
+  "State": "China"
+ },
+ {
+  "University": "Peoples Friendship University of Russia",
+  "Global Rank": "930",
+  "Global Score": 40.2,
+  "State": "Russia"
+ },
+ {
+  "University": "University of Gondar",
+  "Global Rank": "930",
+  "Global Score": 40.2,
+  "State": "Ethiopia"
+ },
+ {
+  "University": "Ball State University",
+  "Global Rank": "935",
+  "Global Score": 40.1,
+  "State": "United States"
+ },
+ {
+  "University": "China Pharmaceutical University",
+  "Global Rank": "935",
+  "Global Score": 40.1,
+  "State": "China"
+ },
+ {
+  "University": "G d'Annunzio University of Chieti-Pescara",
+  "Global Rank": "935",
+  "Global Score": 40.1,
+  "State": "Italy"
+ },
+ {
+  "University": "Rhodes University",
+  "Global Rank": "935",
+  "Global Score": 40.1,
+  "State": "South Africa"
+ },
+ {
+  "University": "State University of New York (SUNY) Upstate Medical Center",
+  "Global Rank": "935",
+  "Global Score": 40.1,
+  "State": "United States"
+ },
+ {
+  "University": "University of Lincoln",
+  "Global Rank": "935",
+  "Global Score": 40.1,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Regina",
+  "Global Rank": "935",
+  "Global Score": 40.1,
+  "State": "Canada"
+ },
+ {
+  "University": "Wuhan Institute of Technology",
+  "Global Rank": "935",
+  "Global Score": 40.1,
+  "State": "China"
+ },
+ {
+  "University": "Benha University",
+  "Global Rank": "943",
+  "Global Score": 40,
+  "State": "Egypt"
+ },
+ {
+  "University": "Edinburgh Napier University",
+  "Global Rank": "943",
+  "Global Score": 40,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Institut National Polytechnique de Toulouse",
+  "Global Rank": "943",
+  "Global Score": 40,
+  "State": "France"
+ },
+ {
+  "University": "King Khalid University",
+  "Global Rank": "943",
+  "Global Score": 40,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Taibah University",
+  "Global Rank": "943",
+  "Global Score": 40,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Beijing Forestry University",
+  "Global Rank": "948",
+  "Global Score": 39.9,
+  "State": "China"
+ },
+ {
+  "University": "Minia University",
+  "Global Rank": "948",
+  "Global Score": 39.9,
+  "State": "Egypt"
+ },
+ {
+  "University": "Near East University",
+  "Global Rank": "948",
+  "Global Score": 39.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Universidad Peruana Cayetano Heredia",
+  "Global Rank": "948",
+  "Global Score": 39.9,
+  "State": "Peru"
+ },
+ {
+  "University": "University of New Brunswick",
+  "Global Rank": "948",
+  "Global Score": 39.9,
+  "State": "Canada"
+ },
+ {
+  "University": "Aberystwyth University",
+  "Global Rank": "953",
+  "Global Score": 39.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Augusta University",
+  "Global Rank": "953",
+  "Global Score": 39.8,
+  "State": "United States"
+ },
+ {
+  "University": "Institut National des Sciences Appliquees de Lyon - INSA Lyon",
+  "Global Rank": "953",
+  "Global Score": 39.8,
+  "State": "France"
+ },
+ {
+  "University": "Keele University",
+  "Global Rank": "953",
+  "Global Score": 39.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Qufu Normal University",
+  "Global Rank": "953",
+  "Global Score": 39.8,
+  "State": "China"
+ },
+ {
+  "University": "Sabanci University",
+  "Global Rank": "953",
+  "Global Score": 39.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Beni Suef University",
+  "Global Rank": "959",
+  "Global Score": 39.7,
+  "State": "Egypt"
+ },
+ {
+  "University": "Charles Darwin University",
+  "Global Rank": "959",
+  "Global Score": 39.7,
+  "State": "Australia"
+ },
+ {
+  "University": "Imam Abdulrahman Bin Faisal University",
+  "Global Rank": "959",
+  "Global Score": 39.7,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "University of London Royal Veterinary College",
+  "Global Rank": "959",
+  "Global Score": 39.7,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Ural Federal University",
+  "Global Rank": "959",
+  "Global Score": 39.7,
+  "State": "Russia"
+ },
+ {
+  "University": "University of Thessaly",
+  "Global Rank": "964",
+  "Global Score": 39.6,
+  "State": "Greece"
+ },
+ {
+  "University": "Wuhan University of Science & Technology",
+  "Global Rank": "964",
+  "Global Score": 39.6,
+  "State": "China"
+ },
+ {
+  "University": "Gwangju Institute of Science & Technology (GIST)",
+  "Global Rank": "966",
+  "Global Score": 39.5,
+  "State": "South Korea"
+ },
+ {
+  "University": "Universitat Ramon Llull",
+  "Global Rank": "966",
+  "Global Score": 39.5,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Insubria",
+  "Global Rank": "966",
+  "Global Score": 39.5,
+  "State": "Italy"
+ },
+ {
+  "University": "Villanova University",
+  "Global Rank": "966",
+  "Global Score": 39.5,
+  "State": "United States"
+ },
+ {
+  "University": "Henan University",
+  "Global Rank": "970",
+  "Global Score": 39.4,
+  "State": "China"
+ },
+ {
+  "University": "University of Indonesia",
+  "Global Rank": "970",
+  "Global Score": 39.4,
+  "State": "Indonesia"
+ },
+ {
+  "University": "University of Maine Orono",
+  "Global Rank": "970",
+  "Global Score": 39.4,
+  "State": "United States"
+ },
+ {
+  "University": "University of Sofia",
+  "Global Rank": "970",
+  "Global Score": 39.4,
+  "State": "Bulgaria"
+ },
+ {
+  "University": "Vietnam National University Hanoi",
+  "Global Rank": "970",
+  "Global Score": 39.4,
+  "State": "Vietnam"
+ },
+ {
+  "University": "Shanghai University of Finance & Economics",
+  "Global Rank": "975",
+  "Global Score": 39.3,
+  "State": "China"
+ },
+ {
+  "University": "Tabriz University of Medical Science",
+  "Global Rank": "975",
+  "Global Score": 39.3,
+  "State": "Iran"
+ },
+ {
+  "University": "Fayoum University",
+  "Global Rank": "977",
+  "Global Score": 39.2,
+  "State": "Egypt"
+ },
+ {
+  "University": "Shiraz University of Medical Science",
+  "Global Rank": "977",
+  "Global Score": 39.2,
+  "State": "Iran"
+ },
+ {
+  "University": "Universidade Federal do Ceara",
+  "Global Rank": "977",
+  "Global Score": 39.2,
+  "State": "Brazil"
+ },
+ {
+  "University": "Universidad Pablo de Olavide",
+  "Global Rank": "977",
+  "Global Score": 39.2,
+  "State": "Spain"
+ },
+ {
+  "University": "Universiti Teknologi MARA",
+  "Global Rank": "977",
+  "Global Score": 39.2,
+  "State": "Malaysia"
+ },
+ {
+  "University": "University of Dhaka",
+  "Global Rank": "977",
+  "Global Score": 39.2,
+  "State": "Bangladesh"
+ },
+ {
+  "University": "University of Kragujevac",
+  "Global Rank": "977",
+  "Global Score": 39.2,
+  "State": "Serbia"
+ },
+ {
+  "University": "Huzhou University",
+  "Global Rank": "984",
+  "Global Score": 39.1,
+  "State": "China"
+ },
+ {
+  "University": "Shinshu University",
+  "Global Rank": "984",
+  "Global Score": 39.1,
+  "State": "Japan"
+ },
+ {
+  "University": "State University of New York (SUNY) Binghamton",
+  "Global Rank": "984",
+  "Global Score": 39.1,
+  "State": "United States"
+ },
+ {
+  "University": "Universitat Jaume I",
+  "Global Rank": "984",
+  "Global Score": 39.1,
+  "State": "Spain"
+ },
+ {
+  "University": "Universitat Siegen",
+  "Global Rank": "984",
+  "Global Score": 39.1,
+  "State": "Germany"
+ },
+ {
+  "University": "Chang'an University",
+  "Global Rank": "989",
+  "Global Score": 39,
+  "State": "China"
+ },
+ {
+  "University": "Loma Linda University",
+  "Global Rank": "989",
+  "Global Score": 39,
+  "State": "United States"
+ },
+ {
+  "University": "Old Dominion University",
+  "Global Rank": "989",
+  "Global Score": 39,
+  "State": "United States"
+ },
+ {
+  "University": "Benemerita Universidad Autonoma de Puebla",
+  "Global Rank": "992",
+  "Global Score": 38.9,
+  "State": "Mexico"
+ },
+ {
+  "University": "Johannes Kepler University Linz",
+  "Global Rank": "992",
+  "Global Score": 38.9,
+  "State": "Austria"
+ },
+ {
+  "University": "Marmara University",
+  "Global Rank": "992",
+  "Global Score": 38.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Universiti Malaysia Pahang",
+  "Global Rank": "992",
+  "Global Score": 38.9,
+  "State": "Malaysia"
+ },
+ {
+  "University": "University of Yaounde I",
+  "Global Rank": "992",
+  "Global Score": 38.9,
+  "State": "Cameroon"
+ },
+ {
+  "University": "Bohai University",
+  "Global Rank": "997",
+  "Global Score": 38.8,
+  "State": "China"
+ },
+ {
+  "University": "MINES ParisTech",
+  "Global Rank": "997",
+  "Global Score": 38.8,
+  "State": "France"
+ },
+ {
+  "University": "Southern Cross University",
+  "Global Rank": "997",
+  "Global Score": 38.8,
+  "State": "Australia"
+ },
+ {
+  "University": "Thapar Institute of Engineering & Technology",
+  "Global Rank": "997",
+  "Global Score": 38.8,
+  "State": "India"
+ },
+ {
+  "University": "Universite de Caen Normandie",
+  "Global Rank": "997",
+  "Global Score": 38.8,
+  "State": "France"
+ },
+ {
+  "University": "Carol Davila University of Medicine & Pharmacy",
+  "Global Rank": "1,002",
+  "Global Score": 38.7,
+  "State": "Romania"
+ },
+ {
+  "University": "Macau University of Science & Technology",
+  "Global Rank": "1,002",
+  "Global Score": 38.7,
+  "State": "Macau"
+ },
+ {
+  "University": "Mohammed V University in Rabat",
+  "Global Rank": "1,002",
+  "Global Score": 38.7,
+  "State": "Morocco"
+ },
+ {
+  "University": "Tshwane University of Technology",
+  "Global Rank": "1,002",
+  "Global Score": 38.7,
+  "State": "South Africa"
+ },
+ {
+  "University": "Universidade Federal da Bahia",
+  "Global Rank": "1,002",
+  "Global Score": 38.7,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Toledo",
+  "Global Rank": "1,002",
+  "Global Score": 38.7,
+  "State": "United States"
+ },
+ {
+  "University": "IHE Delft Institute for Water Education",
+  "Global Rank": "1,008",
+  "Global Score": 38.6,
+  "State": "Netherlands"
+ },
+ {
+  "University": "King Mongkuts University of Technology Thonburi",
+  "Global Rank": "1,008",
+  "Global Score": 38.6,
+  "State": "Thailand"
+ },
+ {
+  "University": "Montclair State University",
+  "Global Rank": "1,008",
+  "Global Score": 38.6,
+  "State": "United States"
+ },
+ {
+  "University": "Northeast Normal University - China",
+  "Global Rank": "1,008",
+  "Global Score": 38.6,
+  "State": "China"
+ },
+ {
+  "University": "Polytechnic University of Bucharest",
+  "Global Rank": "1,008",
+  "Global Score": 38.6,
+  "State": "Romania"
+ },
+ {
+  "University": "Ernst Moritz Arndt Universitat Greifswald",
+  "Global Rank": "1,013",
+  "Global Score": 38.5,
+  "State": "Germany"
+ },
+ {
+  "University": "Oxford Brookes University",
+  "Global Rank": "1,013",
+  "Global Score": 38.5,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Universidad de Castilla-La Mancha",
+  "Global Rank": "1,013",
+  "Global Score": 38.5,
+  "State": "Spain"
+ },
+ {
+  "University": "University of South Bohemia Ceske Budejovice",
+  "Global Rank": "1,013",
+  "Global Score": 38.5,
+  "State": "Czech Republic"
+ },
+ {
+  "University": "Izmir Institute of Technology",
+  "Global Rank": "1,017",
+  "Global Score": 38.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "National University of Science & Technology (MISIS)",
+  "Global Rank": "1,017",
+  "Global Score": 38.4,
+  "State": "Russia"
+ },
+ {
+  "University": "Tallinn University of Technology",
+  "Global Rank": "1,017",
+  "Global Score": 38.4,
+  "State": "Estonia"
+ },
+ {
+  "University": "Universidade Federal Fluminense",
+  "Global Rank": "1,017",
+  "Global Score": 38.4,
+  "State": "Brazil"
+ },
+ {
+  "University": "Universite de Sfax",
+  "Global Rank": "1,017",
+  "Global Score": 38.4,
+  "State": "Tunisia"
+ },
+ {
+  "University": "Jiangsu Normal University",
+  "Global Rank": "1,022",
+  "Global Score": 38.3,
+  "State": "China"
+ },
+ {
+  "University": "Universita Ca Foscari Venezia",
+  "Global Rank": "1,022",
+  "Global Score": 38.3,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Aegean",
+  "Global Rank": "1,022",
+  "Global Score": 38.3,
+  "State": "Greece"
+ },
+ {
+  "University": "University of Latvia",
+  "Global Rank": "1,022",
+  "Global Score": 38.3,
+  "State": "Latvia"
+ },
+ {
+  "University": "University of Wroclaw",
+  "Global Rank": "1,022",
+  "Global Score": 38.3,
+  "State": "Poland"
+ },
+ {
+  "University": "Harbin Medical University",
+  "Global Rank": "1,027",
+  "Global Score": 38.2,
+  "State": "China"
+ },
+ {
+  "University": "Kentucky State University",
+  "Global Rank": "1,027",
+  "Global Score": 38.2,
+  "State": "United States"
+ },
+ {
+  "University": "Shanxi University",
+  "Global Rank": "1,027",
+  "Global Score": 38.2,
+  "State": "China"
+ },
+ {
+  "University": "University of Malta",
+  "Global Rank": "1,027",
+  "Global Score": 38.2,
+  "State": "Malta"
+ },
+ {
+  "University": "University of West England",
+  "Global Rank": "1,027",
+  "Global Score": 38.2,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Lincoln University - New Zealand",
+  "Global Rank": "1,032",
+  "Global Score": 38.1,
+  "State": "New Zealand"
+ },
+ {
+  "University": "Manipal Academy of Higher Education (MAHE)",
+  "Global Rank": "1,032",
+  "Global Score": 38.1,
+  "State": "India"
+ },
+ {
+  "University": "Pontificia Universidade Catolica Do Rio Grande Do Sul",
+  "Global Rank": "1,032",
+  "Global Score": 38.1,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Eastern Piedmont Amedeo Avogadro",
+  "Global Rank": "1,032",
+  "Global Score": 38.1,
+  "State": "Italy"
+ },
+ {
+  "University": "Chung Ang University",
+  "Global Rank": "1,036",
+  "Global Score": 38,
+  "State": "South Korea"
+ },
+ {
+  "University": "Abo Akademi University",
+  "Global Rank": "1,037",
+  "Global Score": 37.9,
+  "State": "Finland"
+ },
+ {
+  "University": "Brandenburg University of Technology Cottbus",
+  "Global Rank": "1,037",
+  "Global Score": 37.9,
+  "State": "Germany"
+ },
+ {
+  "University": "King Faisal University",
+  "Global Rank": "1,037",
+  "Global Score": 37.9,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Shanghai Maritime University",
+  "Global Rank": "1,037",
+  "Global Score": 37.9,
+  "State": "China"
+ },
+ {
+  "University": "University of Arkansas Medical Sciences",
+  "Global Rank": "1,037",
+  "Global Score": 37.9,
+  "State": "United States"
+ },
+ {
+  "University": "Fujian Normal University",
+  "Global Rank": "1,042",
+  "Global Score": 37.8,
+  "State": "China"
+ },
+ {
+  "University": "King Saud Bin Abdulaziz University for Health Sciences",
+  "Global Rank": "1,042",
+  "Global Score": 37.8,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Shahid Beheshti University",
+  "Global Rank": "1,042",
+  "Global Score": 37.8,
+  "State": "Iran"
+ },
+ {
+  "University": "University of North Carolina Greensboro",
+  "Global Rank": "1,042",
+  "Global Score": 37.8,
+  "State": "United States"
+ },
+ {
+  "University": "Dongguk University",
+  "Global Rank": "1,046",
+  "Global Score": 37.7,
+  "State": "South Korea"
+ },
+ {
+  "University": "Ferdowsi University Mashhad",
+  "Global Rank": "1,046",
+  "Global Score": 37.7,
+  "State": "Iran"
+ },
+ {
+  "University": "University Massachusetts Dartmouth",
+  "Global Rank": "1,046",
+  "Global Score": 37.7,
+  "State": "United States"
+ },
+ {
+  "University": "Konkuk University",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "South Korea"
+ },
+ {
+  "University": "Kumamoto University",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "Japan"
+ },
+ {
+  "University": "Middlesex University",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "National Sun Yat Sen University",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "Taiwan"
+ },
+ {
+  "University": "National Taiwan Normal University",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Portland State University",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "United States"
+ },
+ {
+  "University": "Universidad de Extremadura",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "Spain"
+ },
+ {
+  "University": "Universitat Kassel",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "Germany"
+ },
+ {
+  "University": "Universitetet i Stavanger",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "Norway"
+ },
+ {
+  "University": "University of Maribor",
+  "Global Rank": "1,049",
+  "Global Score": 37.6,
+  "State": "Slovenia"
+ },
+ {
+  "University": "Universidade Federal de Juiz de Fora",
+  "Global Rank": "1,059",
+  "Global Score": 37.5,
+  "State": "Brazil"
+ },
+ {
+  "University": "Brno University of Technology",
+  "Global Rank": "1,060",
+  "Global Score": 37.4,
+  "State": "Czech Republic"
+ },
+ {
+  "University": "Dalian Maritime University",
+  "Global Rank": "1,060",
+  "Global Score": 37.4,
+  "State": "China"
+ },
+ {
+  "University": "Guangxi University",
+  "Global Rank": "1,060",
+  "Global Score": 37.4,
+  "State": "China"
+ },
+ {
+  "University": "Hunan Agricultural University",
+  "Global Rank": "1,060",
+  "Global Score": 37.4,
+  "State": "China"
+ },
+ {
+  "University": "Kanazawa University",
+  "Global Rank": "1,060",
+  "Global Score": 37.4,
+  "State": "Japan"
+ },
+ {
+  "University": "Post Graduate Institute of Medical Education & Research (PGIMER), Chandigarh",
+  "Global Rank": "1,060",
+  "Global Score": 37.4,
+  "State": "India"
+ },
+ {
+  "University": "California State University Sacramento",
+  "Global Rank": "1,066",
+  "Global Score": 37.3,
+  "State": "United States"
+ },
+ {
+  "University": "Niigata University",
+  "Global Rank": "1,066",
+  "Global Score": 37.3,
+  "State": "Japan"
+ },
+ {
+  "University": "Polytechnic Institute of Porto",
+  "Global Rank": "1,066",
+  "Global Score": 37.3,
+  "State": "Portugal"
+ },
+ {
+  "University": "Southwest University of Science & Technology - China",
+  "Global Rank": "1,066",
+  "Global Score": 37.3,
+  "State": "China"
+ },
+ {
+  "University": "University of Bucharest",
+  "Global Rank": "1,066",
+  "Global Score": 37.3,
+  "State": "Romania"
+ },
+ {
+  "University": "Yunnan University",
+  "Global Rank": "1,066",
+  "Global Score": 37.3,
+  "State": "China"
+ },
+ {
+  "University": "Catholic University of America",
+  "Global Rank": "1,072",
+  "Global Score": 37.2,
+  "State": "United States"
+ },
+ {
+  "University": "Fordham University",
+  "Global Rank": "1,072",
+  "Global Score": 37.2,
+  "State": "United States"
+ },
+ {
+  "University": "National University of Cordoba",
+  "Global Rank": "1,072",
+  "Global Score": 37.2,
+  "State": "Argentina"
+ },
+ {
+  "University": "Universitat d'Alacant",
+  "Global Rank": "1,072",
+  "Global Score": 37.2,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Akron",
+  "Global Rank": "1,072",
+  "Global Score": 37.2,
+  "State": "United States"
+ },
+ {
+  "University": "University of the Sunshine Coast",
+  "Global Rank": "1,072",
+  "Global Score": 37.2,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Veterinary Medicine Vienna",
+  "Global Rank": "1,072",
+  "Global Score": 37.2,
+  "State": "Austria"
+ },
+ {
+  "University": "Yangzhou University",
+  "Global Rank": "1,072",
+  "Global Score": 37.2,
+  "State": "China"
+ },
+ {
+  "University": "Coventry University",
+  "Global Rank": "1,080",
+  "Global Score": 37.1,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Universidade Federal de Santa Maria (UFSM)",
+  "Global Rank": "1,080",
+  "Global Score": 37.1,
+  "State": "Brazil"
+ },
+ {
+  "University": "National University of Defense Technology - China",
+  "Global Rank": "1,082",
+  "Global Score": 37,
+  "State": "China"
+ },
+ {
+  "University": "Nicolaus Copernicus University",
+  "Global Rank": "1,082",
+  "Global Score": 37,
+  "State": "Poland"
+ },
+ {
+  "University": "Western Norway University of Applied Sciences",
+  "Global Rank": "1,082",
+  "Global Score": 37,
+  "State": "Norway"
+ },
+ {
+  "University": "Helwan University",
+  "Global Rank": "1,085",
+  "Global Score": 36.9,
+  "State": "Egypt"
+ },
+ {
+  "University": "Osaka Metropolitan University",
+  "Global Rank": "1,085",
+  "Global Score": 36.9,
+  "State": "Japan"
+ },
+ {
+  "University": "University of Huddersfield",
+  "Global Rank": "1,085",
+  "Global Score": 36.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Chang Gung University",
+  "Global Rank": "1,088",
+  "Global Score": 36.8,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Florida Atlantic University",
+  "Global Rank": "1,088",
+  "Global Score": 36.8,
+  "State": "United States"
+ },
+ {
+  "University": "Jawaharlal Nehru University, New Delhi",
+  "Global Rank": "1,088",
+  "Global Score": 36.8,
+  "State": "India"
+ },
+ {
+  "University": "Magna Graecia University of Catanzaro",
+  "Global Rank": "1,088",
+  "Global Score": 36.8,
+  "State": "Italy"
+ },
+ {
+  "University": "Obafemi Awolowo University",
+  "Global Rank": "1,088",
+  "Global Score": 36.8,
+  "State": "Nigeria"
+ },
+ {
+  "University": "Universite Paris 13",
+  "Global Rank": "1,088",
+  "Global Score": 36.8,
+  "State": "France"
+ },
+ {
+  "University": "University of Memphis",
+  "Global Rank": "1,088",
+  "Global Score": 36.8,
+  "State": "United States"
+ },
+ {
+  "University": "Al-Imam Muhammad Ibn Saud Islamic University",
+  "Global Rank": "1,095",
+  "Global Score": 36.7,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Central Queensland University",
+  "Global Rank": "1,095",
+  "Global Score": 36.7,
+  "State": "Australia"
+ },
+ {
+  "University": "Instituto Politecnico Nacional - Mexico",
+  "Global Rank": "1,095",
+  "Global Score": 36.7,
+  "State": "Mexico"
+ },
+ {
+  "University": "Sohag University",
+  "Global Rank": "1,095",
+  "Global Score": 36.7,
+  "State": "Egypt"
+ },
+ {
+  "University": "Tokyo University of Science",
+  "Global Rank": "1,095",
+  "Global Score": 36.7,
+  "State": "Japan"
+ },
+ {
+  "University": "University of Salford",
+  "Global Rank": "1,095",
+  "Global Score": 36.7,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Cadi Ayyad University of Marrakech",
+  "Global Rank": "1,101",
+  "Global Score": 36.6,
+  "State": "Morocco"
+ },
+ {
+  "University": "Pontificia Universidad Catolica del Peru",
+  "Global Rank": "1,101",
+  "Global Score": 36.6,
+  "State": "Peru"
+ },
+ {
+  "University": "Athens Medical School",
+  "Global Rank": "1,103",
+  "Global Score": 36.5,
+  "State": "Greece"
+ },
+ {
+  "University": "Hangzhou Normal University",
+  "Global Rank": "1,103",
+  "Global Score": 36.5,
+  "State": "China"
+ },
+ {
+  "University": "University of Tabuk",
+  "Global Rank": "1,103",
+  "Global Score": 36.5,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Guwahati",
+  "Global Rank": "1,106",
+  "Global Score": 36.4,
+  "State": "India"
+ },
+ {
+  "University": "Kermanshah University of Medical Sciences",
+  "Global Rank": "1,106",
+  "Global Score": 36.4,
+  "State": "Iran"
+ },
+ {
+  "University": "Medical University of Warsaw",
+  "Global Rank": "1,106",
+  "Global Score": 36.4,
+  "State": "Poland"
+ },
+ {
+  "University": "Nova Southeastern University",
+  "Global Rank": "1,106",
+  "Global Score": 36.4,
+  "State": "United States"
+ },
+ {
+  "University": "Uniformed Services University of the Health Sciences - USA",
+  "Global Rank": "1,106",
+  "Global Score": 36.4,
+  "State": "United States"
+ },
+ {
+  "University": "Universidade da Coruna",
+  "Global Rank": "1,106",
+  "Global Score": 36.4,
+  "State": "Spain"
+ },
+ {
+  "University": "Universitat de Lleida",
+  "Global Rank": "1,106",
+  "Global Score": 36.4,
+  "State": "Spain"
+ },
+ {
+  "University": "Air Force Military Medical University",
+  "Global Rank": "1,113",
+  "Global Score": 36.3,
+  "State": "China"
+ },
+ {
+  "University": "China Medical University",
+  "Global Rank": "1,113",
+  "Global Score": 36.3,
+  "State": "China"
+ },
+ {
+  "University": "International Islamic University Malaysia",
+  "Global Rank": "1,113",
+  "Global Score": 36.3,
+  "State": "Malaysia"
+ },
+ {
+  "University": "Ajou University",
+  "Global Rank": "1,116",
+  "Global Score": 36.2,
+  "State": "South Korea"
+ },
+ {
+  "University": "Hunan University of Science & Technology",
+  "Global Rank": "1,116",
+  "Global Score": 36.2,
+  "State": "China"
+ },
+ {
+  "University": "Qingdao University of Technology",
+  "Global Rank": "1,116",
+  "Global Score": 36.2,
+  "State": "China"
+ },
+ {
+  "University": "Vietnam National University Hochiminh City",
+  "Global Rank": "1,116",
+  "Global Score": 36.2,
+  "State": "Vietnam"
+ },
+ {
+  "University": "Zhongnan University of Economics & Law",
+  "Global Rank": "1,116",
+  "Global Score": 36.2,
+  "State": "China"
+ },
+ {
+  "University": "Instituto Universitario de Lisboa",
+  "Global Rank": "1,121",
+  "Global Score": 36.1,
+  "State": "Portugal"
+ },
+ {
+  "University": "Ontario Tech University",
+  "Global Rank": "1,121",
+  "Global Score": 36.1,
+  "State": "Canada"
+ },
+ {
+  "University": "Universidade do Algarve",
+  "Global Rank": "1,121",
+  "Global Score": 36.1,
+  "State": "Portugal"
+ },
+ {
+  "University": "University of Sannio",
+  "Global Rank": "1,121",
+  "Global Score": 36.1,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Windsor",
+  "Global Rank": "1,121",
+  "Global Score": 36.1,
+  "State": "Canada"
+ },
+ {
+  "University": "Southern Illinois University",
+  "Global Rank": "1,126",
+  "Global Score": 36,
+  "State": "United States"
+ },
+ {
+  "University": "Universidade Federal de Vicosa",
+  "Global Rank": "1,126",
+  "Global Score": 36,
+  "State": "Brazil"
+ },
+ {
+  "University": "University Campus Bio-Medico - Rome Italy",
+  "Global Rank": "1,126",
+  "Global Score": 36,
+  "State": "Italy"
+ },
+ {
+  "University": "Guangzhou Medical University",
+  "Global Rank": "1,129",
+  "Global Score": 35.9,
+  "State": "China"
+ },
+ {
+  "University": "Isfahan University Medical Science",
+  "Global Rank": "1,129",
+  "Global Score": 35.9,
+  "State": "Iran"
+ },
+ {
+  "University": "Sichuan Agricultural University",
+  "Global Rank": "1,129",
+  "Global Score": 35.9,
+  "State": "China"
+ },
+ {
+  "University": "Cukurova University",
+  "Global Rank": "1,132",
+  "Global Score": 35.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Universidad Miguel Hernandez de Elche",
+  "Global Rank": "1,132",
+  "Global Score": 35.8,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Novi Sad",
+  "Global Rank": "1,132",
+  "Global Score": 35.8,
+  "State": "Serbia"
+ },
+ {
+  "University": "Xiangtan University",
+  "Global Rank": "1,132",
+  "Global Score": 35.8,
+  "State": "China"
+ },
+ {
+  "University": "Nagasaki University",
+  "Global Rank": "1,136",
+  "Global Score": 35.7,
+  "State": "Japan"
+ },
+ {
+  "University": "Universidad Industrial de Santander",
+  "Global Rank": "1,136",
+  "Global Score": 35.7,
+  "State": "Colombia"
+ },
+ {
+  "University": "University of Massachusetts Lowell",
+  "Global Rank": "1,136",
+  "Global Score": 35.7,
+  "State": "United States"
+ },
+ {
+  "University": "Zhejiang A&F University",
+  "Global Rank": "1,136",
+  "Global Score": 35.7,
+  "State": "China"
+ },
+ {
+  "University": "Chungnam National University",
+  "Global Rank": "1,140",
+  "Global Score": 35.6,
+  "State": "South Korea"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT) - Indore",
+  "Global Rank": "1,140",
+  "Global Score": 35.6,
+  "State": "India"
+ },
+ {
+  "University": "Jiangsu University of Science & Technology",
+  "Global Rank": "1,140",
+  "Global Score": 35.6,
+  "State": "China"
+ },
+ {
+  "University": "Universidad Andres Bello",
+  "Global Rank": "1,140",
+  "Global Score": 35.6,
+  "State": "Chile"
+ },
+ {
+  "University": "Universidad Austral de Chile",
+  "Global Rank": "1,140",
+  "Global Score": 35.6,
+  "State": "Chile"
+ },
+ {
+  "University": "University of Pecs",
+  "Global Rank": "1,140",
+  "Global Score": 35.6,
+  "State": "Hungary"
+ },
+ {
+  "University": "University of Punjab",
+  "Global Rank": "1,140",
+  "Global Score": 35.6,
+  "State": "Pakistan"
+ },
+ {
+  "University": "Glasgow Caledonian University",
+  "Global Rank": "1,147",
+  "Global Score": 35.5,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Kuwait University",
+  "Global Rank": "1,147",
+  "Global Score": 35.5,
+  "State": "Kuwait"
+ },
+ {
+  "University": "Universidad de Jaen",
+  "Global Rank": "1,147",
+  "Global Score": 35.5,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Jinan",
+  "Global Rank": "1,147",
+  "Global Score": 35.5,
+  "State": "China"
+ },
+ {
+  "University": "Budapest University of Technology & Economics",
+  "Global Rank": "1,151",
+  "Global Score": 35.4,
+  "State": "Hungary"
+ },
+ {
+  "University": "Ege University",
+  "Global Rank": "1,151",
+  "Global Score": 35.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Paracelsus Private Medical University",
+  "Global Rank": "1,153",
+  "Global Score": 35.3,
+  "State": "Austria"
+ },
+ {
+  "University": "Yildiz Technical University",
+  "Global Rank": "1,153",
+  "Global Score": 35.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Medical University Gdansk",
+  "Global Rank": "1,155",
+  "Global Score": 35.2,
+  "State": "Poland"
+ },
+ {
+  "University": "Northeast Agricultural University - China",
+  "Global Rank": "1,155",
+  "Global Score": 35.2,
+  "State": "China"
+ },
+ {
+  "University": "Xi'an University of Science & Technology",
+  "Global Rank": "1,155",
+  "Global Score": 35.2,
+  "State": "China"
+ },
+ {
+  "University": "Agricultural University of Athens",
+  "Global Rank": "1,158",
+  "Global Score": 35.1,
+  "State": "Greece"
+ },
+ {
+  "University": "Free University of Bozen-Bolzano",
+  "Global Rank": "1,158",
+  "Global Score": 35.1,
+  "State": "Italy"
+ },
+ {
+  "University": "Qingdao University of Science & Technology",
+  "Global Rank": "1,158",
+  "Global Score": 35.1,
+  "State": "China"
+ },
+ {
+  "University": "Shanghai Normal University",
+  "Global Rank": "1,158",
+  "Global Score": 35.1,
+  "State": "China"
+ },
+ {
+  "University": "University of Mohaghegh Ardabili",
+  "Global Rank": "1,158",
+  "Global Score": 35.1,
+  "State": "Iran"
+ },
+ {
+  "University": "Albany Medical College",
+  "Global Rank": "1,163",
+  "Global Score": 35,
+  "State": "United States"
+ },
+ {
+  "University": "Anhui University",
+  "Global Rank": "1,163",
+  "Global Score": 35,
+  "State": "China"
+ },
+ {
+  "University": "Hangzhou Dianzi University",
+  "Global Rank": "1,163",
+  "Global Score": 35,
+  "State": "China"
+ },
+ {
+  "University": "Kindai University (Kinki University)",
+  "Global Rank": "1,163",
+  "Global Score": 35,
+  "State": "Japan"
+ },
+ {
+  "University": "Firat University",
+  "Global Rank": "1,167",
+  "Global Score": 34.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "National Taipei University of Technology",
+  "Global Rank": "1,167",
+  "Global Score": 34.9,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Tianjin Medical University",
+  "Global Rank": "1,167",
+  "Global Score": 34.9,
+  "State": "China"
+ },
+ {
+  "University": "Umm Al Qura University",
+  "Global Rank": "1,167",
+  "Global Score": 34.9,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "University of Neuchatel",
+  "Global Rank": "1,167",
+  "Global Score": 34.9,
+  "State": "Switzerland"
+ },
+ {
+  "University": "Alexandru Ioan Cuza University",
+  "Global Rank": "1,172",
+  "Global Score": 34.8,
+  "State": "Romania"
+ },
+ {
+  "University": "Cyprus University of Technology",
+  "Global Rank": "1,172",
+  "Global Score": 34.8,
+  "State": "Cyprus"
+ },
+ {
+  "University": "Hamburg University of Technology",
+  "Global Rank": "1,172",
+  "Global Score": 34.8,
+  "State": "Germany"
+ },
+ {
+  "University": "K. N. Toosi University of Technology",
+  "Global Rank": "1,172",
+  "Global Score": 34.8,
+  "State": "Iran"
+ },
+ {
+  "University": "Marquette University",
+  "Global Rank": "1,172",
+  "Global Score": 34.8,
+  "State": "United States"
+ },
+ {
+  "University": "South Dakota State University",
+  "Global Rank": "1,172",
+  "Global Score": 34.8,
+  "State": "United States"
+ },
+ {
+  "University": "University of Hertfordshire",
+  "Global Rank": "1,172",
+  "Global Score": 34.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University of Occupational & Environmental Health - Japan",
+  "Global Rank": "1,172",
+  "Global Score": 34.8,
+  "State": "Japan"
+ },
+ {
+  "University": "Kunming University of Science & Technology",
+  "Global Rank": "1,180",
+  "Global Score": 34.7,
+  "State": "China"
+ },
+ {
+  "University": "Tokyo Medical University",
+  "Global Rank": "1,180",
+  "Global Score": 34.7,
+  "State": "Japan"
+ },
+ {
+  "University": "Visva Bharati University",
+  "Global Rank": "1,180",
+  "Global Score": 34.7,
+  "State": "India"
+ },
+ {
+  "University": "Wenzhou University",
+  "Global Rank": "1,180",
+  "Global Score": 34.7,
+  "State": "China"
+ },
+ {
+  "University": "Ecole nationale superieure de chimie de Montpellier",
+  "Global Rank": "1,184",
+  "Global Score": 34.6,
+  "State": "France"
+ },
+ {
+  "University": "Jadavpur University",
+  "Global Rank": "1,184",
+  "Global Score": 34.6,
+  "State": "India"
+ },
+ {
+  "University": "State University of New York (SUNY) College of Environmental Science & Forestry",
+  "Global Rank": "1,184",
+  "Global Score": 34.6,
+  "State": "United States"
+ },
+ {
+  "University": "Tokai University",
+  "Global Rank": "1,184",
+  "Global Score": 34.6,
+  "State": "Japan"
+ },
+ {
+  "University": "Universitat Trier",
+  "Global Rank": "1,184",
+  "Global Score": 34.6,
+  "State": "Germany"
+ },
+ {
+  "University": "Universite de Tours",
+  "Global Rank": "1,184",
+  "Global Score": 34.6,
+  "State": "France"
+ },
+ {
+  "University": "Catholic University of Korea",
+  "Global Rank": "1,190",
+  "Global Score": 34.5,
+  "State": "South Korea"
+ },
+ {
+  "University": "Gaziantep University",
+  "Global Rank": "1,190",
+  "Global Score": 34.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Greifswald Medical School",
+  "Global Rank": "1,190",
+  "Global Score": 34.5,
+  "State": "Germany"
+ },
+ {
+  "University": "Prince of Songkla University",
+  "Global Rank": "1,190",
+  "Global Score": 34.5,
+  "State": "Thailand"
+ },
+ {
+  "University": "Universidad de Cadiz",
+  "Global Rank": "1,190",
+  "Global Score": 34.5,
+  "State": "Spain"
+ },
+ {
+  "University": "Universidad Rey Juan Carlos",
+  "Global Rank": "1,190",
+  "Global Score": 34.5,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Kaiserslautern",
+  "Global Rank": "1,190",
+  "Global Score": 34.5,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Zimbabwe",
+  "Global Rank": "1,190",
+  "Global Score": 34.5,
+  "State": "Zimbabwe"
+ },
+ {
+  "University": "Dokuz Eylul University",
+  "Global Rank": "1,198",
+  "Global Score": 34.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Hainan University",
+  "Global Rank": "1,198",
+  "Global Score": 34.4,
+  "State": "China"
+ },
+ {
+  "University": "Pontificia Universidad Catolica de Valparaiso",
+  "Global Rank": "1,198",
+  "Global Score": 34.4,
+  "State": "Chile"
+ },
+ {
+  "University": "Universidad de Valladolid",
+  "Global Rank": "1,198",
+  "Global Score": 34.4,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Nigeria",
+  "Global Rank": "1,198",
+  "Global Score": 34.4,
+  "State": "Nigeria"
+ },
+ {
+  "University": "Creighton University",
+  "Global Rank": "1,203",
+  "Global Score": 34.3,
+  "State": "United States"
+ },
+ {
+  "University": "Pontificia Universidade Catolica do Rio de Janeiro",
+  "Global Rank": "1,203",
+  "Global Score": 34.3,
+  "State": "Brazil"
+ },
+ {
+  "University": "Universidad de Valparaiso",
+  "Global Rank": "1,203",
+  "Global Score": 34.3,
+  "State": "Chile"
+ },
+ {
+  "University": "Universidade Federal de Goias",
+  "Global Rank": "1,203",
+  "Global Score": 34.3,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Greenwich",
+  "Global Rank": "1,203",
+  "Global Score": 34.3,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Gyeongsang National University",
+  "Global Rank": "1,208",
+  "Global Score": 34.2,
+  "State": "South Korea"
+ },
+ {
+  "University": "Jonkoping University",
+  "Global Rank": "1,208",
+  "Global Score": 34.2,
+  "State": "Sweden"
+ },
+ {
+  "University": "Kaohsiung Medical University",
+  "Global Rank": "1,208",
+  "Global Score": 34.2,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Tribhuvan University",
+  "Global Rank": "1,208",
+  "Global Score": 34.2,
+  "State": "Nepal"
+ },
+ {
+  "University": "Universidad de Santiago de Chile",
+  "Global Rank": "1,208",
+  "Global Score": 34.2,
+  "State": "Chile"
+ },
+ {
+  "University": "Universiti Malaysia Terengganu",
+  "Global Rank": "1,208",
+  "Global Score": 34.2,
+  "State": "Malaysia"
+ },
+ {
+  "University": "University College of Southeast Norway",
+  "Global Rank": "1,208",
+  "Global Score": 34.2,
+  "State": "Norway"
+ },
+ {
+  "University": "University of North Dakota Grand Forks",
+  "Global Rank": "1,208",
+  "Global Score": 34.2,
+  "State": "United States"
+ },
+ {
+  "University": "Universite de Carthage",
+  "Global Rank": "1,216",
+  "Global Score": 34.1,
+  "State": "Tunisia"
+ },
+ {
+  "University": "Xi'an University of Architecture & Technology",
+  "Global Rank": "1,216",
+  "Global Score": 34.1,
+  "State": "China"
+ },
+ {
+  "University": "Gdansk University of Technology",
+  "Global Rank": "1,218",
+  "Global Score": 34,
+  "State": "Poland"
+ },
+ {
+  "University": "Shandong Agricultural University",
+  "Global Rank": "1,218",
+  "Global Score": 34,
+  "State": "China"
+ },
+ {
+  "University": "Tianjin University of Technology",
+  "Global Rank": "1,218",
+  "Global Score": 34,
+  "State": "China"
+ },
+ {
+  "University": "Universite de Picardie Jules Verne (UPJV)",
+  "Global Rank": "1,218",
+  "Global Score": 34,
+  "State": "France"
+ },
+ {
+  "University": "Khon Kaen University",
+  "Global Rank": "1,222",
+  "Global Score": 33.9,
+  "State": "Thailand"
+ },
+ {
+  "University": "San Francisco State University",
+  "Global Rank": "1,222",
+  "Global Score": 33.9,
+  "State": "United States"
+ },
+ {
+  "University": "Universidade Federal de Sao Joao del-Rei",
+  "Global Rank": "1,222",
+  "Global Score": 33.9,
+  "State": "Brazil"
+ },
+ {
+  "University": "Gazi University",
+  "Global Rank": "1,225",
+  "Global Score": 33.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Hubei University",
+  "Global Rank": "1,225",
+  "Global Score": 33.8,
+  "State": "China"
+ },
+ {
+  "University": "Shantou University",
+  "Global Rank": "1,225",
+  "Global Score": 33.8,
+  "State": "China"
+ },
+ {
+  "University": "Stevens Institute of Technology",
+  "Global Rank": "1,225",
+  "Global Score": 33.8,
+  "State": "United States"
+ },
+ {
+  "University": "Universidad de Las Palmas de Gran Canaria",
+  "Global Rank": "1,225",
+  "Global Score": 33.8,
+  "State": "Spain"
+ },
+ {
+  "University": "University of International Business & Economics",
+  "Global Rank": "1,225",
+  "Global Score": 33.8,
+  "State": "China"
+ },
+ {
+  "University": "University of L'Aquila",
+  "Global Rank": "1,225",
+  "Global Score": 33.8,
+  "State": "Italy"
+ },
+ {
+  "University": "University of Paderborn",
+  "Global Rank": "1,225",
+  "Global Score": 33.8,
+  "State": "Germany"
+ },
+ {
+  "University": "Juntendo University",
+  "Global Rank": "1,233",
+  "Global Score": 33.7,
+  "State": "Japan"
+ },
+ {
+  "University": "Nara Institute of Science & Technology",
+  "Global Rank": "1,233",
+  "Global Score": 33.7,
+  "State": "Japan"
+ },
+ {
+  "University": "National Chung Hsing University",
+  "Global Rank": "1,233",
+  "Global Score": 33.7,
+  "State": "Taiwan"
+ },
+ {
+  "University": "Universidad Autonoma de San Luis Potosi",
+  "Global Rank": "1,233",
+  "Global Score": 33.7,
+  "State": "Mexico"
+ },
+ {
+  "University": "Universite de Orleans",
+  "Global Rank": "1,233",
+  "Global Score": 33.7,
+  "State": "France"
+ },
+ {
+  "University": "University of Opole",
+  "Global Rank": "1,233",
+  "Global Score": 33.7,
+  "State": "Poland"
+ },
+ {
+  "University": "California State University Northridge",
+  "Global Rank": "1,239",
+  "Global Score": 33.6,
+  "State": "United States"
+ },
+ {
+  "University": "University of Central Lancashire",
+  "Global Rank": "1,239",
+  "Global Score": 33.6,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "University Osnabruck",
+  "Global Rank": "1,239",
+  "Global Score": 33.6,
+  "State": "Germany"
+ },
+ {
+  "University": "Xi'an Jiaotong-Liverpool University",
+  "Global Rank": "1,239",
+  "Global Score": 33.6,
+  "State": "China"
+ },
+ {
+  "University": "Kasetsart University",
+  "Global Rank": "1,243",
+  "Global Score": 33.5,
+  "State": "Thailand"
+ },
+ {
+  "University": "Medical University Sofia",
+  "Global Rank": "1,243",
+  "Global Score": 33.5,
+  "State": "Bulgaria"
+ },
+ {
+  "University": "Nelson Mandela University",
+  "Global Rank": "1,243",
+  "Global Score": 33.5,
+  "State": "South Africa"
+ },
+ {
+  "University": "Shanghai University of Electric Power",
+  "Global Rank": "1,243",
+  "Global Score": 33.5,
+  "State": "China"
+ },
+ {
+  "University": "South Valley University Egypt",
+  "Global Rank": "1,243",
+  "Global Score": 33.5,
+  "State": "Egypt"
+ },
+ {
+  "University": "Universidad del Desarrollo",
+  "Global Rank": "1,243",
+  "Global Score": 33.5,
+  "State": "Chile"
+ },
+ {
+  "University": "Zhejiang Gongshang University",
+  "Global Rank": "1,243",
+  "Global Score": 33.5,
+  "State": "China"
+ },
+ {
+  "University": "Taras Shevchenko National University Kiev",
+  "Global Rank": "1,250",
+  "Global Score": 33.4,
+  "State": "Ukraine"
+ },
+ {
+  "University": "Institute of Tropical Medicine (ITM)",
+  "Global Rank": "1,251",
+  "Global Score": 33.3,
+  "State": "Belgium"
+ },
+ {
+  "University": "University Kashan",
+  "Global Rank": "1,251",
+  "Global Score": 33.3,
+  "State": "Iran"
+ },
+ {
+  "University": "University of Cassino",
+  "Global Rank": "1,251",
+  "Global Score": 33.3,
+  "State": "Italy"
+ },
+ {
+  "University": "Bahauddin Zakariya University",
+  "Global Rank": "1,254",
+  "Global Score": 33.2,
+  "State": "Pakistan"
+ },
+ {
+  "University": "Birla Institute of Technology & Science Pilani (BITS Pilani)",
+  "Global Rank": "1,254",
+  "Global Score": 33.2,
+  "State": "India"
+ },
+ {
+  "University": "Maynooth University",
+  "Global Rank": "1,254",
+  "Global Score": 33.2,
+  "State": "Ireland"
+ },
+ {
+  "University": "Royal College of Surgeons - Ireland",
+  "Global Rank": "1,254",
+  "Global Score": 33.2,
+  "State": "Ireland"
+ },
+ {
+  "University": "Army Medical University",
+  "Global Rank": "1,258",
+  "Global Score": 33.1,
+  "State": "China"
+ },
+ {
+  "University": "Capital Normal University",
+  "Global Rank": "1,258",
+  "Global Score": 33.1,
+  "State": "China"
+ },
+ {
+  "University": "Universite de Limoges",
+  "Global Rank": "1,258",
+  "Global Score": 33.1,
+  "State": "France"
+ },
+ {
+  "University": "Ataturk University",
+  "Global Rank": "1,261",
+  "Global Score": 33,
+  "State": "Turkey"
+ },
+ {
+  "University": "De Montfort University",
+  "Global Rank": "1,261",
+  "Global Score": 33,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Kangwon National University",
+  "Global Rank": "1,261",
+  "Global Score": 33,
+  "State": "South Korea"
+ },
+ {
+  "University": "Universidade Federal de Sergipe",
+  "Global Rank": "1,261",
+  "Global Score": 33,
+  "State": "Brazil"
+ },
+ {
+  "University": "Universite de Monastir",
+  "Global Rank": "1,261",
+  "Global Score": 33,
+  "State": "Tunisia"
+ },
+ {
+  "University": "Mersin University",
+  "Global Rank": "1,266",
+  "Global Score": 32.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Prince Sattam Bin Abdulaziz University",
+  "Global Rank": "1,266",
+  "Global Score": 32.9,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Universidad Publica de Navarra",
+  "Global Rank": "1,266",
+  "Global Score": 32.9,
+  "State": "Spain"
+ },
+ {
+  "University": "University of Augsburg",
+  "Global Rank": "1,266",
+  "Global Score": 32.9,
+  "State": "Germany"
+ },
+ {
+  "University": "University of Bradford",
+  "Global Rank": "1,266",
+  "Global Score": 32.9,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Eastern Virginia Medical School",
+  "Global Rank": "1,271",
+  "Global Score": 32.8,
+  "State": "United States"
+ },
+ {
+  "University": "University of Hyderabad",
+  "Global Rank": "1,271",
+  "Global Score": 32.8,
+  "State": "India"
+ },
+ {
+  "University": "Wilfrid Laurier University",
+  "Global Rank": "1,271",
+  "Global Score": 32.8,
+  "State": "Canada"
+ },
+ {
+  "University": "Worcester Polytechnic Institute",
+  "Global Rank": "1,271",
+  "Global Score": 32.8,
+  "State": "United States"
+ },
+ {
+  "University": "Hunter College (CUNY)",
+  "Global Rank": "1,275",
+  "Global Score": 32.7,
+  "State": "United States"
+ },
+ {
+  "University": "Istanbul University - Cerrahpasa",
+  "Global Rank": "1,275",
+  "Global Score": 32.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Nazarbayev University",
+  "Global Rank": "1,275",
+  "Global Score": 32.7,
+  "State": "Kazakhstan"
+ },
+ {
+  "University": "North Dakota State University Fargo",
+  "Global Rank": "1,275",
+  "Global Score": 32.7,
+  "State": "United States"
+ },
+ {
+  "University": "Taif University",
+  "Global Rank": "1,275",
+  "Global Score": 32.7,
+  "State": "Saudi Arabia"
+ },
+ {
+  "University": "Universidad Autonoma Metropolitana - Mexico",
+  "Global Rank": "1,275",
+  "Global Score": 32.7,
+  "State": "Mexico"
+ },
+ {
+  "University": "Nanjing University of Finance & Economics",
+  "Global Rank": "1,281",
+  "Global Score": 32.6,
+  "State": "China"
+ },
+ {
+  "University": "SRM Institute of Science & Technology Chennai",
+  "Global Rank": "1,281",
+  "Global Score": 32.6,
+  "State": "India"
+ },
+ {
+  "University": "Sunway University",
+  "Global Rank": "1,281",
+  "Global Score": 32.6,
+  "State": "Malaysia"
+ },
+ {
+  "University": "Universidade da Beira Interior",
+  "Global Rank": "1,281",
+  "Global Score": 32.6,
+  "State": "Portugal"
+ },
+ {
+  "University": "University of Tras-os-Montes & Alto Douro",
+  "Global Rank": "1,281",
+  "Global Score": 32.6,
+  "State": "Portugal"
+ },
+ {
+  "University": "University of Veterinary Medicine Hannover, Foundation",
+  "Global Rank": "1,281",
+  "Global Score": 32.6,
+  "State": "Germany"
+ },
+ {
+  "University": "Xi'an University of Technology",
+  "Global Rank": "1,281",
+  "Global Score": 32.6,
+  "State": "China"
+ },
+ {
+  "University": "Federation University Australia",
+  "Global Rank": "1,288",
+  "Global Score": 32.5,
+  "State": "Australia"
+ },
+ {
+  "University": "University of Puerto Rico Mayaguez",
+  "Global Rank": "1,288",
+  "Global Score": 32.5,
+  "State": "United States"
+ },
+ {
+  "University": "Technical University Freiberg",
+  "Global Rank": "1,290",
+  "Global Score": 32.4,
+  "State": "Germany"
+ },
+ {
+  "University": "Indian Institute of Technology (IIT BHU) - Varanasi",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "India"
+ },
+ {
+  "University": "Lakehead University",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "Canada"
+ },
+ {
+  "University": "Medical University Lodz",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "Poland"
+ },
+ {
+  "University": "Mendel University in Brno",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "Czech Republic"
+ },
+ {
+  "University": "Miami University",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "United States"
+ },
+ {
+  "University": "Saints Cyril & Methodius University of Skopje",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "North Macedonia"
+ },
+ {
+  "University": "Universidad Catolica del Norte",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "Chile"
+ },
+ {
+  "University": "Universidad de La Frontera",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "Chile"
+ },
+ {
+  "University": "University of Tulsa",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "United States"
+ },
+ {
+  "University": "Wenzhou Medical University",
+  "Global Rank": "1,291",
+  "Global Score": 32.3,
+  "State": "China"
+ },
+ {
+  "University": "Universidade Federal de Uberlandia",
+  "Global Rank": "1,301",
+  "Global Score": 32.2,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Baghdad",
+  "Global Rank": "1,301",
+  "Global Score": 32.2,
+  "State": "Iraq"
+ },
+ {
+  "University": "Conservatoire National Arts & Metiers (CNAM)",
+  "Global Rank": "1,303",
+  "Global Score": 32.1,
+  "State": "France"
+ },
+ {
+  "University": "Guizhou University",
+  "Global Rank": "1,303",
+  "Global Score": 32.1,
+  "State": "China"
+ },
+ {
+  "University": "Universidad de Antofagasta",
+  "Global Rank": "1,303",
+  "Global Score": 32.1,
+  "State": "Chile"
+ },
+ {
+  "University": "Universite Perpignan Via Domitia",
+  "Global Rank": "1,303",
+  "Global Score": 32.1,
+  "State": "France"
+ },
+ {
+  "University": "University of Gdansk",
+  "Global Rank": "1,303",
+  "Global Score": 32.1,
+  "State": "Poland"
+ },
+ {
+  "University": "Western Washington University",
+  "Global Rank": "1,303",
+  "Global Score": 32.1,
+  "State": "United States"
+ },
+ {
+  "University": "Henan Polytechnic University",
+  "Global Rank": "1,309",
+  "Global Score": 32,
+  "State": "China"
+ },
+ {
+  "University": "Karlstad University",
+  "Global Rank": "1,309",
+  "Global Score": 32,
+  "State": "Sweden"
+ },
+ {
+  "University": "Nanjing University of Chinese Medicine",
+  "Global Rank": "1,309",
+  "Global Score": 32,
+  "State": "China"
+ },
+ {
+  "University": "Tokyo University of Agriculture & Technology",
+  "Global Rank": "1,309",
+  "Global Score": 32,
+  "State": "Japan"
+ },
+ {
+  "University": "Wroclaw University of Science & Technology",
+  "Global Rank": "1,309",
+  "Global Score": 32,
+  "State": "Poland"
+ },
+ {
+  "University": "Centrale Lille",
+  "Global Rank": "1,314",
+  "Global Score": 31.9,
+  "State": "France"
+ },
+ {
+  "University": "Universidade Federal da Paraiba",
+  "Global Rank": "1,314",
+  "Global Score": 31.9,
+  "State": "Brazil"
+ },
+ {
+  "University": "Warsaw University of Life Sciences",
+  "Global Rank": "1,314",
+  "Global Score": 31.9,
+  "State": "Poland"
+ },
+ {
+  "University": "Aswan University",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "Egypt"
+ },
+ {
+  "University": "Goldsmiths University London",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Kingston University",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Ningbo University",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "China"
+ },
+ {
+  "University": "Sheffield Hallam University",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "United Kingdom"
+ },
+ {
+  "University": "Universidad de Almeria",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "Spain"
+ },
+ {
+  "University": "Universidade Federal de Lavras",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "Brazil"
+ },
+ {
+  "University": "University of Lodz",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "Poland"
+ },
+ {
+  "University": "University of South Alabama",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "United States"
+ },
+ {
+  "University": "University of Yazd",
+  "Global Rank": "1,317",
+  "Global Score": 31.8,
+  "State": "Iran"
+ },
+ {
+  "University": "Baqiyatallah University of Medical Sciences (BMSU)",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "Iran"
+ },
+ {
+  "University": "Beijing Technology & Business University",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "China"
+ },
+ {
+  "University": "Fahrenheit Universities",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "Poland"
+ },
+ {
+  "University": "Inha University",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "South Korea"
+ },
+ {
+  "University": "Linnaeus University",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "Sweden"
+ },
+ {
+  "University": "National Institute of Technology Rourkela",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "India"
+ },
+ {
+  "University": "Tiangong University",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "China"
+ },
+ {
+  "University": "Universite de Reims Champagne-Ardenne",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "France"
+ },
+ {
+  "University": "Universite Ferhat Abbas Setif",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "Algeria"
+ },
+ {
+  "University": "University of Rijeka",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "Croatia"
+ },
+ {
+  "University": "Western Michigan University",
+  "Global Rank": "1,327",
+  "Global Score": 31.7,
+  "State": "United States"
+ },
+ {
+  "University": "Ecole de Technologie Superieure - Canada",
+  "Global Rank": "1,338",
+  "Global Score": 31.6,
+  "State": "Canada"
+ },
+ {
+  "University": "Jacobs University",
+  "Global Rank": "1,338",
+  "Global Score": 31.6,
+  "State": "Germany"
+ },
+ {
+  "University": "Malmo University",
+  "Global Rank": "1,338",
+  "Global Score": 31.6,
+  "State": "Sweden"
+ },
+ {
+  "University": "Oslo Metropolitan University (OsloMet)",
+  "Global Rank": "1,338",
+  "Global Score": 31.6,
+  "State": "Norway"
+ },
+ {
+  "University": "University of the Philippines Diliman",
+  "Global Rank": "1,338",
+  "Global Score": 31.6,
+  "State": "Philippines"
+ },
+ {
+  "University": "Zurich University of Applied Sciences",
+  "Global Rank": "1,338",
+  "Global Score": 31.6,
+  "State": "Switzerland"
+ },
+ {
+  "University": "University of Chemistry & Technology, Prague",
+  "Global Rank": "1,344",
+  "Global Score": 31.5,
+  "State": "Czech Republic"
+ },
+ {
+  "University": "University of Lahore",
+  "Global Rank": "1,344",
+  "Global Score": 31.5,
+  "State": "Pakistan"
+ },
+ {
+  "University": "Ehime University",
+  "Global Rank": "1,346",
+  "Global Score": 31.4,
+  "State": "Japan"
+ },
+ {
+  "University": "Universidade Federal do Para",
+  "Global Rank": "1,346",
+  "Global Score": 31.4,
+  "State": "Brazil"
+ },
+ {
+  "University": "Universite de Haute-Alsace (UHA)",
+  "Global Rank": "1,346",
+  "Global Score": 31.4,
+  "State": "France"
+ },
+ {
+  "University": "University of Agder",
+  "Global Rank": "1,346",
+  "Global Score": 31.4,
+  "State": "Norway"
+ },
+ {
+  "University": "Indian Statistical Institute Kolkata",
+  "Global Rank": "1,350",
+  "Global Score": 31.3,
+  "State": "India"
+ },
+ {
+  "University": "Kagoshima University",
+  "Global Rank": "1,350",
+  "Global Score": 31.3,
+  "State": "Japan"
+ },
+ {
+  "University": "Shiraz University of Technology",
+  "Global Rank": "1,350",
+  "Global Score": 31.3,
+  "State": "Iran"
+ },
+ {
+  "University": "Thammasat University",
+  "Global Rank": "1,350",
+  "Global Score": 31.3,
+  "State": "Thailand"
+ },
+ {
+  "University": "Homi Bhabha National Institute",
+  "Global Rank": "1,354",
+  "Global Score": 31.2,
+  "State": "India"
+ },
+ {
+  "University": "Pontificia Universidade Catolica do Parana",
+  "Global Rank": "1,354",
+  "Global Score": 31.2,
+  "State": "Brazil"
+ },
+ {
+  "University": "Zhejiang Sci-Tech University",
+  "Global Rank": "1,354",
+  "Global Score": 31.2,
+  "State": "China"
+ },
+ {
+  "University": "Fujita Health University",
+  "Global Rank": "1,357",
+  "Global Score": 31.1,
+  "State": "Japan"
+ },
+ {
+  "University": "Taiyuan University of Technology",
+  "Global Rank": "1,357",
+  "Global Score": 31.1,
+  "State": "China"
+ },
+ {
+  "University": "University of Missouri Saint Louis",
+  "Global Rank": "1,357",
+  "Global Score": 31.1,
+  "State": "United States"
+ },
+ {
+  "University": "University of Toyama",
+  "Global Rank": "1,357",
+  "Global Score": 31.1,
+  "State": "Japan"
+ },
+ {
+  "University": "Hacettepe Üniversitesi",
+  "Global Rank": "1,358",
+  "Global Score": 31,
+  "State": "Turkey"
+ },
+ {
+  "University": "ODTÜ",
+  "Global Rank": "1,359",
+  "Global Score": 30.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "İTÜ",
+  "Global Rank": "1,360",
+  "Global Score": 30.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Üniversitesi",
+  "Global Rank": "1,361",
+  "Global Score": 30.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Koç Üniversitesi",
+  "Global Rank": "1,362",
+  "Global Score": 30.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "Gazi Üniversitesi",
+  "Global Rank": "1,363",
+  "Global Score": 30.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Ankara Üniversitesi",
+  "Global Rank": "1,364",
+  "Global Score": 30.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Gebze Teknik Üniversitesi",
+  "Global Rank": "1,365",
+  "Global Score": 30.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "İhsan Doğramacı Bilkent Üniversitesi",
+  "Global Rank": "1,366",
+  "Global Score": 30.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Ege Üniversitesi",
+  "Global Rank": "1,367",
+  "Global Score": 30.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Boğaziçi Üniversitesi",
+  "Global Rank": "1,368",
+  "Global Score": 30,
+  "State": "Turkey"
+ },
+ {
+  "University": "Sabancı Üniversitesi",
+  "Global Rank": "1,369",
+  "Global Score": 29.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Yıldız Teknik Üniversitesi",
+  "Global Rank": "1,370",
+  "Global Score": 29.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Atatürk Üniversitesi",
+  "Global Rank": "1,371",
+  "Global Score": 29.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Marmara Üniversitesi",
+  "Global Rank": "1,372",
+  "Global Score": 29.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Üniversitesi Cerrahpaşa",
+  "Global Rank": "1,373",
+  "Global Score": 29.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Dokuz Eylül Üniversitesi",
+  "Global Rank": "1,374",
+  "Global Score": 29.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Erciyes Üniversitesi",
+  "Global Rank": "1,375",
+  "Global Score": 29.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Selçuk Üniversitesi",
+  "Global Rank": "1,376",
+  "Global Score": 29.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Karadeniz Teknik Üniversitesi",
+  "Global Rank": "1,377",
+  "Global Score": 29.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bezmialem Vakıf Üniversitesi",
+  "Global Rank": "1,378",
+  "Global Score": 29,
+  "State": "Turkey"
+ },
+ {
+  "University": "İzmir Yüksek Teknoloji Ensititüsü",
+  "Global Rank": "1,379",
+  "Global Score": 28.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Çukurova Üniversitesi",
+  "Global Rank": "1,380",
+  "Global Score": 28.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Fırat Üniversitesi",
+  "Global Rank": "1,381",
+  "Global Score": 28.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Eskişehir Osmangazi Üniversitesi",
+  "Global Rank": "1,382",
+  "Global Score": 28.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "Sakarya Üniversitesi",
+  "Global Rank": "1,383",
+  "Global Score": 28.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Akdeniz Üniversitesi",
+  "Global Rank": "1,384",
+  "Global Score": 28.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Anadolu Üniversitesi",
+  "Global Rank": "1,385",
+  "Global Score": 28.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bursa Uludağ Üniversitesi",
+  "Global Rank": "1,386",
+  "Global Score": 28.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Süleyman Demirel Üniversitesi",
+  "Global Rank": "1,387",
+  "Global Score": 28.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "19 Mayıs Üniversitesi",
+  "Global Rank": "1,388",
+  "Global Score": 28,
+  "State": "Turkey"
+ },
+ {
+  "University": "32. Çankaya Üniversitesi",
+  "Global Rank": "1,389",
+  "Global Score": 27.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "33. İnönü Üniversitesi",
+  "Global Rank": "1,390",
+  "Global Score": 27.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "34. Ankara Yıldırım Beyazıt Üniversitesi",
+  "Global Rank": "1,391",
+  "Global Score": 27.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "35. Van 100.yıl Üniversitesi",
+  "Global Rank": "1,392",
+  "Global Score": 27.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "36. Abdullah Gül Üniversitesi",
+  "Global Rank": "1,393",
+  "Global Score": 27.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "37. Gaziantep Üniversitesi",
+  "Global Rank": "1,394",
+  "Global Score": 27.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "38. Kocaeli Üniversitesi",
+  "Global Rank": "1,395",
+  "Global Score": 27.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "39. İzmir Kâtip Çelebi Üniversitesi",
+  "Global Rank": "1,396",
+  "Global Score": 27.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "40. İstanbul Medeniyet Üniversitesi",
+  "Global Rank": "1,397",
+  "Global Score": 27.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Acıbadem Mehmet Ali Aydınlar",
+  "Global Rank": "1,398",
+  "Global Score": 27,
+  "State": "Turkey"
+ },
+ {
+  "University": "Başkent Üniversitesi",
+  "Global Rank": "1,399",
+  "Global Score": 26.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Pamukkale Üniversitesi",
+  "Global Rank": "1,400",
+  "Global Score": 26.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Manisa Celal Bayar Üniversitesi",
+  "Global Rank": "1,401",
+  "Global Score": 26.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Mersin Üniversitesi",
+  "Global Rank": "1,402",
+  "Global Score": 26.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "TOBB Ekonomi ve Teknoloji Üniversitesi",
+  "Global Rank": "1,403",
+  "Global Score": 26.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bolu Abant İzzet Baysal Üniversitesi",
+  "Global Rank": "1,404",
+  "Global Score": 26.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Dicle Üniversitesi",
+  "Global Rank": "1,405",
+  "Global Score": 26.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Yeditepe Üniversitesi",
+  "Global Rank": "1,406",
+  "Global Score": 26.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Necmettin Erbakan Üniversitesi",
+  "Global Rank": "1,407",
+  "Global Score": 26.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Atılım Üniversitesi",
+  "Global Rank": "1,408",
+  "Global Score": 26,
+  "State": "Turkey"
+ },
+ {
+  "University": "Çanakkale 18 Mart Üniversitesi",
+  "Global Rank": "1,409",
+  "Global Score": 25.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Muğla Sıtkı Koçman Üniversitesi",
+  "Global Rank": "1,410",
+  "Global Score": 25.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Tokat Gaziosmanpaşa Üniversitesi",
+  "Global Rank": "1,411",
+  "Global Score": 25.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Düzce Üniversitesi",
+  "Global Rank": "1,412",
+  "Global Score": 25.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "Kırıkkale Üniversitesi",
+  "Global Rank": "1,413",
+  "Global Score": 25.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Hitit Üniversitesi",
+  "Global Rank": "1,414",
+  "Global Score": 25.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Sivas Cumhuriyet Üniversitesi",
+  "Global Rank": "1,415",
+  "Global Score": 25.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Recep Tayyip Erdoğan Üniversitesi",
+  "Global Rank": "1,416",
+  "Global Score": 25.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Özyeğin Üniversitesi",
+  "Global Rank": "1,417",
+  "Global Score": 25.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Aydın Adnan Menderes Üniversitesi",
+  "Global Rank": "1,418",
+  "Global Score": 25,
+  "State": "Turkey"
+ },
+ {
+  "University": "Harran Üniversitesi",
+  "Global Rank": "1,419",
+  "Global Score": 24.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Karabük Üniversitesi",
+  "Global Rank": "1,420",
+  "Global Score": 24.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "Global Rank": "1,421",
+  "Global Score": 24.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Afyon Kocatepe Üniversitesi",
+  "Global Rank": "1,422",
+  "Global Score": 24.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Medipol Üniversitesi",
+  "Global Rank": "1,423",
+  "Global Score": 24.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Niğde Ömer Halis Demir Üniversitesi",
+  "Global Rank": "1,424",
+  "Global Score": 24.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Zonguldak Bülent Ecevit Üniversitesi",
+  "Global Rank": "1,425",
+  "Global Score": 24.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bingöl Üniversitesi",
+  "Global Rank": "1,426",
+  "Global Score": 24.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi",
+  "Global Rank": "1,427",
+  "Global Score": 24.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bursa Teknik Üniversitesi",
+  "Global Rank": "1,428",
+  "Global Score": 24,
+  "State": "Turkey"
+ },
+ {
+  "University": "Balıkesir Üniversitesi",
+  "Global Rank": "1,429",
+  "Global Score": 23.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Kastamonu Üniversitesi",
+  "Global Rank": "1,430",
+  "Global Score": 23.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Hatay Mustafa Kemal Üniversitesi",
+  "Global Rank": "1,431",
+  "Global Score": 23.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Galatasaray Üniversitesi",
+  "Global Rank": "1,432",
+  "Global Score": 23.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "Tekirdağ Namık Kemal Üniversitesi",
+  "Global Rank": "1,433",
+  "Global Score": 23.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Trakya Üniversitesi",
+  "Global Rank": "1,434",
+  "Global Score": 23.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Yozgat Bozok Üniversitesi",
+  "Global Rank": "1,435",
+  "Global Score": 23.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Erzurum Teknik Üniversitesi",
+  "Global Rank": "1,436",
+  "Global Score": 23.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bahçeşehir Üniversitesi",
+  "Global Rank": "1,437",
+  "Global Score": 23.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Adıyaman Üniversitesi",
+  "Global Rank": "1,438",
+  "Global Score": 23,
+  "State": "Turkey"
+ },
+ {
+  "University": "Aksaray Üniversitesi",
+  "Global Rank": "1,439",
+  "Global Score": 22.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Ordu Üniversitesi",
+  "Global Rank": "1,440",
+  "Global Score": 22.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Munzur Üniversitesi",
+  "Global Rank": "1,441",
+  "Global Score": 22.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Arel Üniversitesi",
+  "Global Rank": "1,442",
+  "Global Score": 22.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "Kütahya Dumlupınar Üniversitesi",
+  "Global Rank": "1,443",
+  "Global Score": 22.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Çankırı Karatekin Üniversitesi",
+  "Global Rank": "1,444",
+  "Global Score": 22.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "İskenderun Teknik Üniversitesi",
+  "Global Rank": "1,445",
+  "Global Score": 22.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Yalova Üniversitesi",
+  "Global Rank": "1,446",
+  "Global Score": 22.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Sinop Üniversitesi",
+  "Global Rank": "1,447",
+  "Global Score": 22.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bartın Üniversitesi",
+  "Global Rank": "1,448",
+  "Global Score": 22,
+  "State": "Turkey"
+ },
+ {
+  "University": "Erzincan Binali Üniversitesi",
+  "Global Rank": "1,449",
+  "Global Score": 21.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Kadir Has Üniversitesi",
+  "Global Rank": "1,450",
+  "Global Score": 21.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Karamanoğlu Mehmet Bey Üniversitesi",
+  "Global Rank": "1,451",
+  "Global Score": 21.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Giresun Üniversitesi",
+  "Global Rank": "1,452",
+  "Global Score": 21.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "Yaşar Üniversitesi",
+  "Global Rank": "1,453",
+  "Global Score": 21.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Kırşehir Ahi Evran Üniversitesi",
+  "Global Rank": "1,454",
+  "Global Score": 21.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "İzmir Ekonomi Üniversitesi",
+  "Global Rank": "1,455",
+  "Global Score": 21.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "99. Kafkas Üniversitesi",
+  "Global Rank": "1,456",
+  "Global Score": 21.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Demiroğlu Bilim Üniversitesi",
+  "Global Rank": "1,457",
+  "Global Score": 21.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Nevşehir Hacıbektaş veli Üniversitesi",
+  "Global Rank": "1,458",
+  "Global Score": 21,
+  "State": "Turkey"
+ },
+ {
+  "University": "Doğuş Üniversitesi",
+  "Global Rank": "1,459",
+  "Global Score": 20.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Gümüşhane Üniversitesi",
+  "Global Rank": "1,460",
+  "Global Score": 20.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Altınbaş Üniversitesi",
+  "Global Rank": "1,461",
+  "Global Score": 20.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bilecik Şeyh Edebali Üniversitesi",
+  "Global Rank": "1,462",
+  "Global Score": 20.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bayburt Üniversitesi",
+  "Global Rank": "1,463",
+  "Global Score": 20.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Bilgi Üniversitesi",
+  "Global Rank": "1,464",
+  "Global Score": 20.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Osmaniye Korkut Ata Üniversitesi",
+  "Global Rank": "1,465",
+  "Global Score": 20.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Siirt Üniversitesi",
+  "Global Rank": "1,466",
+  "Global Score": 20.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Bitlis Eren Üniversitesi",
+  "Global Rank": "1,467",
+  "Global Score": 20.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Uşak Üniversitesi",
+  "Global Rank": "1,468",
+  "Global Score": 20,
+  "State": "Turkey"
+ },
+ {
+  "University": "Hasan Kalyoncu Üniversitesi",
+  "Global Rank": "1,469",
+  "Global Score": 19.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Iğdır Üniversitesi",
+  "Global Rank": "1,470",
+  "Global Score": 19.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Burdur Mehmet Ali Ersoy",
+  "Global Rank": "1,471",
+  "Global Score": 19.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Üsküdar Üniversitesi",
+  "Global Rank": "1,472",
+  "Global Score": 19.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Okan Üniversitesi",
+  "Global Rank": "1,473",
+  "Global Score": 19.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Konya Gıda ve Tarım Üniversitesi",
+  "Global Rank": "1,474",
+  "Global Score": 19.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Türk Hava Kurumu Üniversitesi",
+  "Global Rank": "1,475",
+  "Global Score": 19.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Ağrı İbrahim Çeçen Üniversitesi",
+  "Global Rank": "1,476",
+  "Global Score": 19.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Antalya Bilim Üniversitesi",
+  "Global Rank": "1,477",
+  "Global Score": 19.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Batman Üniversitesi",
+  "Global Rank": "1,478",
+  "Global Score": 19,
+  "State": "Turkey"
+ },
+ {
+  "University": "Artvin Çoruh Üniversitesi",
+  "Global Rank": "1,479",
+  "Global Score": 18.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "Işık Üniversitesi",
+  "Global Rank": "1,480",
+  "Global Score": 18.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Amasya Üniversitesi",
+  "Global Rank": "1,481",
+  "Global Score": 18.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Ardahan Üniversitesi",
+  "Global Rank": "1,482",
+  "Global Score": 18.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "Muş Alparslan Üniversitesi",
+  "Global Rank": "1,483",
+  "Global Score": 18.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Kilis 7 Aralık Üniversitesi",
+  "Global Rank": "1,484",
+  "Global Score": 18.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Piri Reis Üniversitesi",
+  "Global Rank": "1,485",
+  "Global Score": 18.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Ticaret Üniversitesi",
+  "Global Rank": "1,486",
+  "Global Score": 18.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Çağ Üniversitesi",
+  "Global Rank": "1,487",
+  "Global Score": 18.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "TED Üniversitesi",
+  "Global Rank": "1,488",
+  "Global Score": 18,
+  "State": "Turkey"
+ },
+ {
+  "University": "Maltepe Üniversitesi",
+  "Global Rank": "1,489",
+  "Global Score": 17.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Aydın Üniversitesi",
+  "Global Rank": "1,490",
+  "Global Score": 17.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "Global Rank": "1,491",
+  "Global Score": 17.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Sağlık Bilimleri Üniversitesi",
+  "Global Rank": "1,492",
+  "Global Score": 17.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "İbn Haldun Üniversitesi",
+  "Global Rank": "1,493",
+  "Global Score": 17.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "Hakkâri Üniversitesi",
+  "Global Rank": "1,494",
+  "Global Score": 17.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Biruni Üniversitesi",
+  "Global Rank": "1,495",
+  "Global Score": 17.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "MEF Üniversitesi",
+  "Global Rank": "1,496",
+  "Global Score": 17.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Kültür Üniversitesi",
+  "Global Rank": "1,497",
+  "Global Score": 17.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Beykent Üniversitesi",
+  "Global Rank": "1,498",
+  "Global Score": 17,
+  "State": "Turkey"
+ },
+ {
+  "University": "Ufuk Üniversitesi",
+  "Global Rank": "1,499",
+  "Global Score": 16.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "KTO Karatay Üniversitesi",
+  "Global Rank": "1,500",
+  "Global Score": 16.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Gelişim Üniversitesi",
+  "Global Rank": "1,501",
+  "Global Score": 16.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Yüksek İhtisas Üniversitesi",
+  "Global Rank": "1,502",
+  "Global Score": 16.6,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstinye Üniversitesi",
+  "Global Rank": "1,503",
+  "Global Score": 16.5,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Sabahattin Zaim Üniversitesi",
+  "Global Rank": "1,504",
+  "Global Score": 16.4,
+  "State": "Turkey"
+ },
+ {
+  "University": "Sanko Üniversitesi",
+  "Global Rank": "1,505",
+  "Global Score": 16.3,
+  "State": "Turkey"
+ },
+ {
+  "University": "Ankara Sosyal Bilimler Üniversitesi",
+  "Global Rank": "1,506",
+  "Global Score": 16.2,
+  "State": "Turkey"
+ },
+ {
+  "University": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+  "Global Rank": "1,507",
+  "Global Score": 16.1,
+  "State": "Turkey"
+ },
+ {
+  "University": "Türk Alman Üniversitesi",
+  "Global Rank": "1,508",
+  "Global Score": 16,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Yeni Yüzyıl Üniversitesi",
+  "Global Rank": "1,509",
+  "Global Score": 15.9,
+  "State": "Turkey"
+ },
+ {
+  "University": "İstanbul Gedik Üniversitesi",
+  "Global Rank": "1,510",
+  "Global Score": 15.8,
+  "State": "Turkey"
+ },
+ {
+  "University": "Kırklareli Üniversitesi",
+  "Global Rank": "1,511",
+  "Global Score": 15.7,
+  "State": "Turkey"
+ },
+ {
+  "University": "Alanya Alaaddin Keykubat Üniversitesi",
+  "Global Rank": "1,512",
+  "Global Score": 15.6,
+  "State": "Turkey"
+ }
+]

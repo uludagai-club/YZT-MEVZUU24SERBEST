@@ -1,0 +1,10 @@
+{
+    "tr":{
+        "Model":"savasy/bert-base-turkish-ner-cased",
+        "Tokenizer":"savasy/bert-base-turkish-ner-cased"
+    },
+    "en":{
+        "Model":"dslim/bert-base-NER",
+        "Tokenizer":"dslim/bert-base-NER"
+    }
+}
