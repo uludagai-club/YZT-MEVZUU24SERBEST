@@ -132,4 +132,3 @@ class RectangleCalculator:
     
 #     pdf_to_image=Pdf_to_image("docs/resumes/blank.pdf")
 #     pages=pdf_to_image.get_pages()
-    

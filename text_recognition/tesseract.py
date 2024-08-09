@@ -339,4 +339,3 @@ class Tesseract:
                     pass
                 
                 self.results[page_index]["bigger_sections"][index]["rectangle_text"]=f"{text1} {text2} {text3}"
-                    
