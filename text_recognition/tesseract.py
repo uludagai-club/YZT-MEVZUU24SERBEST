@@ -277,9 +277,14 @@ class Tesseract:
                 self.results[page_index]["bigger_sections"][index]=my_rectangle_calculator.sections[index]
             
     def rectangle_to_text(self):
+        
         import shutil
-        shutil.rmtree("crops")
-        os.makedirs("crops")
+        try:
+            shutil.rmtree("crops")
+        except:
+            pass
+        finally:
+            os.makedirs("crops")
         
         for page_index in self.results:
             for index in self.results[page_index]["bigger_sections"]:

@@ -1,5 +1,7 @@
 import re
 import tldextract
+import json
+import fuzzywuzzy.fuzz as fuzz
 
 class TextExtractor:
     def __init__(self):
@@ -7,6 +9,9 @@ class TextExtractor:
         self.phone_regex = re.compile(r"(?<!\d)(\+90|0)?\s*(\(\d{3}\)[\s-]*\d{3}[\s-]*\d{2}[\s-]*\d{2}|\(\d{3}\)[\s-]*\d{3}[\s-]*\d{4}|\(\d{3}\)[\s-]*\d{7}|\d{3}[\s-]*\d{3}[\s-]*\d{4}|\d{3}[\s-]*\d{3}[\s-]*\d{2}[\s-]*\d{2})(?!\d)")
 
         self.extractor = tldextract.TLDExtract()
+        self.universities={}
+        with open("utils/universities.json","r",encoding="utf-8") as f:
+            self.universities = json.load(f)
 
     def extract_emails(self, text):
         emails = self.email_regex.findall(text)
@@ -28,3 +33,17 @@ class TextExtractor:
             second_part = re.sub(r"\D", "", phone[1])  # Remove non-digit characters
             formatted_phones.append(second_part)
         return formatted_phones
+    
+    def extract_university(self,text,threshold=0.80):
+        for item in self.universities:
+            university_name = item['University']
+            similarity = fuzz.ratio(text, university_name) / 100
+            if similarity >= threshold:
+                return item
+            
+            for university_part in university_name.split(" "):
+                similarity = fuzz.ratio(text, university_part) / 100
+                if similarity >= threshold:
+                    return item
+        return None
+        
