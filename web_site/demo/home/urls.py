@@ -9,7 +9,7 @@ urlpatterns = [
     path("", views.home, name='home'),
     path("home/", views.home, name='home'),
     path('save_pdfs/', views.save_uploaded_pdfs, name='save_pdfs'),
+    path('evaluation/', views.save_uploaded_pdfs, name='evaluation'),
     path("home/home.html", views.home, name='home'),
-    path("upload_file/", views.upload_file, name='upload_file'),
-    path("home.html", views.home, name='home')
-]
+    path('upload/', views.upload_file, name='upload_file')
+]   

@@ -25,6 +25,7 @@ class KeyValueExtractor:
         emails=[]
         domains=[]
         phones=[]
+        universities=[]
         for field, pattern in self.patterns.items():
             for page_index in self.tesseract.results:
                 for section_index in self.tesseract.results[page_index]["sections"]:
@@ -33,16 +34,21 @@ class KeyValueExtractor:
                     email=self.my_extractor.extract_emails(text=text)
                     domain=self.my_extractor.extract_domains(text=text)
                     phone=self.my_extractor.extract_phone_numbers(text=text)
+                    university=self.my_extractor.extract_university(text=text)
+                    
                     
                     emails.extend([x for x in email if x not in emails])
                     domains.extend([x for x in domain if x not in domains])
                     phones.extend([x for x in phone if x not in phones])
+                    if university!=None:
+                        universities.extend(university)
                     
                     match = re.search(pattern, text, re.IGNORECASE)
 
         self.tesseract.results["emails"]=emails
         self.tesseract.results["domains"]=domains
         self.tesseract.results["phones"]=phones
+        self.tesseract.results["universities"]=phones
         
 
 

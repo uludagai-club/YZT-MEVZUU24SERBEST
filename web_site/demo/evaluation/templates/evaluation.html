@@ -21,8 +21,8 @@
             font-size: 15px;
             transition: 0.4s;
             width: 100%;
-            max-width: 400px; /* Limiting width */
-            border-radius: 10px; /* Rounded corners */
+            max-width: 400px; 
+            border-radius: 10px; 
         }
 
         .active, .accordion:hover {
@@ -34,8 +34,8 @@
             display: none;
             background-color: white;
             overflow: hidden;
-            border-radius: 10px; /* Rounded corners */
-            text-align: left; /* Align text to the left */
+            border-radius: 10px; 
+            text-align: left; 
         }
 
         .panel.show {
@@ -57,28 +57,28 @@
 
         .wrapper {
             display: flex;
-            flex-direction: column; /* Dikey yönde sıralama */
+            flex-direction: column; 
             align-items: center;
             justify-content: center;
-            height: calc(100% - 100px); /* Sayfanın yüksekliğinin %100'ünden 100px çıkarma */
+            height: calc(100% - 100px);
         }
 
         table {
             border-collapse: collapse;
-            width: 400px; /* Tablo genişliği */
-            margin-bottom: 30px; /* Alt kısma olan mesafe */
-            background-color: #fff; /* Tablo arka plan rengi */
-            border: 2px solid #2590EB; /* Tablo çerçeve rengi */
-            border-radius: 10px; /* Rounded corners */
+            width: 400px; 
+            margin-bottom: 30px; 
+            background-color: #fff; 
+            border: 2px solid #2590EB; 
+            border-radius: 10px;
         }
 
         td {
-            padding: 10px; /* Hücre içeriğiyle çerçeve arasındaki boşluk */
-            text-align: center; /* Hücre içeriğinin ortalanması */
+            padding: 10px; 
+            text-align: center; 
         }
 
         .fa {
-            color: #2590EB; /* Font Awesome simgelerinin rengi */
+            color: #2590EB;
             font-size: 60px;
         }
     </style>
@@ -86,30 +86,49 @@
 <body>
     <h1>Mevzuu Resume Checker</h1>
     <div class="wrapper">
-        <table border="1" id="dataTable">
-            <!-- Table will be populated dynamically -->
+        <!-- Tablo oluştur -->
+        <table border="1">
+            <tr>
+                <td>Key</td>
+                <td>Value</td>
+            </tr>
+            <!-- Django'dan gelen tablo verilerini döngüyle ekle -->
+            {% for key, value in table_data.items %}
+            <tr>
+                <td>{{ key }}</td>
+                <td>{{ value }}</td>
+            </tr>
+            {% endfor %}
         </table>
+        
+        <!-- Akordiyonlar dinamik olarak oluşturulacak -->
+        <div id="accordionContainer" class="accordion-container">
+            <!-- Django'dan gelen akordiyon başlıkları ve içeriklerini döngüyle ekle -->
+            {% for title, content in accordion_data.items %}
+            <button class="accordion">{{ title }}</button>
+            <div class="panel">
+                <p>{{ content }}</p>
+            </div>
+            {% endfor %}
+        </div>
     </div>
-    <ul>
-        {% for key, value in data.items %}
-            <li>{{ key }}: {{ value }}</li>
-        {% endfor %}
-    </ul>
-    <script>
-        const tableData = {
-            "University":"aaaaaa",
-            "asdasdasd":"vdbfdgbfgbfg",
-            "Eti":"Django"
-        };
 
-        const table = document.getElementById("dataTable");
-        for (const [key, value] of Object.entries(tableData)) {
-            const row = table.insertRow();
-            const cell1 = row.insertCell(0);
-            const cell2 = row.insertCell(1);
-            cell1.textContent = key;
-            cell2.textContent = value;
-        };
+    <script>
+        // Akordiyon butonlarına tıklandığında açma/kapama işlemlerini gerçekleştir
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+
+        for (i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var panel = this.nextElementSibling;
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                } else {
+                    panel.style.display = "block";
+                }
+            });
+        }
     </script>
 </body>
 </html>

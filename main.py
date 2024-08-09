@@ -60,7 +60,3 @@ class Operator:
                        print()
                 pass
         
-operator=Operator(file_path="docs/resumes/tr/cv t.pdf")
-operator.do_tesseract_parts()
-operator.get_contact_infos()
-operator.get_university()
