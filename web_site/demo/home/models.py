@@ -1,5 +1,4 @@
 from django.db import models
-from home.utils import savePdf
 
 class Document(models.Model):
     name = models.CharField(max_length=255)

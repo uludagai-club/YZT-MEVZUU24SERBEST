@@ -6,8 +6,9 @@ import fuzzywuzzy.fuzz as fuzz
 class TextExtractor:
     def __init__(self):
         self.email_regex = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,3}")
-        self.phone_regex = re.compile(r"(?<!\d)(\+90|0)?\s*(\(\d{3}\)[\s-]*\d{3}[\s-]*\d{2}[\s-]*\d{2}|\(\d{3}\)[\s-]*\d{3}[\s-]*\d{4}|\(\d{3}\)[\s-]*\d{7}|\d{3}[\s-]*\d{3}[\s-]*\d{4}|\d{3}[\s-]*\d{3}[\s-]*\d{2}[\s-]*\d{2})(?!\d)")
-
+        self.phone_regex = re.compile(r"(?<!\d)(\+90|0)?\s*(\(\d{3}\)[\s-]\d{3}[\s-]\d{2}[\s-]\d{2}|\(\d{3}\)[\s-]\d{3}[\s-]\d{4}|\(\d{3}\)[\s-]\d{7}|\d{3}[\s-]\d{3}[\s-]\d{4}|\d{3}[\s-]\d{3}[\s-]\d{2}[\s-]*\d{2})(?!\d)")
+        self.universities_parts=["University","Üniversite"]
+        
         self.extractor = tldextract.TLDExtract()
         self.universities={}
         with open("utils/universities.json","r",encoding="utf-8") as f:
@@ -45,5 +46,18 @@ class TextExtractor:
                 similarity = fuzz.ratio(text, university_part) / 100
                 if similarity >= threshold:
                     return item
+
+            seperated_texts=text.split(" ")
+            for seperated_text in seperated_texts:
+                for universities_part in self.universities_parts:
+                    similarity = fuzz.ratio(universities_part, seperated_text) / 100
+                    if similarity >= threshold:
+                        return  {
+                            "University": text,
+                            "Global Rank": None,
+                            "Global Score": None,
+                            "State": None
+                            }
+                
+            
         return None
-        

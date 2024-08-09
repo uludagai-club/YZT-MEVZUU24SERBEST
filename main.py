@@ -2,7 +2,7 @@ from text_recognition.tesseract import Tesseract
 from data_extraction.key_value_extraction import KeyValueExtractor
 from utils.pdf_to_text import pdf_to_text
 
-class Operator:
+class Tesseract_Operator:
     
     def __init__(self,file_path,teseract_path=r'C:\Program Files\Tesseract-OCR\tesseract.exe'):
         self.tesseract_path = teseract_path
@@ -24,16 +24,11 @@ class Operator:
         
         self.tesseract.get_rectangles()
         self.tesseract.rectangle_to_text()
-        print("aaa")
-
     
     def get_contact_infos(self):
         self.key_value_extractor=KeyValueExtractor(self.tesseract)
         self.key_value_extractor.extract_info()
-        
-    def get_university(self):
-        print("aaa")
-        pass
+
     
     def check_sections_and_line(self):
         self.file_content = pdf_to_text(self.pdf_file_path)
@@ -59,4 +54,3 @@ class Operator:
                    if len(similarity_results)!=0:
                        print()
                 pass
-        

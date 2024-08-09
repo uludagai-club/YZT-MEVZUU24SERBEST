@@ -41,14 +41,15 @@ class KeyValueExtractor:
                     domains.extend([x for x in domain if x not in domains])
                     phones.extend([x for x in phone if x not in phones])
                     if university!=None:
-                        universities.extend(university)
+                        if university not in universities:
+                            universities.extend([university])
                     
                     match = re.search(pattern, text, re.IGNORECASE)
 
         self.tesseract.results["emails"]=emails
         self.tesseract.results["domains"]=domains
         self.tesseract.results["phones"]=phones
-        self.tesseract.results["universities"]=phones
+        self.tesseract.results["universities"]=universities
         
 
 

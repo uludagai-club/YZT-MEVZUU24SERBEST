@@ -14,7 +14,7 @@ sys.path.append(parent_dir)
 sys.path.append(up_parent_dir)
 sys.path.append(up2_parent_dir)
 
-from main import Operator
+from main import Tesseract_Operator
 
 def home(request):
     if request.method == 'POST':
@@ -23,7 +23,7 @@ def home(request):
             file = request.FILES['file']
             file_path = upload_file(file)
             
-            operator=Operator(file_path=file_path)
+            operator=Tesseract_Operator(file_path=file_path)
             operator.do_tesseract_parts()
             operator.get_contact_infos()
             operator.get_university()
